@@ -1,3 +1,21 @@
+# Hoops Paper Lab
+
+> **Private repo:** https://github.com/LeChiffree/hoops-paper-lab
+> **Dashboard:** [`dashboard.html`](dashboard.html) — tek dosya, çevrimdışı
+> 2009–2026 AiScore arşivi · ev sahibi 1-2 oranı 2.25–4.00 · 250 TL paper bet · çoklu lig analizi
+
+## Hızlı başlangıç
+
+- `dashboard.html` — çift tıkla; Genel Özet / Analist Önerisi / Worst Case sekmeleri.
+- `paper_bets_250.csv` — eski veri (48.241 maç), `paper_bets_2627.csv` — 26/27 (605 maç).
+- `aiscore_all_matches_final.csv` — 608.833 maçlık tam arşiv (LFS).
+- `data.sqlite3` — 132.978 maçlık ham veritabanı (LFS).
+- `yillik_en_iyi_10_lig.md` — 2018–2026 yıllık en iyi 10 lig raporu.
+
+> LFS dosyaları için: `git lfs pull`
+
+---
+
 # Basketbol 1X2 — Ev Sahibi 2.25–4.00 Backtest
 
 35 lig · 10 sezon (2016/17–2025/26) · kapanış oranları · 10.000 TL sabit bahis.
