@@ -11,7 +11,9 @@
 - `aiscore_all_matches_final.csv` — 608.833 maçlık tam arşiv (LFS).
 - `data.sqlite3` — 132.978 maçlık ham veritabanı (LFS).
 - `yillik_en_iyi_10_lig.md` — 2018–2026 yıllık en iyi 10 lig raporu.
+- `DATA.md` — ham günlük arşiv (Release) ve veri sözlüğü.
 
+> Ham günlük arşiv (6.241 gün, 101,5 MB sıkıştırılmış): [Release `data-v1`](https://github.com/LeChiffree/hoops-paper-lab/releases/tag/data-v1)
 > LFS dosyaları için: `git lfs pull`
 
 ---

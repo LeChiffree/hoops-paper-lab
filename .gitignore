@@ -4,6 +4,7 @@ aiscore_all_matches.csv
 aiscore_all_matches_fixed.csv
 
 # --- geçici ---
+_archive/
 _debug/
 __pycache__/
 *.pyc
