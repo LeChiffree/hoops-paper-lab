@@ -1,0 +1,734 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Hoops Paper Lab — Ev Sahibi 2.25–4.00</title>
+<style>
+:root{
+  --bg:#070b14; --panel:#0d1524; --panel2:#111c30; --line:#1d2a44;
+  --text:#e8eef9; --muted:#8ba0c2; --accent:#22d3ee; --accent2:#14b8a6;
+  --green:#34d399; --red:#fb7185; --gold:#fbbf24;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:radial-gradient(1200px 700px at 15% -10%,#10243a 0%,var(--bg) 55%);color:var(--text);
+  font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;font-size:14px}
+.app{display:flex;min-height:100vh}
+.side{width:310px;flex:0 0 310px;background:rgba(10,17,30,.94);border-right:1px solid var(--line);
+  position:sticky;top:0;height:100vh;display:flex;flex-direction:column;backdrop-filter:blur(8px)}
+.brand{padding:20px 18px 14px;border-bottom:1px solid var(--line)}
+.brand h1{margin:0;font-size:18px;letter-spacing:-.3px}
+.brand h1 span{color:var(--accent)}
+.brand p{margin:4px 0 0;color:var(--muted);font-size:11px}
+.ctrl{padding:12px 14px;border-bottom:1px solid var(--line);display:grid;gap:10px}
+.ctrl label{font-size:10px;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);font-weight:700}
+.ctrl input,.ctrl select{width:100%;background:#0a1220;border:1px solid var(--line);color:var(--text);
+  border-radius:9px;padding:8px 9px;font-size:12px;outline:none}
+.ctrl input:focus,.ctrl select:focus{border-color:var(--accent)}
+.ctrl select:disabled{opacity:.45}
+.yr{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.seg{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.seg button{background:#0a1220;border:1px solid var(--line);color:#9fb3d1;border-radius:9px;
+  padding:8px 6px;font-size:11.5px;font-weight:700;cursor:pointer}
+.seg button.active{background:linear-gradient(135deg,rgba(34,211,238,.2),rgba(20,184,166,.12));
+  border-color:#1f6b7a;color:#fff}
+.selall{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.selall button{background:#0b1626;border:1px solid var(--line);color:#9fb3d1;border-radius:8px;
+  padding:6px;font-size:10.5px;cursor:pointer}
+.selall button:hover{border-color:#2b4a6b;color:#fff}
+.lglist{overflow:auto;flex:1;padding:8px 8px 24px}
+.lglist::-webkit-scrollbar{width:8px}
+.lglist::-webkit-scrollbar-thumb{background:#1c2a45;border-radius:8px}
+.sitem{display:flex;align-items:center;gap:8px;padding:7px 8px;border-radius:8px;cursor:pointer;
+  color:#c9d6ea;border:1px solid transparent}
+.sitem:hover{background:#0f1b2e}
+.sitem.disabled{opacity:.35;cursor:default}
+.sitem .cb{accent-color:#22d3ee;width:14px;height:14px;flex:0 0 14px;cursor:pointer}
+.sitem .nm{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:12px}
+.sitem .pill{font-size:9.5px;font-weight:800;padding:2px 5px;border-radius:99px;background:#132238;color:#9fb3d1}
+.pos{color:var(--green)!important}.neg{color:var(--red)!important}.gold{color:var(--gold)!important}
+.main{flex:1;min-width:0;padding:22px 28px 60px}
+.tabs{display:flex;gap:6px;margin-bottom:10px}
+.tab{background:#0b1525;border:1px solid var(--line);color:#9fb3d1;border-radius:9px;
+  padding:7px 12px;font-size:12px;font-weight:700;cursor:pointer}
+.tab.active{background:linear-gradient(135deg,rgba(34,211,238,.18),rgba(20,184,166,.1));
+  border-color:#1f6b7a;color:#fff}
+.tab.worst.active{background:linear-gradient(135deg,rgba(251,191,36,.2),rgba(251,113,133,.1));
+  border-color:#8a6a1f;color:#fde68a}
+.case{background:rgba(251,191,36,.07);border:1px solid rgba(251,191,36,.35);color:#fcd34d;
+  border-radius:12px;padding:11px 14px;font-size:12.5px;margin-bottom:14px;line-height:1.55}
+.top{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:16px}
+.top h2{margin:0;font-size:24px;letter-spacing:-.6px}
+.top .sub{color:var(--muted);font-size:12.5px;margin-top:4px}
+.scope{font-size:11px;color:#7f97ba;background:#0b1424;border:1px solid var(--line);
+  padding:7px 11px;border-radius:99px;white-space:nowrap}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:12px}
+.kpi{background:linear-gradient(180deg,#0f1a2d,#0c1422);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.kpi .l{font-size:10px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);font-weight:700}
+.kpi .v{font-size:22px;font-weight:800;letter-spacing:-.5px;margin-top:5px}
+.kpi .s{font-size:11px;color:var(--muted);margin-top:3px}
+.strip{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:18px}
+.mini{background:#0b1424;border:1px solid var(--line);border-radius:12px;padding:10px 13px;display:flex;justify-content:space-between;gap:8px}
+.mini .l{color:var(--muted);font-size:11px}
+.mini .v{font-weight:800;font-size:13px}
+.grid{display:grid;grid-template-columns:1.55fr 1fr;gap:14px;margin-bottom:14px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px}
+.card{background:linear-gradient(180deg,#0e1829,#0b1321);border:1px solid var(--line);border-radius:16px;padding:15px 17px}
+.card h3{margin:0 0 3px;font-size:13.5px;letter-spacing:-.1px}
+.card .cap{color:var(--muted);font-size:11px;margin-bottom:9px}
+.chart{position:relative;height:280px}
+.chart.sm{height:240px}
+.chart.xs{height:210px}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th{position:sticky;top:0;background:#0c1729;color:#9db2d0;text-align:left;font-weight:700;
+  font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;padding:9px 8px;border-bottom:1px solid var(--line);cursor:pointer;white-space:nowrap}
+td{padding:7px 8px;border-bottom:1px solid rgba(29,42,68,.55);white-space:nowrap}
+tbody tr:hover{background:rgba(34,211,238,.045)}
+.tblwrap{max-height:400px;overflow:auto;border-radius:10px}
+.tblwrap::-webkit-scrollbar{width:8px;height:8px}
+.tblwrap::-webkit-scrollbar-thumb{background:#1c2a45;border-radius:8px}
+.num{text-align:right;font-variant-numeric:tabular-nums}
+.lname{font-weight:700;color:#e8eef9}
+.pager{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:10px;color:var(--muted);font-size:12px}
+.pager button{background:#0f1c30;border:1px solid var(--line);color:#cfe0f5;border-radius:8px;padding:6px 11px;cursor:pointer;font-size:12px}
+.pager button:disabled{opacity:.35;cursor:default}
+.hidden{display:none!important}
+.note{color:var(--muted);font-size:11.5px;line-height:1.6;margin-top:8px}
+.recohead{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.recohead p{margin:6px 0 0;color:#b6c8e2;font-size:12.5px;line-height:1.55;max-width:900px}
+.recohead button{background:linear-gradient(135deg,#14b8a6,#0891b2);border:0;color:#fff;border-radius:9px;
+  padding:9px 13px;font-size:12px;font-weight:800;cursor:pointer;white-space:nowrap}
+.tier{font-size:10px;font-weight:800;padding:2px 7px;border-radius:99px}
+.tier.core{background:rgba(52,211,153,.18);color:#6ee7b7}
+.tier.sup{background:rgba(34,211,238,.16);color:#67e8f9}
+.tier.watch{background:rgba(251,191,36,.16);color:#fcd34d}
+@media(max-width:1100px){.kpis{grid-template-columns:repeat(2,1fr)}.grid,.grid2{grid-template-columns:1fr}}
+@media(max-width:860px){
+  .app{display:block}.side{position:relative;width:100%;height:auto;flex:none}
+  .lglist{max-height:280px}.main{padding:18px 14px 50px}
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="side">
+    <div class="brand">
+      <h1>Hoops <span>Paper Lab</span></h1>
+      <p>Ev sahibi 2.25–4.00 · 250 TL sabit bahis</p>
+    </div>
+    <div class="ctrl">
+      <div>
+        <label>Veri seti</label>
+        <div class="seg">
+          <button id="modeOld" class="active">Eski Veriler</button>
+          <button id="mode27">26/27 Sezonu</button>
+        </div>
+      </div>
+      <div>
+        <label>Yıl aralığı</label>
+        <div class="yr"><select id="y0"></select><select id="y1"></select></div>
+      </div>
+      <div>
+        <label>Lig ara</label>
+        <input id="q" placeholder="Örn. NBA, ACB, BSL..." autocomplete="off"/>
+      </div>
+      <div>
+        <label>Sırala</label>
+        <select id="sideSort">
+          <option value="roi_desc">ROI ↓ (yüksek → düşük)</option>
+          <option value="roi_asc">ROI ↑ (düşük → yüksek)</option>
+          <option value="n_desc">Maç sayısı ↓</option>
+          <option value="name">İsim A-Z</option>
+        </select>
+      </div>
+      <div class="selall">
+        <button id="selAll">Tümünü seç</button>
+        <button id="selNone">Temizle</button>
+      </div>
+    </div>
+    <div class="lglist" id="lglist"></div>
+  </aside>
+
+  <main class="main">
+    <div class="tabs">
+      <button class="tab active" id="tabSummary">Genel Özet</button>
+      <button class="tab" id="tabAnalyst">★ Analist Önerisi</button>
+      <button class="tab worst" id="tabWorst">⚠ Worst Case (−0,20)</button>
+    </div>
+    <div class="top">
+      <div>
+        <h2 id="title">Genel Özet</h2>
+        <div class="sub" id="subtitle"></div>
+      </div>
+      <div class="scope" id="scope"></div>
+    </div>
+
+    <div class="case hidden" id="caseNote">
+      <b>Worst case senaryosu:</b> Maç seçimi orijinal 2,25–4,00 aralığına göre yapılır; kazanan bahislerin oranı
+      <b>0,20 düşük</b> hesaplanır (örn. 2,50 → 2,30). Kaybeden bahisler yine tamamı gider.
+    </div>
+
+    <div class="card hidden" id="recoPanel" style="margin-bottom:14px">
+      <div class="recohead">
+        <div>
+          <h3>Analist Önerisi — Seçili Dönemin En İyi Ligleri</h3>
+          <p id="recoText"></p>
+        </div>
+        <button id="recoAll">Tüm ligleri seç</button>
+      </div>
+      <div class="tblwrap" style="max-height:none;margin-top:12px">
+        <table>
+          <thead><tr><th>#</th><th>Lig</th><th class="num">Maç</th><th class="num">ROI</th>
+          <th class="num">Kâr</th><th class="num">Kazanma</th><th class="num">Ort. Oran</th>
+          <th class="num">t-değeri</th><th class="num">Pozitif Sezon</th></tr></thead>
+          <tbody id="recoBody"></tbody>
+        </table>
+      </div>
+      <div class="note" id="recoNote">Seçili dönemde yeterli örneklem (eski veride ≥50, 26/27'de ≥20 bahis) ve pozitif ROI'li ligler arasından ROI sıralaması.
+      t ≥ 2 güçlü, 1–2 destek, &lt;1 zayıf kanıt. Pozitif sezon oranı sezon başına en az 20 bahis için hesaplanır.</div>
+    </div>
+
+    <div class="kpis" id="kpis"></div>
+    <div class="strip" id="strip"></div>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Kasa Durumu</h3>
+        <div class="cap">0 TL'den başlayan kümülatif kâr/zarar (bahis başına 250 TL)</div>
+        <div class="chart"><canvas id="equity"></canvas></div>
+      </div>
+      <div class="card">
+        <h3>Aylık Bahis Hacmi</h3>
+        <div class="cap">Aylara göre filtreye giren maç sayısı</div>
+        <div class="chart"><canvas id="volume"></canvas></div>
+      </div>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <h3>Yıl / Sezon Etkisi</h3>
+        <div class="cap">Sezon bazında brüt kâr (yeşil) ve brüt zarar (kırmızı)</div>
+        <div class="chart sm"><canvas id="yearChart"></canvas></div>
+      </div>
+      <div class="card">
+        <h3>Sezon Ayı Etkisi</h3>
+        <div class="cap">Takvim ayına göre brüt kâr / zarar</div>
+        <div class="chart sm"><canvas id="monthChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <h3>Haftanın Günü Etkisi</h3>
+        <div class="cap">Pazartesi'den Pazar'a brüt kâr / zarar</div>
+        <div class="chart sm"><canvas id="dowChart"></canvas></div>
+      </div>
+      <div class="card">
+        <h3>Ayın Günü Etkisi</h3>
+        <div class="cap">1–31 arası günlerde brüt kâr / zarar</div>
+        <div class="chart sm"><canvas id="domChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-bottom:14px">
+      <h3>Gün Gün Net Kâr / Zarar</h3>
+      <div class="cap">Her maç gününün net sonucu — yeşil kâr, kırmızı zarar</div>
+      <div class="chart"><canvas id="dailyNet"></canvas></div>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <h3>Günlük Kâr/Zarar Dağılımı</h3>
+        <div class="cap">Kaç gün hangi net kâr/zarar aralığında kapandı</div>
+        <div class="chart sm"><canvas id="hist"></canvas></div>
+      </div>
+      <div class="card">
+        <h3>Lig Bazında ROI</h3>
+        <div class="cap">Seçili ligler · en çok bahis alınan 15 lig</div>
+        <div class="chart sm"><canvas id="leagueChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-bottom:14px">
+      <h3>Oran Bandı Analizi</h3>
+      <div class="cap">Ev sahibi oranı 2.25–4.00 aralığının alt bantları</div>
+      <div id="bands"></div>
+    </div>
+
+    <div class="card" id="leagueTableCard" style="margin-bottom:14px">
+      <h3>Lig Özeti</h3>
+      <div class="cap">Sadece seçili ligler · başlıklara tıklayarak sırala · satıra tıkla → sadece o lig</div>
+      <div class="tblwrap">
+        <table id="leagueTable">
+          <thead><tr>
+            <th data-k="name">Lig</th><th data-k="country">Ülke</th>
+            <th data-k="n" class="num">Maç</th><th data-k="winPct" class="num">Kazanma</th>
+            <th data-k="avgOdds" class="num">Ort. Oran</th><th data-k="turnover" class="num">Yatırılan</th>
+            <th data-k="profit" class="num">Kâr</th><th data-k="roi" class="num">ROI</th>
+            <th data-k="maxDD" class="num">Max DD</th>
+          </tr></thead>
+          <tbody id="leagueBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Bahisler</h3>
+      <div class="cap" id="matchCap"></div>
+      <div class="tblwrap">
+        <table>
+          <thead><tr>
+            <th>Tarih</th><th>Lig</th><th>Ev Sahibi</th><th>Deplasman</th>
+            <th class="num">Skor</th><th class="num">Oran</th><th>Sonuç</th><th class="num">Kâr</th>
+          </tr></thead>
+          <tbody id="matchBody"></tbody>
+        </table>
+      </div>
+      <div class="pager">
+        <span id="pageInfo"></span>
+        <div>
+          <button id="prev">← Önceki</button>
+          <button id="next">Sonraki →</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="note">
+      Kapsam: küçük bütçeli ligler (Venezuela, Etiyopya vb.), hazırlık ve gençlik ligleri hariçtir.
+      26/27 sezonu ayrı sekmede tutulur; varsayılan görünüm 2009–2025/26'dır.
+      Oranlar AiScore kapanış 1-2 oranıdır; paper bahis, bileşik getiri yoktur.
+    </div>
+  </main>
+</div>
+
+<script>/*__CHARTJS__*/</script>
+<script>
+const DATA = /*__DATA__*/;
+const L = DATA.leagues, M = DATA.matches, STAKE = DATA.stake, RECO = DATA.reco;
+const S = {mode:"old", tab:"summary", case:"normal", sel:new Set(), y0:2009, y1:2026, q:"", page:0, sort:"n", dir:-1, sideSort:"roi_desc", top:[]};
+const $ = s => document.querySelector(s);
+const fmt = new Intl.NumberFormat("tr-TR");
+const tl = x => (x<0?"-":"") + fmt.format(Math.abs(Math.round(x))) + " TL";
+const pc = x => (x<0?"-":"+") + Math.abs(x).toFixed(2).replace(".", ",") + "%";
+const p1 = x => x.toFixed(1).replace(".", ",") + "%";
+const od = x => x.toFixed(2).replace(".", ",");
+const cls = x => x>=0 ? "pos" : "neg";
+const effO = r => S.case==="worst" ? Math.max(1.01, r[6]-0.2) : r[6];
+const pr = r => r[7] ? STAKE*(effO(r)-1) : -STAKE;
+const year = d => +d.slice(0,4);
+const month = d => +d.slice(5,7);
+const seasonStart = d => month(d)>=8 ? year(d) : year(d)-1;
+const seasonLabel = s => `${s}/${String((s+1)%100).padStart(2,"0")}`;
+const MONTHS = ["Oca","Şub","Mar","Nis","May","Haz","Tem","Ağu","Eyl","Eki","Kas","Ara"];
+const DOW = ["Paz","Pzt","Sal","Çar","Per","Cum","Cmt"];
+const DOW_ORDER = [1,2,3,4,5,6,0];
+
+/* Seçili dönemde lig bazlı istatistik (sidebar ve analist için) */
+function sideStats(){
+  const map=new Map();
+  for(const r of M){
+    if(S.mode==="old" && r[9]===1) continue;
+    if(S.mode==="s27" && r[9]===0) continue;
+    if(S.mode==="old" && (year(r[0])<S.y0 || year(r[0])>S.y1)) continue;
+    let o=map.get(r[1]); if(!o){o={n:0,w:0,p:0};map.set(r[1],o);}
+    o.n++; o.w+=r[7]; o.p+=pr(r);
+  }
+  return map;
+}
+
+function filt(){
+  return M.filter(m=>{
+    if(S.mode==="old" && m[9]===1) return false;
+    if(S.mode==="s27" && m[9]===0) return false;
+    if(!S.sel.has(m[1])) return false;
+    if(S.mode==="old" && (year(m[0])<S.y0 || year(m[0])>S.y1)) return false;
+    return true;
+  });
+}
+
+function calc(rows){
+  let n=rows.length,w=0,profit=0,so=0,si=0;
+  for(const r of rows){ w+=r[7]; const p=pr(r); profit+=p; const o=effO(r); so+=o; si+=1/o; }
+  const turnover=n*STAKE, roi=turnover?profit/turnover*100:0;
+  let eq=0,peak=0,dd=0,cur=0,mws=0,mls=0;
+  const byDate=new Map();
+  for(const r of rows){
+    const p=pr(r); eq+=p; byDate.set(r[0],eq);
+    peak=Math.max(peak,eq); dd=Math.max(dd,peak-eq);
+    if(r[7]===1){cur=cur>0?cur+1:1;mws=Math.max(mws,cur);}
+    else{cur=cur<0?cur-1:-1;mls=Math.min(mls,cur);}
+  }
+  return {n,w,l:n-w,winPct:n?w/n*100:0,avgOdds:n?so/n:0,be:n?si/n*100:0,
+          turnover,profit,roi,dd,mws,mls:Math.abs(mls),byDate};
+}
+
+function bucketWL(rows,keyFn,order){
+  const map=new Map();
+  for(const r of rows){
+    const k=keyFn(r); let o=map.get(k); if(!o){o={w:0,l:0,n:0};map.set(k,o);}
+    o.n++; const p=pr(r); if(p>0) o.w+=p; else o.l+=p;
+  }
+  const keys=(order||[...map.keys()].sort()).filter(k=>map.has(k));
+  return {labels:keys,win:keys.map(k=>map.get(k).w),loss:keys.map(k=>map.get(k).l),n:keys.map(k=>map.get(k).n)};
+}
+
+function bandStats(rows){
+  const bands=[[2.25,2.75,"2,25 – 2,75"],[2.75,3.25,"2,75 – 3,25"],[3.25,4.001,"3,25 – 4,00"]];
+  return bands.map(([a,b,label])=>{
+    const r=rows.filter(x=>x[6]>=a&&x[6]<b),c=calc(r);
+    return {label,n:c.n,winPct:c.winPct,avgOdds:c.avgOdds,profit:c.profit,roi:c.roi};
+  });
+}
+
+function monthly(rows){
+  const m=new Map();
+  for(const r of rows){const k=r[0].slice(0,7);m.set(k,(m.get(k)||0)+1);}
+  const ks=[...m.keys()].sort();
+  return {labels:ks,data:ks.map(k=>m.get(k))};
+}
+
+function dailyDist(rows){
+  const m=new Map();
+  for(const r of rows){m.set(r[0],(m.get(r[0])||0)+pr(r));}
+  const vals=[...m.values()];
+  if(!vals.length)return {labels:[],data:[]};
+  const mn=Math.min(...vals),mx=Math.max(...vals),bins=18,step=(mx-mn)/bins||1;
+  const cnt=new Array(bins).fill(0);
+  for(const v of vals){let i=Math.floor((v-mn)/step);if(i>=bins)i=bins-1;cnt[i]++;}
+  return {labels:Array.from({length:bins},(_,i)=>fmt.format(Math.round(mn+i*step))+"…"+fmt.format(Math.round(mn+(i+1)*step))),data:cnt};
+}
+
+let charts={};
+function chart(id,cfg){
+  if(charts[id])charts[id].destroy();
+  const el=document.getElementById(id); if(!el)return;
+  charts[id]=new Chart(el,cfg);
+}
+const grid={color:"rgba(255,255,255,.055)"};
+const tick={color:"#8ba0c2",font:{size:10}};
+Chart.defaults.font.family="Inter,system-ui,sans-serif";
+Chart.defaults.color="#8ba0c2";
+
+function renderKpis(c){
+  $("#kpis").innerHTML=[
+    ["Bahis",fmt.format(c.n),`${fmt.format(c.w)} kazanan / ${fmt.format(c.l)} kaybeden`,""],
+    ["Kâr / Zarar",tl(c.profit),`Yatırılan: ${tl(c.turnover)}`,cls(c.profit)],
+    ["Kazanma Oranı",p1(c.winPct),`Başabaş: ${p1(c.be)}`,c.winPct>=c.be?"pos":"neg"],
+    ["ROI",pc(c.roi),`Ort. oran: ${od(c.avgOdds)}`,cls(c.roi)],
+  ].map(([l,v,s,k])=>`<div class="kpi"><div class="l">${l}</div><div class="v ${k}">${v}</div><div class="s">${s}</div></div>`).join("");
+  $("#strip").innerHTML=[
+    ["Ortalama Oran",od(c.avgOdds)],
+    ["Maks. Drawdown",tl(-c.dd)],
+    ["En Uzun Galibiyet",fmt.format(c.mws)+" maç"],
+    ["En Uzun Mağlubiyet",fmt.format(c.mls)+" maç"],
+  ].map(([l,v])=>`<div class="mini"><div class="l">${l}</div><div class="v">${v}</div></div>`).join("");
+}
+
+function renderEquity(c){
+  const labels=[...c.byDate.keys()],data=[...c.byDate.values()];
+  if(labels.length){
+    const d0=new Date(labels[0]+"T00:00:00Z");d0.setUTCDate(d0.getUTCDate()-1);
+    labels.unshift(d0.toISOString().slice(0,10));data.unshift(0);
+  }
+  chart("equity",{type:"line",data:{labels,datasets:[{data,borderColor:"#22d3ee",
+    backgroundColor:"rgba(34,211,238,.12)",fill:true,tension:.15,pointRadius:0,borderWidth:2}]},
+    options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+      tooltip:{callbacks:{title:it=>it[0].label,label:it=>tl(it.parsed.y)}}},
+      scales:{x:{ticks:{...tick,maxTicksLimit:8},grid:{display:false}},
+              y:{ticks:{...tick,callback:v=>fmt.format(v)},grid}}}});
+}
+
+function renderVolume(rows){
+  const m=monthly(rows);
+  chart("volume",{type:"bar",data:{labels:m.labels,datasets:[{data:m.data,backgroundColor:"rgba(20,184,166,.65)",borderRadius:3,barPercentage:.85}]},
+    options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+      tooltip:{callbacks:{label:it=>fmt.format(it.parsed.y)+" maç"}}},
+      scales:{x:{ticks:{...tick,maxTicksLimit:6},grid:{display:false}},y:{ticks:{...tick},grid}}}});
+}
+
+function renderWL(id,rows,keyFn,order,labelFn,legend=true){
+  const b=bucketWL(rows,keyFn,order);
+  chart(id,{type:"bar",data:{labels:b.labels.map(labelFn),datasets:[
+    {label:"Kâr",data:b.win,backgroundColor:"rgba(52,211,153,.78)",borderRadius:2},
+    {label:"Zarar",data:b.loss,backgroundColor:"rgba(251,113,133,.78)",borderRadius:2}
+  ]},options:{responsive:true,maintainAspectRatio:false,
+    plugins:{legend:{display:legend,position:"bottom",labels:{boxWidth:10,font:{size:10}}},
+      tooltip:{callbacks:{label:it=>`${it.dataset.label}: ${tl(it.parsed.y)}`}}},
+    scales:{x:{ticks:{...tick,maxTicksLimit:14},grid:{display:false}},
+            y:{ticks:{...tick,callback:v=>fmt.format(v)},grid}}}});
+}
+
+function renderDailyNet(rows){
+  const m=new Map();
+  for(const r of rows)m.set(r[0],(m.get(r[0])||0)+pr(r));
+  const labels=[...m.keys()],data=labels.map(k=>m.get(k));
+  chart("dailyNet",{type:"bar",data:{labels,datasets:[{data,
+    backgroundColor:data.map(v=>v>=0?"rgba(52,211,153,.8)":"rgba(251,113,133,.8)"),barThickness:2}]},
+    options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+      tooltip:{callbacks:{title:it=>it[0].label,label:it=>tl(it.parsed.y)}}},
+      scales:{x:{ticks:{...tick,maxTicksLimit:8},grid:{display:false}},
+              y:{ticks:{...tick,callback:v=>fmt.format(v)},grid}}}});
+}
+
+function renderHist(rows){
+  const h=dailyDist(rows);
+  chart("hist",{type:"bar",data:{labels:h.labels,datasets:[{data:h.data,backgroundColor:"rgba(251,191,36,.55)",borderRadius:3}]},
+    options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},
+      tooltip:{callbacks:{label:it=>fmt.format(it.parsed.y)+" gün"}}},
+      scales:{x:{ticks:{...tick,maxTicksLimit:5},grid:{display:false}},y:{ticks:{...tick},grid}}}});
+}
+
+function leagueRows(rows){
+  const map=new Map();
+  for(const r of rows){
+    let o=map.get(r[1]);if(!o){o={idx:r[1],name:L[r[1]].name,country:L[r[1]].country,rows:[]};map.set(r[1],o);}
+    o.rows.push(r);
+  }
+  return [...map.values()].map(o=>({...o,...calc(o.rows),rows:o.rows}));
+}
+
+function renderLeagueTable(rows){
+  let arr=leagueRows(rows);
+  const k=S.sort,d=S.dir;
+  arr.sort((a,b)=>k==="name"||k==="country"?(a[k]>b[k]?1:-1)*d:(a[k]-b[k])*d);
+  $("#leagueBody").innerHTML=arr.map(o=>`<tr data-i="${o.idx}" style="cursor:pointer">
+    <td class="lname">${o.name}</td><td style="color:#8ba0c2">${o.country||""}</td>
+    <td class="num">${fmt.format(o.n)}</td><td class="num">${p1(o.winPct)}</td>
+    <td class="num">${od(o.avgOdds)}</td><td class="num">${tl(o.turnover)}</td>
+    <td class="num ${cls(o.profit)}">${tl(o.profit)}</td>
+    <td class="num ${cls(o.roi)}"><b>${pc(o.roi)}</b></td><td class="num neg">${tl(-o.dd)}</td></tr>`).join("");
+  $("#leagueBody").querySelectorAll("tr").forEach(tr=>tr.onclick=()=>{
+    const i=+tr.dataset.i; S.sel=new Set([i]); S.page=0; buildSidebar(); render();
+  });
+  const top=[...arr].sort((a,b)=>b.n-a.n).slice(0,15).reverse();
+  chart("leagueChart",{type:"bar",data:{labels:top.map(x=>x.name),
+    datasets:[{data:top.map(x=>x.roi),backgroundColor:top.map(x=>x.roi>=0?"rgba(52,211,153,.75)":"rgba(251,113,133,.75)"),borderRadius:3}]},
+    options:{indexAxis:"y",responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{display:false},tooltip:{callbacks:{label:it=>pc(it.parsed.x)}}},
+      scales:{x:{ticks:{...tick,callback:v=>v+"%"},grid},y:{ticks:{...tick,font:{size:9}},grid:{display:false}}}}});
+}
+
+function renderBands(rows){
+  const b=bandStats(rows);
+  $("#bands").innerHTML=`<table><thead><tr><th>Bant</th><th class="num">Maç</th><th class="num">Kazanma</th>
+    <th class="num">Ort. Oran</th><th class="num">Kâr</th><th class="num">ROI</th></tr></thead><tbody>`+
+    b.map(x=>`<tr><td class="lname">${x.label}</td><td class="num">${fmt.format(x.n)}</td>
+      <td class="num">${p1(x.winPct)}</td><td class="num">${od(x.avgOdds)}</td>
+      <td class="num ${cls(x.profit)}">${tl(x.profit)}</td>
+      <td class="num ${cls(x.roi)}"><b>${pc(x.roi)}</b></td></tr>`).join("")+`</tbody></table>`;
+}
+
+function renderMatches(rows){
+  const rev=[...rows].reverse(),per=50,pages=Math.max(1,Math.ceil(rev.length/per));
+  S.page=Math.min(S.page,pages-1);
+  const slice=rev.slice(S.page*per,(S.page+1)*per);
+  $("#matchBody").innerHTML=slice.map(r=>`<tr>
+    <td>${r[0].slice(8,10)}.${r[0].slice(5,7)}.${r[0].slice(0,4)}</td>
+    <td>${L[r[1]].name}</td><td class="lname">${r[2]}</td><td>${r[3]}</td>
+    <td class="num">${r[4]}-${r[5]}</td><td class="num"><b>${S.case==="worst"?od(r[6])+" → "+od(effO(r)):od(r[6])}</b></td>
+    <td class="${r[7]?"pos":"neg"}">${r[7]?"Kazandı":"Kaybetti"}</td>
+    <td class="num ${cls(pr(r))}">${tl(pr(r))}</td></tr>`).join("");
+  $("#pageInfo").textContent=`${fmt.format(S.page*per+1)}–${fmt.format(Math.min((S.page+1)*per,rev.length))} / ${fmt.format(rev.length)} maç`;
+  $("#prev").disabled=S.page===0;$("#next").disabled=S.page>=pages-1;
+  $("#matchCap").textContent=S.mode==="s27"?"26/27 sezonu · tarihe göre yeniden eskiye":"Eski veriler · tarihe göre yeniden eskiye";
+}
+
+function topLeagues(limit=10,minN=null){
+  minN = minN ?? (S.mode==="s27"?20:50);
+  const map=new Map();
+  for(const r of M){
+    if(S.mode==="old" && r[9]===1) continue;
+    if(S.mode==="s27" && r[9]===0) continue;
+    if(S.mode==="old" && (year(r[0])<S.y0 || year(r[0])>S.y1)) continue;
+    let o=map.get(r[1]); if(!o){o={rows:[]};map.set(r[1],o);}
+    o.rows.push(r);
+  }
+  const arr=[];
+  for(const [idx,o] of map){
+    const n=o.rows.length; if(n<minN) continue;
+    let w=0,profit=0,so=0;
+    const ret=[];
+    for(const r of o.rows){w+=r[7];profit+=pr(r);so+=effO(r);ret.push(r[7]?effO(r)-1:-1);}
+    const roi=profit/(n*STAKE)*100;
+    if(roi<=0) continue;
+    const mean=ret.reduce((a,b)=>a+b,0)/n;
+    let v=0; for(const x of ret)v+=(x-mean)**2;
+    const sd=Math.sqrt(v/(n-1)),se=sd/Math.sqrt(n)*100;
+    const t=se?roi/se:0;
+    const sm=new Map();
+    for(const r of o.rows){const s=seasonStart(r[0]);let z=sm.get(s);if(!z){z={n:0,p:0};sm.set(s,z);}z.n++;z.p+=pr(r);}
+    let pos=0,tot=0;
+    for(const z of sm.values())if(z.n>=20){tot++;if(z.p>0)pos++;}
+    arr.push({idx,name:L[idx].name,country:L[idx].country,n,w,profit,roi,so,t,
+              posPct:tot?pos/tot*100:0,seasons:tot});
+  }
+  arr.sort((a,b)=>b.roi-a.roi);
+  return arr.slice(0,limit);
+}
+
+function rangeKey(){return S.mode+"|"+(S.mode==="old"?S.y0+"-"+S.y1:"all");}
+
+function applyAnalyst(){
+  S.top=topLeagues(10);
+  S.topKey=rangeKey();
+  S.sel=new Set(S.top.length?S.top.map(x=>x.idx):[]);
+}
+
+function renderReco(){
+  const top=S.top.length?S.top:topLeagues(10);
+  if(!top.length){
+    $("#recoBody").innerHTML=`<tr><td colspan="9" style="color:#8ba0c2;padding:18px 8px">Bu dönemde pozitif ROI'li ve yeterli örneklemli lig bulunamadı.</td></tr>`;
+    $("#recoText").innerHTML="Seçili dönemde pozitif ROI üreten lig yok. Filtreyi genişletmeyi dene.";
+    return;
+  }
+  $("#recoBody").innerHTML=top.map((x,i)=>`<tr>
+    <td>${i+1}</td><td class="lname">${x.name}</td><td class="num">${fmt.format(x.n)}</td>
+    <td class="num ${cls(x.roi)}"><b>${pc(x.roi)}</b></td>
+    <td class="num ${cls(x.profit)}">${tl(x.profit)}</td>
+    <td class="num">${p1(x.w/x.n*100)}</td><td class="num">${od(x.so/x.n)}</td>
+    <td class="num ${x.t>=2?"pos":x.t>=1?"gold":""}">${x.t.toFixed(2).replace(".",",")}</td>
+    <td class="num">${p1(x.posPct)} <span style="color:#64748b">(${x.seasons} sezon)</span></td></tr>`).join("");
+  const range=S.mode==="s27"?"26/27 sezonu":`${S.y0}–${S.y1}`;
+  $("#recoText").innerHTML=`${range} aralığında yeterli örneklemli (eski veride ≥50, 26/27'de ≥20 bahis) ve pozitif ROI üreten ligler arasından en iyi ${top.length} lig.
+    Varsayılan seçim bu liglerdir; t-değeri ve pozitif sezon oranı sağlamlığı gösterir.`;
+}
+
+function buildSidebar(){
+  const st=sideStats();
+  const arr=L.map((l,i)=>{
+    const o=st.get(i)||{n:0,w:0,p:0};
+    return {i,l,st:o,roi:o.n?o.p/(o.n*STAKE)*100:0};
+  });
+  arr.sort((a,b)=>{
+    const an=a.st.n,bn=b.st.n;
+    const av=an>=20,bv=bn>=20;
+    if(av!==bv)return av?-1:1;
+    if(!av&&!bv)return bn-an;
+    switch(S.sideSort){
+      case "roi_asc": return (a.roi-b.roi)||(bn-an);
+      case "n_desc": return bn-an;
+      case "name": return a.l.name.localeCompare(b.l.name,"tr");
+      default: return (b.roi-a.roi)||(bn-an);
+    }
+  });
+  $("#lglist").innerHTML=arr.map(({i,l,st:o,roi})=>{
+    const dis=o.n===0, low=o.n>0&&o.n<20;
+    return `<div class="sitem ${dis?"disabled":""}" data-i="${i}" title="${low?"Düşük örneklem (n<20)":""}">
+      <input type="checkbox" class="cb" ${S.sel.has(i)?"checked":""} ${dis?"disabled":""}>
+      <span class="nm">${l.name}${low?' <span style="color:#fbbf24">•</span>':''}</span>
+      <span class="pill ${low?"gold":cls(roi)}">${o.n?pc(roi):"—"}</span>
+      <span class="pill">${fmt.format(o.n)}</span></div>`;
+  }).join("");
+  $("#lglist").querySelectorAll(".sitem").forEach(el=>{
+    const i=+el.dataset.i;
+    const cb=el.querySelector(".cb");
+    cb.onclick=e=>e.stopPropagation();
+    cb.onchange=e=>{ if(e.target.checked)S.sel.add(i);else S.sel.delete(i); S.page=0; render(); };
+    el.onclick=e=>{
+      if(e.target.classList.contains("cb")||el.classList.contains("disabled"))return;
+      if(S.sel.has(i))S.sel.delete(i);else S.sel.add(i);
+      cb.checked=S.sel.has(i); S.page=0; render();
+    };
+  });
+  applySearch();
+}
+
+function applySearch(){
+  const q=S.q.toLowerCase();
+  $("#lglist").querySelectorAll(".sitem").forEach(el=>{
+    el.style.display=(!q||el.textContent.toLowerCase().includes(q))?"":"none";
+  });
+}
+
+function setMode(m){
+  S.mode=m; S.page=0;
+  $("#modeOld").classList.toggle("active",m==="old");
+  $("#mode27").classList.toggle("active",m==="s27");
+  $("#y0").disabled=$("#y1").disabled=(m==="s27");
+  const st=sideStats();
+  S.sel=new Set([...st.keys()].filter(i=>st.get(i).n>0));
+  if(S.tab==="analyst")applyAnalyst();
+  buildSidebar(); render();
+}
+
+function setTab(t){
+  S.tab=t;
+  S.case = t==="worst" ? "worst" : "normal";
+  $("#tabSummary").classList.toggle("active",t==="summary");
+  $("#tabAnalyst").classList.toggle("active",t==="analyst");
+  $("#tabWorst").classList.toggle("active",t==="worst");
+  $("#recoPanel").classList.toggle("hidden",t!=="analyst");
+  $("#caseNote").classList.toggle("hidden",t!=="worst");
+  if(t==="analyst"){
+    applyAnalyst();
+  }else{
+    const st=sideStats();
+    S.sel=new Set([...st.keys()].filter(i=>st.get(i).n>0));
+  }
+  S.page=0; buildSidebar(); render();
+}
+
+function render(){
+  if(S.tab==="analyst" && S.topKey!==rangeKey()){applyAnalyst();buildSidebar();}
+  const rows=filt(),c=calc(rows);
+  const nSel=S.sel.size;
+  const range=S.mode==="s27"?"26/27 sezonu":`${S.y0}–${S.y1}`;
+  $("#title").textContent=S.tab==="analyst"?"Analist Önerisi":(S.tab==="worst"?"Worst Case (−0,20)":(S.mode==="s27"?"26/27 Sezonu":"Genel Özet"));
+  $("#subtitle").textContent=S.tab==="analyst"
+    ? `${range} · ${S.top.length?`en iyi ${S.top.length} lig`:"yeterli örneklem yok"} · ${fmt.format(c.n)} bahis`
+    : (S.tab==="worst"
+      ? `${range} · ${nSel} lig · ${fmt.format(c.n)} bahis · kazanan oranlar 0,20 düşük`
+      : `${nSel} lig seçili · ${range} · ${fmt.format(c.n)} filtreli maç`);
+  $("#scope").textContent=`${L.length} lig · 250 TL/bahis · küçük bütçeli ligler hariç`;
+  renderKpis(c);renderEquity(c);renderVolume(rows);
+  renderWL("yearChart",rows,r=>seasonStart(r[0]),[...new Set(rows.map(r=>seasonStart(r[0])))].sort(),k=>seasonLabel(k));
+  renderWL("monthChart",rows,r=>month(r[0]),[1,2,3,4,5,6,7,8,9,10,11,12],k=>MONTHS[k-1]);
+  renderWL("dowChart",rows,r=>new Date(r[0]+"T00:00:00Z").getUTCDay(),DOW_ORDER,k=>DOW[k]);
+  renderWL("domChart",rows,r=>+r[0].slice(8,10),Array.from({length:31},(_,i)=>i+1),k=>k);
+  renderDailyNet(rows);renderHist(rows);renderBands(rows);
+  $("#leagueTableCard").classList.toggle("hidden",S.tab==="analyst");
+  renderLeagueTable(rows);
+  renderMatches(rows);
+  if(S.tab==="analyst")renderReco();
+}
+
+function onRange(){
+  const st=sideStats();
+  for(const i of [...S.sel])if(!(st.get(i)?.n))S.sel.delete(i);
+  if(S.tab==="analyst")applyAnalyst();
+  buildSidebar();render();
+}
+
+function init(){
+  const ys=[...new Set(M.filter(m=>m[9]===0).map(m=>year(m[0])))].sort();
+  const min=ys[0],max=ys[ys.length-1];
+  $("#y0").innerHTML=ys.map(y=>`<option value="${y}" ${y===min?"selected":""}>${y}</option>`).join("");
+  $("#y1").innerHTML=ys.map(y=>`<option value="${y}" ${y===max?"selected":""}>${y}</option>`).join("");
+  S.y0=min;S.y1=max;
+  $("#y0").onchange=e=>{S.y0=+e.target.value;if(S.y0>S.y1){S.y1=S.y0;$("#y1").value=S.y1;}S.page=0;onRange();};
+  $("#y1").onchange=e=>{S.y1=+e.target.value;if(S.y1<S.y0){S.y0=S.y1;$("#y0").value=S.y0;}S.page=0;onRange();};
+  $("#q").oninput=e=>{S.q=e.target.value;applySearch();};
+  $("#sideSort").onchange=e=>{S.sideSort=e.target.value;buildSidebar();};
+  $("#modeOld").onclick=()=>setMode("old");
+  $("#mode27").onclick=()=>setMode("s27");
+  $("#tabSummary").onclick=()=>setTab("summary");
+  $("#tabAnalyst").onclick=()=>setTab("analyst");
+  $("#tabWorst").onclick=()=>setTab("worst");
+  $("#selAll").onclick=()=>{const st=sideStats();S.sel=new Set([...st.keys()].filter(i=>st.get(i).n>0));S.page=0;buildSidebar();render();};
+  $("#selNone").onclick=()=>{S.sel=new Set();S.page=0;buildSidebar();render();};
+  $("#recoAll").onclick=()=>{const st=sideStats();S.sel=new Set([...st.keys()].filter(i=>st.get(i).n>0));S.page=0;buildSidebar();render();};
+  $("#prev").onclick=()=>{S.page--;renderMatches(filt());};
+  $("#next").onclick=()=>{S.page++;renderMatches(filt());};
+  document.querySelectorAll("#leagueTable th").forEach(th=>th.onclick=()=>{
+    const k=th.dataset.k;if(S.sort===k)S.dir*=-1;else{S.sort=k;S.dir=-1;}
+    renderLeagueTable(filt());
+  });
+  const st=sideStats();
+  S.sel=new Set([...st.keys()].filter(i=>st.get(i).n>0));
+  buildSidebar();render();
+}
+init();
+</script>
+</body>
+</html>
