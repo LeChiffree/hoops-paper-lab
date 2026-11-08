@@ -1,0 +1,17 @@
+# --- büyük ham arşiv / ara dosyalar ---
+raw/
+aiscore_all_matches.csv
+aiscore_all_matches_fixed.csv
+
+# --- geçici ---
+_debug/
+__pycache__/
+*.pyc
+*.sqlite3-wal
+*.sqlite3-shm
+dashboard_full.png
+
+# --- işletim sistemi ---
+Thumbs.db
+desktop.ini
+.DS_Store
