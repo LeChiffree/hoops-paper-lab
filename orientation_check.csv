@@ -1,0 +1,199 @@
+﻿match_id,date,country,league,ai_home,ai_away,ai_score,ai_ml_home,found,fs_home,fs_away,fs_score,fs_ml_home,orientation,score_match,odds_diff
+34kgpsmyp69ceko,20091031,Argentina,Argentinian Liga Nacional de Bosquetbol,Ciclista Olimpico,Union de Formosa,65-76,1.72,0,,,,,,,
+34kgpsmyn53teko,20091016,Germany,Basketball Bundesliga,Ratiopharm Ulm,Brose Bamberg,76-75,2.2,0,,,,,,,
+ndkzysr8nm8fx73,20100115,Australia,Australia National Basketball League,Gold Coast Blaze,Adelaide 36ers,104-89,1.25,1,Gold Coast,Adelaide,104-89,1.275,ok,True,-0.025
+ndqmrsdz0jlurkv,20091107,Czech,Czech National Basketball League,USK Prague,Karma Podebrady,58-67,1.44,0,,,,,,,
+xvkjvsdmgv2h8k9,20091201,Europe,EuroCup Basketball,Benetton Treviso,Crvena Zvezda Belgrade,71-78,1.32,0,,,,,,,
+j374wsvdwp0sgko,20100103,Austria,Austrian Basketball Superliga,UBSC Raiffeisen Graz,Basket Club Vienna,63-80,2.75,0,,,,,,,
+j374wsvdregtgko,20100314,Turkey,Basketbol Super Ligi,Bandırma Basketball Specialization Club,Darussafaka Basketball,86-83,1.09,0,,,,,,,
+8lk2ys952e0bz73,20110420,Australia,Australia National Basketball League,New Zealand Breakers,Cairns Taipans,85-67,1.25,0,,,,,,,
+63kvls04y88sx7e,20110410,England,British Super League Basketball,Caledonia Gladiators,London Lions,89-72,1.25,0,,,,,,,
+wv784sn6296aoqr,20110630,International,FIBA U19 World Cup,Croatia U19,Lithuania U19,88-75,8.0,0,,,,,,,
+wv784sn6jgzsoqr,20110827,Africa,FIBA AfroBasket,Cote d'Ivoire,Tunisia,57-60,2.6,0,,,,,,,
+wv784sn6ppetoqr,20110709,Europe,FIBA U20 Women's European Championship Division B,Greece U20 Women,Belgium U20 Women,53-47,3.3,0,,,,,,,
+wv784sndgwmfoqr,20100314,Italy,Italian Lega Basket Serie A,Pallacanestro Cantù,Olimpia Milano,64-59,1.8,0,,,,,,,
+34kgpsmn9nwaeko,20110508,Austria,Austrian Basketball Superliga,Oberwart Gunners,Arkadia Traiskirchen Lions,76-71,1.33,0,,,,,,,
+o07dzse051etmkn,20111214,Denmark,Basketball League,Vaerlose,Team FOG Naestved,86-75,3.5,1,Vaerlose,Team FOG Naestved,86-75,3.5,ok,True,0.0
+527rjspy451u4ke,20111217,Brazil,Novo Basquete Brasil,Unitri/Universo,Ciser Araldite,83-76,1.15,0,,,,,,,
+ndqmrsdp02ptrkv,20111012,Poland,Polska Liga Koszykówki,Slask Wroclaw,Stelmet Enea Bc Zielona Góra,69-70,1.75,0,,,,,,,
+8lk2ys91j0raz73,20120228,Lithuania,krepsinio lyga,Siauliai,U.Juventus,90-77,1.16,0,,,,,,,
+m2q19s9n9vesek6,20111023,Philippines,Philippine Basketball Governors' Cup,Alaska Aces,Rain or Shine Elastopainters,76-96,1.72,0,,,,,,,
+o17p8se1z19iykj,20120412,Latvia,Basketbola līga,Valmiera,Latvijas Universitate,76-87,1.14,1,Valmiera/ORDO,Latvijas Universitate,76-87,1.125,ok,True,0.015
+ndqmrsdplwourkv,20120224,Spain,Spain Primera FEB,Basquet Mallorca,CB Penas Huesca,87-83,1.55,0,,,,,,,
+m2q19s95g4rhek6,20120414,Americas,FIBA Americas League,Cocodrilos,CAIXA Brasília Basquete,80-81,1.7,0,,,,,,,
+ezk90solm29c1kn,20120802,International,Olympic Game - Men's Basketball,France,Lithuania,82-74,1.3,0,,,,,,,
+ezk90sole41a1kn,20120717,Europe,U20 Championship Division A,Slovenia U20,Turkey U20,72-71,1.4,0,,,,,,,
+527rjspjjm9s4ke,20120505,USA,National Basketball Association,Denver Nuggets,Los Angeles Lakers,99-84,1.58,0,,,,,,,
+vrqw9s6e482c47n,20121021,Israel,Israel Basketball Super League,Hapoel Holon,Maccabi Ashdod,84-62,1.4,1,Hapoel Holon,Maccabi Ashdod,84-62,1.42,ok,True,-0.02
+jek3psye0e4h9qo,20121205,Romania,Liga Națională Baschet de Masculin,U-Mobitelco BT Cluj Napoca,CS Municipal Bucuresti,87-92,1.28,0,,,,,,,
+34kgpsmxmxmaeko,20120519,Belgium,Basketball League Division I,Spirou Charleroi,Stella Artois Leuven Bears,89-68,1.12,0,,,,,,,
+o07dzse1wozumkn,20121016,France,French Ligue Nationale de Basket Pro B,Fos Ouest,Evreux,69-76,1.4,0,,,,,,,
+9gkl6svvy6lfmkx,20130203,Japan,B.League Premier,Takamatsu Five Arrows,San-en NeoPhoenix,78-91,2.75,1,Kagawa Five Arrows,NeoPhoenix,78-91,2.75,ok,True,0.0
+ndqmrsddolpurkv,20130215,Spain,Spain Primera FEB,San Pablo Burgos,Melilla Baloncesto,85-79,1.08,0,,,,,,,
+9gkl6svv62vfmkx,20130427,New Zealand,New Zealand National Basketball League,Taranaki Mountainairs,Nelson Giants,90-91,1.72,1,Taranaki Airs,Nelson Giants,90-91,1.76,ok,True,-0.04
+jr7o9s22nzybg70,20130315,Poland,Polska Liga Koszykówki,AZS Koszalin,Kotwica Kolobrzeg,84-69,1.25,1,Koszalin,Kotwica Kolobrzeg,20-0,1.22,ok,False,0.03
+vmqy6sr61yefgk9,20121214,Sweden,Basketball League,Jamtland Basket,Norrkoping Dolphins,71-91,4.0,0,,,,,,,
+m2q19s9964niek6,20130714,Europe,U20 Championship Division B,Finland U20,CyprusU20,82-37,2.0,0,,,,,,,
+ndqmrsddwp0urkv,20130517,Slovenia,Liga Nova KBM,KK Krka,Union Olimpija,68-73,1.4,0,,,,,,,
+wv784snnzxpfoqr,20130828,Africa,FIBA AfroBasket,Cote d'Ivoire,Cameroon,71-56,1.58,0,,,,,,,
+8lk2ys99zweuz73,20131019,North Macedonia,Macedonian First League,KK Kumanovo 2009,Vardar(FYR),96-84,1.4,1,Kumanovo,Vardar,96-84,,ok,True,
+zrknxsd29joiwql,20131208,England,British Super League Basketball,Manchester Giants,Caledonia Gladiators,98-87,2.0,1,Manchester Giants,Caledonia Gladiators,98-87,2.025,ok,True,-0.025
+l6kersggwm8avq5,20130504,Croatia,Favbet Premijer liga,Zadar,KK Split,79-76,1.11,0,,,,,,,
+9gkl6sv9rx1smkx,20140201,Slovenia,Liga Nova KBM,Portoroz,Elektra Esotech,77-79,1.18,1,Portoroz,Elektra Sostanj,77-79,1.18,ok,True,0.0
+g676js44gpjiokr,20131109,Ukraine,Ukrainian Basketball SuperLeague,Khimik Yuzhne,Halychyna,84-62,1.55,1,Khimik,BC Halychyna,84-62,1.525,ok,True,0.025
+wv784snn9zruoqr,20131012,Czech,Czech National Basketball League,Basketbal Svitavy,Basketbol Brno,70-62,1.15,0,,,,,,,
+o07dzseo92zumkn,20140405,Czech,Czech National Basketball League,BC Kolin,BK Pardubice,65-74,2.7,0,,,,,,,
+vmqy6srd1gdugk9,20140423,Israel,Israel Basketball Super League,Bnei Herzliya,Ironi Eilat,80-79,2.1,0,,,,,,,
+jr7o9s2nyz3sg70,20140227,Romania,Liga Națională Baschet de Masculin,CSM Oradea,Elba Timisoara,59-58,1.16,0,,,,,,,
+g676js4ynl3tokr,20140704,China,National Basketball League,Guizhou Guwu Tangcha,Guangxi Weizhuang,94-97,1.6,0,,,,,,,
+xvkjvsdg6v9b8k9,20140529,Poland,Polska Liga Koszykówki,Especially in Sopot,HydroTruck Radom,75-76,1.22,0,,,,,,,
+wv784sn30gycoqr,20140514,Finland,Korisliiga,Joensuun Kataja,Pyrinto Tampere,95-88,1.52,0,,,,,,,
+jr7o9s2v252tg70,20141028,Europe,Basketball League,Pieno Zvaigzdes,Pyrinto Tampere,76-74,1.3,0,,,,,,,
+8lk2ys9nooesz73,20140806,USA,Women’s National Basketball Association,Los Angeles Sparks,Dallas Wings,90-96,1.32,0,,,,,,,
+8lk2ys9n660uz73,20141127,Iceland,Iceland Basketball Premier League,Stjarnan,Thor Thorl,85-79,1.58,1,Stjarnan,Thorl,85-79,1.6,ok,True,-0.02
+o07dzse3oo3smkn,20141031,Romania,Liga Națională Baschet de Masculin,U-Mobitelco BT Cluj Napoca,CSU Atlassib Sibiu,82-83,1.4,0,,,,,,,
+zrknxsd05wzfwql,20141129,Belgium,Basketball League Division I,Kangoeroes Basketball Willebroek,Generali Okapi Aalstar,82-71,4.5,0,,,,,,,
+l6kersg1o00uvq5,20150208,Serbia,Basketball League,Jagodina,Sloga,67-56,2.25,1,Jagodina,Sloga,67-56,2.2,ok,True,0.05
+zrknxsd0y39fwql,20150131,Norway,Firi-ligaen,Centrum Tigers,Nidaros Jets,108-102,2.5,1,Centrum Tigers,Nidaros Jets,108-102,2.45,ok,True,0.05
+m2q19s945dghek6,20150418,New Zealand,New Zealand National Basketball League,Nelson Giants,Taranaki Mountainairs,83-75,1.1,1,Nelson Giants,Taranaki Airs,83-75,1.095,ok,True,0.005
+g676js432wdsokr,20150402,Denmark,Basketball League,Team FOG Naestved,Copenhagen Wolfpack,79-73,1.5,1,Team FOG Naestved,BMS Herlev,79-73,1.5,ok,True,0.0
+jr7o9s2m14mug70,20150718,International,FIBA U19 Women’s World Championship,Australia U19 Women,Serbia U19 Women,105-62,1.13,0,,,,,,,
+o17p8senvr1bykj,20150514,Serbia,Basketball League,Konstantin,KK Metalac,79-75,6.0,1,Konstantin,KK Metalac,79-75,7.0,ok,True,-1.0
+jr7o9s2mvn3bg70,20150517,Portugal,Liga Portuguesa de Basquetebol,Ovarense Aerosoles,Lisboa e Benfica,67-61,3.0,1,Ovarense,Benfica,67-61,3.15,ok,True,-0.15
+wv784sne1p8uoqr,20151004,Denmark,Basketball League,SISU CPH,Team FOG Naestved,59-85,3.3,1,Sisu,Team FOG Naestved,59-85,3.3,ok,True,0.0
+xvkjvsdv0drb8k9,20150815,Australia,Women's Basketball League,Kilsyth Cobras Women,Ballarat Miners (W),90-79,1.05,1,Kilsyth,Ballarat,69-76,2.125,ok,False,-1.075
+o07dzseg43eumkn,20151016,Americas,Liga Sudamericana de Básquetbol,CAIXA Brasília Basquete,Atenas Cordoba,91-101,1.04,0,,,,,,,
+wv784sner8zhoqr,20151105,China,Women's Basketball Association,Shandong Hi-Speed Women,Ba Yi GuangBO Women,88-93,6.75,0,,,,,,,
+edq0es9oo4vbekx,20160224,Europe,Women’s Basketball Championship Qualifier,Belarus Women,Poland Women,79-62,1.07,0,,,,,,,
+ezk90so64zpa1kn,20151206,Czech,Czech National Basketball League,Sluneta Usti nad Labem,Basketbal Svitavy,85-65,1.41,0,,,,,,,
+jek3psyg584s9qo,20160207,Czech,Czech Women's Basketball League,BK Lokomotiva Karlovy Vary Women,Ostrava (W),84-53,1.07,1,Karlovy Vary W,Ostrava W,84-53,1.07,ok,True,0.0
+wv784snmg6vioqr,20160407,Finland,Korisliiga,BC Nokia,Joensuun Kataja,75-72,3.4,1,BC Nokia,Kataja,75-72,3.3,ok,True,0.1
+63kvls0re3zcx7e,20160416,France,France Ligue Nationale de Basket,Chalon/SaÔne,Cholet,100-77,1.15,0,,,,,,,
+edq0es9ovj4sekx,20160727,Philippines,Philippine Basketball Governors' Cup,Kia Picanto,San Miguel Beermen,105-103,2.85,0,,,,,,,
+oj7x6sy0pe1u47g,20160506,Lithuania,krepsinio lyga,Siauliai,Neptunas Klaipeda,86-87,1.62,0,,,,,,,
+g676js4rgg2aokr,20160820,Australia,Basketball League,Bendigo Braves,Brisbane Spartans,83-60,1.22,1,Bendigo Braves,Southern District,83-60,1.22,ok,True,0.0
+wv784snxddwboqr,20161009,Asian,Champions Cup,Pu-Yuan,Aarhus,89-65,2.95,0,,,,,,,
+oj7x6sy0g9rs47g,20160519,Netherlands,Dutch Basketball League,GasTerra Flames Groningen,Zwolle,82-71,1.41,0,,,,,,,
+9gkl6srlpnpcmkx,20161126,Kazakhstan,Kazakhstan National League,Atyrau leopard,BK Kaspiy Aktau,86-62,1.3,1,Atyrau,Kaspiy Aktau,86-62,1.11,ok,True,0.19
+6975lszwgrpbgk2,20161217,Bulgaria,Bulgaria National Basketball League,Academic Bultex,PBC Lukoil Academic,74-72,4.5,1,Botev Academic,Academic,72-74,1.145,swapped,False,3.355
+vmqy6swjn60sgk9,20170223,Sweden,Basketball League,Jamtland Basket,KFUM Nassjo,93-78,1.16,1,Jamtland,Nassjo,93-78,1.16,ok,True,0.0
+63kvlsrme1wsx7e,20170312,England,British Super League Basketball,Leeds Carnegie,Airwaves Plymouth Raiders,99-69,2.7,1,Leeds Force,Plymouth Raiders,99-69,2.75,ok,True,-0.05
+m2q19swe4v2aek6,20170422,Hungary,Nemzeti Bajnokság I/A,MAFC,Atomeromu SE PAKS,67-74,2.6,1,MAFC,Atomeromu Paks,67-74,2.6,ok,True,0.0
+jek3psg69dgs9qo,20170202,Brazil,Novo Basquete Brasil,CAIXA Brasília Basquete,Universo Vitoria,70-78,1.38,0,,,,,,,
+o17p8s9rd2wsykj,20170523,Georgia,Georgia Super League,Cactus Tbilisi,Energy Invest Rustavi 1991,85-93,1.62,1,Cactus Tbilisi,Rustavi,85-93,1.585,ok,True,0.035
+jr7o9s1jz1msg70,20170810,Americas,FIBA Women's AmeriCup,Cuba Women,Puerto Rico Women,67-70,4.0,0,,,,,,,
+o07dzsv063rsmkn,20170828,International,International University Men's Sports Federation,Hong Kong Univ,Mozambique Univ,84-71,1.23,0,,,,,,,
+j374ws3dprdhgko,20170628,Colombia,Baloncesto Profesional Colombiano,Condores de Cundinamarca,Academia de la Montana,86-88,2.65,0,,,,,,,
+o17p8seyryltykj,20161015,Sweden,Basketball League,Sodertalje BBK,Boras Basket,77-72,1.3,0,,,,,,,
+34kgpsexv3yseko,20171118,Slovakia,Slovenska Basketbalova Liga,BK 04 AC LB Spisska Nova Ves,Kosice,68-98,8.5,1,Spisski Rytieri,Kosice,68-98,8.0,ok,True,0.5
+xvkjvsnxv83a8k9,20171015,Norway,Firi-ligaen,Fyllingen,Tromso Storm,89-63,1.01,1,Fyllingen,Tromso,89-63,1.01,ok,True,0.0
+vmqy6swr6ngagk9,20180122,Israel,Israel Basketball Super League,Maccabi Ashdod,Rishon Le Zion Maccabi,106-82,1.57,1,Maccabi Ashdod,Maccabi Rishon,106-82,1.55,ok,True,0.02
+l6kers6po3rfvq5,20171110,France,French Ligue Nationale de Basket Pro B,Aix-Maurienne,Saint-Chamond,73-79,1.8,1,Aix Maurienne,St Etienne,73-79,1.85,ok,True,-0.05
+jr7o9s1j1lxfg70,20171014,USA,National Basketball Association,Memphis Grizzlies,New Orleans Pelicans,142-101,1.57,0,,,,,,,
+oj7x6s0yylef47g,20180125,China,China Basketball Association,Shandong Hi-Speed Kirin,Xinjiang Flying Tigers,116-105,1.47,0,,,,,,,
+jr7o9s1nozxsg70,20180330,Serbia,Basketball League,KK Dunav,Beovuk,107-87,1.43,1,Dunav,Beovuk,107-87,1.13,ok,True,0.3
+j374ws3nejxagko,20180526,Georgia,Georgia Super League,Energy Invest Rustavi 1991,BC Mgzavrebi A. Tbilisi,76-79,1.57,1,Rustavi,Mgzavrebi Tbilisi,76-79,1.57,ok,True,0.0
+xvkjvsng001u8k9,20180317,International,Club Friendship,Bankstown Bruins Women,Hornsby Spiders Women,60-69,1.344,0,,,,,,,
+o07dzsv36dgfmkn,20180516,Sweden,Basketball League,Norrkoping Dolphins,Plannja Basket,95-90,1.66,0,,,,,,,
+jek3psg5vogc9qo,20180724,Americas,Central American and Caribbean Games Women,Barbados Women,Guatemala Women,53-72,2.6,0,,,,,,,
+ndkzysj1e95ax73,20181005,Russia,Basketball Super League,CSKA Moscow 2,Burevestnik Jaroslav,77-82,3.3,1,CSKA Moscow 2,Burevestnik Jaroslav,77-82,3.3,ok,True,0.0
+527rjsl1l0ri4ke,20180709,Philippines,Philippine Basketball Commissioner's Cup,TNT Tropang Giga,San Miguel Beermen,110-121,2.55,1,TNT Tropang 5G,San Miguel Beermen,110-121,3.3,ok,True,-0.75
+g676jsr3vgdiokr,20181020,Switzerland,Swiss Basketball League,Benetton Fribourg Olympic,Lugano Tigers,72-91,1.14,1,Fribourg Olympic,Lugano Tigers,86-70,1.14,ok,False,0.0
+8lk2ys4yr85bz73,20181230,Australia,Women’s National Basketball League,Dandenong Rangers Women,Canberra Women,43-86,3.15,0,,,,,,,
+edq0esonllohekx,20190103,Austria,Austrian Basketball Superliga,UBSC Raiffeisen Graz,Basket Club Vienna,76-72,3.05,0,,,,,,,
+jr7o9s1mv6pug70,20181117,Bulgaria,Bulgaria National Basketball League,Spartak Pleven,Academic Bultex,68-85,3.75,1,Spartak Pleven,Botev Academic,68-85,3.5,ok,True,0.25
+ndqmrs83z9nsrkv,20190122,Argentina,Argentinian Liga Nacional de Bosquetbol,Weber Bahia,Instituto de Cordoba,68-63,2.55,1,Weber Bahia,Instituto de Cordoba,68-63,2.7,ok,True,-0.15
+vrqw9s3gl98h47n,20190411,Israel,Israel Basketball Super League,Ironi Nahariya,Hapoel Beer Sheva,68-92,2.0,1,Ironi Nahariya,Hapoel Beer Sheva,68-92,2.15,ok,True,-0.15
+o07dzsvw05mcmkn,20190322,Georgia,Georgia Super League,Torpedo Kutaisi,Energy Invest Rustavi 1991,87-75,1.11,0,,,,,,,
+527rjsl68njt4ke,20190511,Spain,Liga Endesa,Baskonia Vitoria,San Pablo Burgos,87-79,1.071,1,Baskonia,San Pablo Burgos,87-79,1.06,ok,True,0.011
+63kvlsr2dr0bx7e,20190507,France,French Ligue Nationale de Basket Pro B,Nantes,Evreux,95-70,1.52,1,Nantes,Evreux,95-70,1.4,ok,True,0.12
+g676jsr5yvybokr,20190720,New Zealand,New Zealand National Basketball League,Wellington Saints,Southland Sharks,95-89,0.0,1,Wellington Saints,Southland Sharks,95-89,1.135,ok,True,-1.135
+jr7o9s1o6erig70,20191024,Kazakhstan,Women's National League,Irtysh Pavlodar Women,Sinegoryie Kokshetau Women,72-35,1.41,0,,,,,,,
+6975lszrvd6bgk2,20191117,Switzerland,Swiss Basketball League,Lugano Tigers,BBC Monthey,68-60,2.0,1,Lugano Tigers,BBC Monthey,68-60,2.2,ok,True,-0.2
+o17p8s9onwduykj,20190727,Australia,QBL,Logan Thunder,Phoenix Sunshine Coast,71-77,1.181,0,,,,,,,
+zrknxsepmrlhwql,20191020,England,Woman's National Basketball League,Newcastle Eagles Women,Sevenoaks Suns Women,59-67,8.25,0,,,,,,,
+zrknxsepejjswql,20191123,Mexico,ABE League,Montereco's greater Leon Campus,Montereco greater Hidalgo Campus,73-81,3.65,0,,,,,,,
+o07dzsv8pxmimkn,20200223,Thailand,Thailand Basketball League	,Luang Prabang,Duncan Toronto,79-81,2.65,0,,,,,,,
+34kgpse5m4raeko,20200112,Kazakhstan,Kazakhstan National League,Tobol Kostanay,Atyrau leopard,101-82,2.95,1,Tobol Kostanay,Atyrau,101-82,,ok,True,
+6975lszdn4wcgk2,20200306,Denmark,Basketball League,Copenhagen,Copenhagen Wolfpack,102-95,6.75,1,Copenhagen,BMS Herlev,102-95,5.5,ok,True,1.25
+527rjslxepgt4ke,20200607,Germany,Basketball Bundesliga,RASTA Vechta,EnBW Ludwigsburg,76-81,3.55,1,Vechta,Ludwigsburg,76-81,3.6,ok,True,-0.05
+wv784smglootoqr,20200308,Albania,Albania Super League,Tirana Eagles Basket,Partizani,78-99,16.0,0,,,,,,,
+ezk90sgrndls1kn,20200516,Americas,Nicaragua Championship,El Rama,Bonanza,76-86,5.75,1,El Rama,Bonanza,76-86,6.0,ok,True,-0.25
+xvkjvsn3e1vc8k9,20200802,USA,Women’s National Basketball Association,Indiana Fever,Atlanta Dream,93-77,1.86,1,Indiana Fever W,Atlanta Dream W,93-77,1.915,ok,True,-0.055
+zrknxseglnptwql,20200709,Israel,Israel Basketball Super League,Rishon Le Zion Maccabi,Hapoel Holon,98-81,1.1,1,Maccabi Rishon,Hapoel Holon,98-81,1.1,ok,True,0.0
+ezk90sgrwedb1kn,20201010,Slovakia,Slovenska Basketbalova Liga,MBK Lucenec,BK 04 AC LB Spisska Nova Ves,91-100,1.47,1,BKM Lucenec,Spisski Rytieri,91-100,1.48,ok,True,-0.01
+m2q19sw3g14tek6,20201105,Mali,Premiere Division,Attar Club,AS Police,69-65,2.1,0,,,,,,,
+jr7o9s18dw8hg70,20201021,Europe,EuroCup Basketball,KK Buducnost,Ratiopharm Ulm,73-68,1.32,1,Buducnost,Ulm,73-68,1.355,ok,True,-0.035
+zrknxse6vgohwql,20210220,Portugal,Portugal Women's Nacional Liga,CP Natacao Women,Olivais Women,58-70,3.4,1,Natacao W,Olivais W,58-70,4.5,ok,True,-1.1
+m2q19sw3re3cek6,20201202,Puerto Rico,Baloncesto Superior Nacional	,Guaynabo,Capitanes de Arecibo,97-89,2.3,1,Mets de Guaynabo,Capitanes de Arecibo,97-89,2.275,ok,True,0.025
+34kgpse8j12feko,20210317,Cyprus,Cyprus Basketball Division A	,Dentacon Apoel Nicosia,Keravnos,82-81,3.3,1,Apoel BC,Keravnos,82-81,2.75,ok,True,0.55
+34kgpsel3nwteko,20210620,Americas,FIBA Women's AmeriCup,Canada Women,Brazil Women,82-87,1.41,0,,,,,,,
+jek3psg4vz8t9qo,20210523,Tunisia,Women's League,ES Cap Bon Women,Ezzahra Sport Women,56-51,2.7,0,,,,,,,
+xvkjvsnw9nou8k9,20210404,Brazil,Novo Basquete Brasil,GRSA Itabom Bauru,Fortaleza B. C.,98-97,1.3,0,,,,,,,
+9gkl6sr80rgamkx,20210809,Senegal,Senegal Women's Division 1,ASC Ville Dakar Women,Dakar Universite Club Women,68-49,1.9,0,,,,,,,
+ezk90sg8eypu1kn,20210827,Dominican Republic,Dominican Republic Liga Nacional Basketball,Titanes del Licey,Leones de Santo Domingo,69-67,2.1,0,,,,,,,
+ndkzysje9ensx73,20211018,Georgia,Georgia Super League,Vera Tbilisi,Batumi,83-74,1.5,1,Vera Tbilisi,Batumi,83-74,2.0,ok,True,-0.5
+ndkzysjedo4bx73,20211126,Africa,Africa World Cup qualifier,Guinea,Central African Rep,76-71,5.25,0,,,,,,,
+9gkl6sr21ewbmkx,20210224,Poland,Women's Liga Koszykówki Kobiet,Artego Bydgoszcz Women,Ostrow Wielkopolski Women,77-68,1.9,0,,,,,,,
+jr7o9s1g52dig70,20211113,Norway,Firi-ligaen,Nidaros Jets,Asker Aliens,60-82,11.0,1,Nidaros Jets,Asker,60-82,9.25,ok,True,1.75
+oj7x6s05e6jf47g,20210901,Dominican Republic,Dominican Republic Liga Nacional Basketball,Metros de Santiago,Titanes del Licey,107-81,1.31,0,,,,,,,
+vmqy6sw2nyecgk9,20220131,Indonesia,Indonesia Basketball League,Dewa United,West Bandits Solo,73-93,1.77,1,Dewa United,West Bandits Solo,73-93,2.0,ok,True,-0.23
+9gkl6s6l2pxbmkx,20220424,England,British Super League Basketball,Manchester Giants,London Lions,80-90,1.71,1,Manchester Giants,London Lions,80-90,1.67,ok,True,0.04
+jr7o9s1emmmug70,20220112,Iran,Iran Division 1,Khaneh Alborz,Sanaye Hormozgan,79-72,1.666,0,,,,,,,
+zrknxsexoo0hwql,20220313,Lithuania,krepsinio lyga,Zalgiris Kaunas,Jonava,93-70,1.03,1,Zalgiris Kaunas,Jonava,93-70,1.04,ok,True,-0.01
+9gkl6s60mv0bmkx,20220708,El Salvador,El Salvador Women's Liga,Opico Women,Santa Tecla BC Women,43-84,4.5,0,,,,,,,
+ndkzysnmegjax73,20220501,England,Woman's National Basketball League,Leicester Riders Women,Nottingham Women,69-81,1.37,0,,,,,,,
+o17p8syr8gmcykj,20221012,Iraq,Iraq Premier League,Al Shurtah,Calderheran,99-88,1.1,0,,,,,,,
+6975lsn3jwgagk2,20220608,Senegal,Senegal Women's Division 1,Debaloc Women,GBA Women,54-44,1.11,0,,,,,,,
+527rjswe632i4ke,20220723,Mexico,Liga Nacional de Baloncesto Profesional,Halcones de Xalapa,Dorados de Chihuahua,82-83,2.7,1,Halcones de Xalapa,Dorados,82-83,2.6,ok,True,0.1
+8lk2ys6oxjxuz73,20221022,Romania,Liga Națională Baschet de Masculin,CSM Foscani,CS Farul Constanca,63-74,2.0,1,CSM Focsani,CSM Constanta,63-74,2.0,ok,True,0.0
+ndqmrs3o9ewarkv,20221216,Latvia,Basketbola līga,Livani,Gulbenes Buki,69-95,13.0,0,,,,,,,
+wv784sxpvj2foqr,20230216,Iceland,Iceland Basketball Premier League,UMFN Njardvik,Breidablik,135-95,1.11,1,Njardvik,Breidablik,135-95,1.05,ok,True,0.06
+edq0esdg99pfekx,20230412,Mexico,CIBACOPA,Hermosillo,Obregon,86-78,1.26,1,Rayos de Hermosillo,Halcones de Obregon,86-78,1.25,ok,True,0.01
+vmqy6sn6rgwagk9,20230415,Philippines,Philippines MPBL,Quezon Huskers,Bacolod City of Smiles,63-56,1.18,0,,,,,,,
+wv784sx6gj6soqr,20230221,Cuba,Cuba Liga Superior de Baloncesto,Gladiadores,Ciego de Avila,70-83,9.5,0,,,,,,,
+9gkl6s60jxnamkx,20221211,Finland,Korisliiga,UU-Korihait,Kauhajoen Karhu,79-103,9.0,0,,,,,,,
+j374ws9z9edagko,20230507,Costa Rica,Costa Rica LDB Superior,Colegio de Abogados,PFC Pelicans ,72-86,6.75,0,,,,,,,
+ndqmrs3d2wdbrkv,20230831,Puerto Rico,Puerto Rico Superior Nacional women,Politias de Isabela Women,Montaneras de Morovis Women,59-52,1.66,0,,,,,,,
+wv784sxw8oocoqr,20230517,Paraguay,Paraguay Primera,Sol de America,Deportivo Campoalto,64-69,9.5,0,,,,,,,
+ndkzysngn8vax73,20231029,Austria,Austria Women's BDSL,UBI Graz Women,Vienna D.C. Timberwolves,67-55,1.006,1,UBI Graz W,Vienna Timberwolves W,67-55,1.015,ok,True,-0.009
+ndqmrs30e6nfrkv,20230713,Mexico,Mexico LNBPF Women,Fuerza Regia de Monterrey Women,Libertadoras Women,86-52,1.63,0,,,,,,,
+zrknxs5dpoxcwql,20230909,Puerto Rico,Puerto Rico Superior Nacional women,Cangrejeras de Santurce Women,Ganaderas de Hatillo,70-65,1.31,0,,,,,,,
+ndkzysn1wxgax73,20240208,Argentina,Argentina Liga Nacional,Deportivo Viedma,Provincial de Rosario,97-83,1.36,0,,,,,,,
+ndqmrs3dme3arkv,20231125,Japan,B.League One,Fukushima Firebonds,Rizing Zephyr Fukuoka,67-81,3.3,1,Fukushima,Fukuoka,67-81,2.85,ok,True,0.45
+vrqw9s9zen8f47n,20240301,Czech,Czech Liga1 Basketball League,Lokomotiva Plzen,BC Novy Jicin,89-78,1.57,1,Plzen,Novy Jicin,89-78,1.57,ok,True,0.0
+jr7o9s3m49gig70,20240424,Lithuania,Lithuanian Women's Basketball League,Fortuna Klaipeda (W),Siauliai Women,86-68,1.25,1,Klaipedos Neptunas W,Siauliai W,86-68,1.25,ok,True,0.0
+ndqmrs38zgjarkv,20240527,Africa,FIBA Basketball Africa League,AS Douanes,Atletico Petroleos de Luanda,65-66,1.67,0,,,,,,,
+527rjswm108h4ke,20231111,China,Women's Basketball Association,Zhejiang Chouzhou Bank Women,Wuhan Shengfan Women,88-58,1.0,0,,,,,,,
+34kgps1ex0gseko,20240619,Tunisia,Women's League,ES Sahel Women,ES Cap Bon Women,54-61,11.0,0,,,,,,,
+vmqy6snmyvetgk9,20240123,Netherlands,Basketball Cup,Landstede Basketbal Zwoll,Feyenoord Basketbal Rotterdam,76-82,1.05,0,,,,,,,
+6975lsnnmp4ugk2,20241029,Asian,West Asia Super League,Al Ittihad Bahrain,Al Arabi,86-64,2.25,1,Al Ittihad,Al Arabi,86-64,3.05,ok,True,-0.8
+6975lsnnn4dfgk2,20240929,Malta,Malta National League Women,Luxol BC Women,Depiro BC Women,59-76,1.71,0,,,,,,,
+o17p8sy9w64tykj,20240816,Brazil,Federação Paulista de Basquete,Liga Sorocabana,Vivo Franca,68-75,5.0,0,,,,,,,
+vmqy6snlw62hgk9,20241108,Uganda,Uganda Division 1,Tropical Royals,Sommet BC,55-61,2.55,0,,,,,,,
+oj7x6sz0zznu47g,20240720,Philippines,Philippines MPBL,Biñan Tatak Gel,Rizal Crusaders,82-80,1.47,0,,,,,,,
+63kvlsorrvghx7e,20250115,Europe,EuroLeague,Barcelona,Panathinaikos AKTOR B.C.,82-73,2.05,1,Barcelona,Panathinaikos,82-73,1.955,ok,True,0.095
+o07dzsmwv2wamkn,20241222,China,Women's Basketball Association,Shaanxi Tianze Women's,Fujian Xiamen Women,82-67,1.01,0,,,,,,,
+ndqmrs3w6wpurkv,20250228,Bahrain,Premier League,Al Najma,Al Manama,88-94,4.4,1,Al Najma,Al Manama,88-94,2.9,ok,True,1.5
+vrqw9s902lmc47n,20250508,Iran,Basketball Super League,Jam Shahrekord U23,Golnoor Esfahan U23,86-78,2.5,0,,,,,,,
+63kvlso60evbx7e,20250410,Venezuela,Venezuelan SuperLiga,Llaneros de Guarico,Trotamundos,82-89,3.5,0,,,,,,,
+527rjswrp6jb4ke,20250726,International,International University Men's Sports Federation,Germany Univ,Lithuania Univ,70-80,1.9,0,,,,,,,
+jr7o9s3yj6yig70,20250323,Europe,EBBL Cup,Ciftlikkoy Belediyespor,Serdivan Belediyesi,92-60,1.0,0,,,,,,,
+j374ws94m6yagko,20250526,Uruguay,Women's Championship,Urunday Universitario Women,1 de Agosto Women,81-69,2.65,0,,,,,,,
+zrknxs58edmiwql,20251002,Dominican Republic,TBS,Mauricio Baez,Huellas del Siglo,79-72,1.07,0,,,,,,,
+6975lsnx29wugk2,20251108,Cyprus,Cyprus Basketball Division A	,AEK Larnaca,Enosis Neon Paralimni,90-82,1.05,1,AEK Larnaca,Paralimni,90-82,1.05,ok,True,0.0
+ndkzysnd1nvfx73,20250729,Uruguay,Uruguay Liga de Ascenso,Borges,Verdirrojo,84-87,1.9,0,,,,,,,
+8lk2ys6ww5duz73,20251019,Portugal,Portugal Basketball Cup,SIMECQ,Carnide Clube,56-67,8.0,0,,,,,,,
+vrqw9s929l3t47n,20260124,France,Ligue Feminine de Basketball,Bourges Basket Women,Villeneuve D'Asco ESB Lille Metropole Women's,65-62,1.25,0,,,,,,,
+edq0esd19zjaekx,20251123,Uganda,Women's NBL,Pearls Queens women,Victoria Crocs (w),77-41,1.2,0,,,,,,,
+m2q19srl1joaek6,20260418,Switzerland,Switzerland NLB,Bernex Basket,Lugano Tigers U23,105-70,1.04,0,,,,,,,
+ndkzysn49ejax73,20260330,Georgia,Georgia Championship U22,Rustavi U22,BC Delta Gurjaani U22,98-69,1.06,0,,,,,,,
+9gkl6s62w1ptmkx,20260608,Czech,Czech National Basketball League,BK Pardubice,CEZ Nymburk,101-100,2.7,1,Pardubice,Nymburk,101-100,3.475,ok,True,-0.775
+m2q19srxjjzbek6,20260115,USA,National Collegiate Athletic Association,Indiana State,Illinois State,94-89,3.2,1,Indiana State,Illinois State,94-89,3.2,ok,True,0.0
+o17p8sygmjvuykj,20260606,Morocco,Morocco D1 League,OC Khouribga,ASA Al Hoceima,45-79,1.48,0,,,,,,,
+l6kersm2312uvq5,20260825,China,Women's National Championship Basketball,Shanghai Baoshan Women,Beijing Normal University Women,90-91,1.74,0,,,,,,,
+9gkl6s622rehmkx,20260708,USA,NBA Summer League,Utah Jazz,Oklahoma City Thunder,103-69,1.5,1,Utah Jazz,Oklahoma City Thunder,103-69,1.62,ok,True,-0.12
+l6kersmow58fvq5,20261013,Latvia,Latvia NBL,BK Ventspils Augstskola,Tukums,91-63,1.11,0,,,,,,,
+g676jsl14y0sokr,20261101,Mexico,CIBAPAC,Guerreros Navolato,Soles Los Mochis,89-76,1.43,0,,,,,,,
+vrqw9s9y882f47n,20260927,Chile,Chile Liga Nacional Basketball,Osorno,Puente Alto,89-69,1.4,0,,,,,,,
+o07dzsmxev2umkn,20261101,Malta,Malta National League Women,Luxol BC Women,Starlites Naxxar Women,54-41,2.7,0,,,,,,,

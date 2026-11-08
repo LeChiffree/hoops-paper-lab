@@ -1,0 +1,606 @@
+﻿Tarih,Lig,Ulke,Ev Sahibi,Deplasman,Ev Skoru,Deplasman Skoru,Oran,Sonuc,Bahis (TL),Kar (TL),Kumulatif (TL)
+2026-08-01,WNBA,USA,Portland Fire,Indiana Fever,98,112,3.7,Kaybetti,250.0,-250.0,-350285.0
+2026-08-01,WNBA,USA,Washington Mystics,Dallas Wings,81,75,2.35,Kazandi,250.0,337.5,-349947.5
+2026-08-01,Meksika LNBP,Mexico,Freseros de Irapuato,Mineros de Zacatecas,92,89,2.7,Kazandi,250.0,425.0,-349522.5
+2026-08-01,WNBA,USA,Chicago Sky,Las Vegas Aces,84,83,3.2,Kazandi,250.0,550.0,-348972.5
+2026-08-07,Meksika LNBP,Mexico,Abejas de León,Astros de Jalisco,83,95,2.7,Kaybetti,250.0,-250.0,-349222.5
+2026-08-08,WNBA,USA,Chicago Sky,Indiana Fever,86,90,2.95,Kaybetti,250.0,-250.0,-349472.5
+2026-08-08,WNBA,USA,Houston Comets,Phoenix Mercury,75,72,2.8,Kazandi,250.0,450.0,-349022.5
+2026-08-08,WNBA,USA,Washington Mystics,Atlanta Dream,79,74,2.4,Kazandi,250.0,350.0,-348672.5
+2026-08-10,WNBA,USA,Los Angeles Sparks,Golden State Valkyries,78,84,2.85,Kaybetti,250.0,-250.0,-348922.5
+2026-08-11,Meksika LNBP,Mexico,El Calor de Cancún,Mineros de Zacatecas,69,76,2.55,Kaybetti,250.0,-250.0,-349172.5
+2026-08-15,WNBA,USA,Houston Comets,New York Liberty,75,82,3.8,Kaybetti,250.0,-250.0,-349422.5
+2026-08-16,Meksika LNBP,Mexico,Santos del Potosí,Soles de Mexicali,75,84,2.7,Kaybetti,250.0,-250.0,-349672.5
+2026-08-16,Meksika LNBP,Mexico,Gambusinos de Fresnillo,Diablos Rojos del México,83,80,2.3,Kazandi,250.0,325.0,-349347.5
+2026-08-17,Meksika LNBP,Mexico,Gambusinos de Fresnillo,Diablos Rojos del México,66,71,2.3,Kaybetti,250.0,-250.0,-349597.5
+2026-08-17,Meksika LNBP,Mexico,Santos del Potosí,Soles de Mexicali,74,105,3.1,Kaybetti,250.0,-250.0,-349847.5
+2026-08-19,WNBA,USA,Chicago Sky,New York Liberty,93,86,2.55,Kazandi,250.0,387.5,-349460.0
+2026-08-21,WNBA,USA,Los Angeles Sparks,Atlanta Dream,88,124,3.65,Kaybetti,250.0,-250.0,-349710.0
+2026-08-22,WNBA,USA,Washington Mystics,Minnesota Lynx,84,94,3.1,Kaybetti,250.0,-250.0,-349960.0
+2026-08-22,WNBA,USA,Chicago Sky,Golden State Valkyries,73,70,3.05,Kazandi,250.0,512.5,-349447.5
+2026-08-23,WNBA,USA,Phoenix Mercury,Atlanta Dream,89,99,2.7,Kaybetti,250.0,-250.0,-349697.5
+2026-08-24,WNBA,USA,Chicago Sky,Indiana Fever,90,113,2.4,Kaybetti,250.0,-250.0,-349947.5
+2026-08-24,WNBA,USA,Portland Fire,Washington Mystics,100,105,2.4,Kaybetti,250.0,-250.0,-350197.5
+2026-08-25,Meksika LNBP,Mexico,El Calor de Cancún,Astros de Jalisco,50,89,3.1,Kaybetti,250.0,-250.0,-350447.5
+2026-08-25,Meksika LNBP,Mexico,Correcaminos UAT Victoria,Soles de Mexicali,74,100,2.55,Kaybetti,250.0,-250.0,-350697.5
+2026-08-25,Meksika LNBP,Mexico,Santos del Potosí,Dorados de Chihuahua,87,63,2.9,Kazandi,250.0,475.0,-350222.5
+2026-08-26,Meksika LNBP,Mexico,Correcaminos UAT Victoria,Soles de Mexicali,78,74,2.85,Kazandi,250.0,462.5,-349760.0
+2026-08-26,Meksika LNBP,Mexico,Abejas de León,Diablos Rojos del México,73,75,2.3,Kaybetti,250.0,-250.0,-350010.0
+2026-08-26,WNBA,USA,Houston Comets,Chicago Sky,87,81,2.5,Kazandi,250.0,375.0,-349635.0
+2026-08-26,Meksika LNBP,Mexico,El Calor de Cancún,Astros de Jalisco,79,88,3.25,Kaybetti,250.0,-250.0,-349885.0
+2026-08-29,WNBA,USA,Los Angeles Sparks,Washington Mystics,88,82,2.7,Kazandi,250.0,425.0,-349460.0
+2026-08-30,Meksika LNBP,Mexico,Freseros de Irapuato,Astros de Jalisco,117,129,3.65,Kaybetti,250.0,-250.0,-349710.0
+2026-08-31,WNBA,USA,Portland Fire,Golden State Valkyries,69,86,2.7,Kaybetti,250.0,-250.0,-349960.0
+2026-08-31,Meksika LNBP,Mexico,Freseros de Irapuato,Astros de Jalisco,67,77,2.55,Kaybetti,250.0,-250.0,-350210.0
+2026-09-11,Meksika LNBP,Mexico,Santos del Potosí,Fuerza Regia de Monterrey,89,101,2.55,Kaybetti,250.0,-250.0,-350460.0
+2026-09-11,Meksika LNBP,Mexico,El Calor de Cancún,Panteras de Aguascalientes,103,88,2.3,Kazandi,250.0,325.0,-350135.0
+2026-09-12,Meksika LNBP,Mexico,Correcaminos UAT Victoria,Dorados de Chihuahua,85,83,2.6,Kazandi,250.0,400.0,-349735.0
+2026-09-12,Türkiye TBL,Turkey,Kecioren Baglum,Royal Hali Gaziantep,82,68,3.15,Kazandi,250.0,537.5,-349197.5
+2026-09-12,Türkiye TBL,Turkey,Cedi Osman Basketbol,Konya Buyuksehir,59,75,3.6,Kaybetti,250.0,-250.0,-349447.5
+2026-09-12,Meksika LNBP,Mexico,Santos del Potosí,Fuerza Regia de Monterrey,74,103,2.3,Kaybetti,250.0,-250.0,-349697.5
+2026-09-12,Meksika LNBP,Mexico,El Calor de Cancún,Panteras de Aguascalientes,82,86,2.8,Kaybetti,250.0,-250.0,-349947.5
+2026-09-14,Basketball Champions League,Europe,BK Opava,Dziki Warszawa,99,116,3.4,Kaybetti,250.0,-250.0,-350197.5
+2026-09-15,Meksika LNBP,Mexico,Freseros de Irapuato,Soles de Mexicali,73,85,2.55,Kaybetti,250.0,-250.0,-350447.5
+2026-09-16,Meksika LNBP,Mexico,Freseros de Irapuato,Soles de Mexicali,63,92,3.7,Kaybetti,250.0,-250.0,-350697.5
+2026-09-17,Basketball Champions League,Europe,Lisboa e Benfica,RASTA Vechta,88,98,3.9,Kaybetti,250.0,-250.0,-350947.5
+2026-09-18,Polonya 1. Lig,Poland,Gimbasket Wroclaw,Sportino Inowroclaw,66,80,2.5,Kaybetti,250.0,-250.0,-351197.5
+2026-09-18,WNBA,USA,Seattle Storm,Las Vegas Aces,77,114,4.0,Kaybetti,250.0,-250.0,-351447.5
+2026-09-18,Basketball Champions League,Europe,Salon Vilpas,Bakken Bears,90,72,2.35,Kazandi,250.0,337.5,-351110.0
+2026-09-18,WNBA,USA,Chicago Sky,Washington Mystics,80,110,2.45,Kaybetti,250.0,-250.0,-351360.0
+2026-09-19,Almanya BBL,Germany,Basketball Braunschweig,Gladiators Trier,116,107,2.82,Kazandi,250.0,455.0,-350905.0
+2026-09-19,Polonya 1. Lig,Poland,Polonia Bytom,Miasto Szkla Krosno,91,85,2.65,Kazandi,250.0,412.5,-350492.5
+2026-09-19,Danimarka Basketligaen,Denmark,Gladsaxe,Vaerlose,78,88,2.9,Kaybetti,250.0,-250.0,-350742.5
+2026-09-20,Polonya 1. Lig,Poland,AZS Rzeszow,Kotwica Kolobrzeg,80,94,2.65,Kaybetti,250.0,-250.0,-350992.5
+2026-09-20,Basketball Champions League,Europe,Dziki Warszawa,RASTA Vechta,82,93,2.75,Kaybetti,250.0,-250.0,-351242.5
+2026-09-20,Basketball Champions League,Europe,Salon Vilpas,CSM Oradea,98,96,3.9,Kazandi,250.0,725.0,-350517.5
+2026-09-20,Türkiye TBL,Turkey,Konya Buyuksehir,Harem Spor,81,91,2.5,Kaybetti,250.0,-250.0,-350767.5
+2026-09-20,Litvanya LKL,Lithuania,Gargzdu SC,Siauliai,90,79,2.25,Kazandi,250.0,312.5,-350455.0
+2026-09-21,Meksika LNBP,Mexico,El Calor de Cancún,Diablos Rojos del México,86,73,2.3,Kazandi,250.0,325.0,-350130.0
+2026-09-21,Meksika LNBP,Mexico,Correcaminos UAT Victoria,Fuerza Regia de Monterrey,83,94,3.65,Kaybetti,250.0,-250.0,-350380.0
+2026-09-22,WNBA,USA,Phoenix Mercury,Dallas Wings,87,86,2.95,Kazandi,250.0,487.5,-349892.5
+2026-09-22,Meksika LNBP,Mexico,Correcaminos UAT Victoria,Fuerza Regia de Monterrey,52,93,2.7,Kaybetti,250.0,-250.0,-350142.5
+2026-09-23,EuroCup Kadın,Europe,Proteas Voulas Women,Elitzur Ramla Women,46,79,3.6,Kaybetti,250.0,-250.0,-350392.5
+2026-09-23,FIBA Europe Cup,Europe,KB Peja,Dinamo Bucuresti,58,96,3.25,Kaybetti,250.0,-250.0,-350642.5
+2026-09-23,Japonya B.League One,Japan,Tokushima Gambarous,Yokohama Excellence,93,92,2.85,Kazandi,250.0,462.5,-350180.0
+2026-09-24,EuroLeague,Europe,Baskonia Vitoria,Olympiacos Piraeus B.C.,89,106,3.5,Kaybetti,250.0,-250.0,-350430.0
+2026-09-24,Avustralya NBL,Australia,Perth Wildcats,Adelaide 36ers,98,97,2.35,Kazandi,250.0,337.5,-350092.5
+2026-09-24,Avustralya NBL,Australia,South East Melbourne Phoenix,Melbourne United,61,86,2.4,Kaybetti,250.0,-250.0,-350342.5
+2026-09-24,EuroCup Kadın,Europe,Beroe Women,Universitario De Ferrol Women,61,76,3.5,Kaybetti,250.0,-250.0,-350592.5
+2026-09-25,Japonya B.League One,Japan,TryHoop Okayama,Koshigaya Alphas,60,94,2.85,Kaybetti,250.0,-250.0,-350842.5
+2026-09-25,İsveç Basketligan,Sweden,Uppsala Basket,Jamtland Basket,72,78,3.2,Kaybetti,250.0,-250.0,-351092.5
+2026-09-25,Fransa Pro B,France,Le Havre,Saint-Chamond,90,77,2.9,Kazandi,250.0,475.0,-350617.5
+2026-09-25,Japonya B.League Premier,Japan,Ibaraki Robots,San-en NeoPhoenix,82,90,2.25,Kaybetti,250.0,-250.0,-350867.5
+2026-09-25,Japonya B.League Premier,Japan,Tokyo Sunrockers,Chiba Jets,92,97,2.55,Kaybetti,250.0,-250.0,-351117.5
+2026-09-25,Almanya BBL,Germany,Gladiators Trier,Telekom Baskets Bonn,106,80,2.75,Kazandi,250.0,437.5,-350680.0
+2026-09-25,WNBA,USA,Minnesota Lynx,Indiana Fever,86,66,2.25,Kazandi,250.0,312.5,-350367.5
+2026-09-26,Japonya B.League Premier,Japan,Tokyo Sunrockers,Chiba Jets,95,79,2.55,Kazandi,250.0,387.5,-349980.0
+2026-09-26,Slovenya Liga Nova KBM,Slovenia,Helios Domzale,Hopsi Polzela,59,74,3.25,Kaybetti,250.0,-250.0,-350230.0
+2026-09-26,Slovenya Liga Nova KBM,Slovenia,Zlatorog Lasko,Triglav Kranj,72,69,2.3,Kazandi,250.0,325.0,-349905.0
+2026-09-26,Almanya Pro A,Germany,ETB Miners,HAKRO Merlins Crailsheim,67,81,2.65,Kaybetti,250.0,-250.0,-350155.0
+2026-09-26,Japonya B.League One,Japan,Gifu Swoops,Fukui Blowinds,88,90,3.2,Kaybetti,250.0,-250.0,-350405.0
+2026-09-26,Danimarka Basketligaen,Denmark,Gladsaxe,Copenhagen,62,77,3.7,Kaybetti,250.0,-250.0,-350655.0
+2026-09-26,Japonya B.League Premier,Japan,Kobe Storks,Osaka Evessa,69,79,2.55,Kaybetti,250.0,-250.0,-350905.0
+2026-09-26,Fransa Pro A,France,Gravelines-Dunkerque,Le Mans,97,103,2.7,Kaybetti,250.0,-250.0,-351155.0
+2026-09-26,İtalya Serie A (LBA),Italy,Benetton Treviso,BC Roma SPQR,109,94,2.3,Kazandi,250.0,325.0,-350830.0
+2026-09-26,Türkiye TBL,Turkey,Cedi Osman Basketbol,Royal Hali Gaziantep,62,84,2.65,Kaybetti,250.0,-250.0,-351080.0
+2026-09-26,Hırvatistan Premijer Liga,Croatia,Dubrovnik,KK Split,66,81,3.7,Kaybetti,250.0,-250.0,-351330.0
+2026-09-26,Japonya B.League Premier,Japan,Kawasaki Brave Thunders,Nagoya Diamond Dolphins,63,93,3.35,Kaybetti,250.0,-250.0,-351580.0
+2026-09-26,Avusturya Süper Lig,Austria,Kufstein,UBSC Raiffeisen Graz,87,96,2.7,Kaybetti,250.0,-250.0,-351830.0
+2026-09-26,İsviçre SBL,Switzerland,Starwings Basket Regio Basel,SAM Basket Massagno,73,91,2.7,Kaybetti,250.0,-250.0,-352080.0
+2026-09-26,Estonya/Letonya Ligi,Estonia,Tal Tech,Rigas Zelli,73,79,3.9,Kaybetti,250.0,-250.0,-352330.0
+2026-09-26,Türkiye Kadın Süper Ligi,Turkey,Turgutlu Belediyespor Women,Nesibe Aydin Women,65,83,2.5,Kaybetti,250.0,-250.0,-352580.0
+2026-09-26,Macaristan NB I/A,Hungary,Budapesti Honved Se,KTE-Duna Aszfalt,83,65,2.25,Kazandi,250.0,312.5,-352267.5
+2026-09-26,BNXT League,Europe,Zwolle,Port of Antwerp Giants,76,83,3.7,Kaybetti,250.0,-250.0,-352517.5
+2026-09-27,Çekya NBL,Czech,BK Olomoucko,NH Ostrava,77,76,3.7,Kazandi,250.0,675.0,-351842.5
+2026-09-27,Meksika LNBP,Mexico,Diablos Rojos del México,Astros de Jalisco,77,101,2.3,Kaybetti,250.0,-250.0,-352092.5
+2026-09-27,Danimarka Basketligaen,Denmark,Horsens IC,Team FOG Naestved,73,101,2.55,Kaybetti,250.0,-250.0,-352342.5
+2026-09-27,İspanya Liga ACB,Spain,C.B. Breogan Lugo,DKV Joventut,110,104,2.4,Kazandi,250.0,350.0,-351992.5
+2026-09-27,İtalya Serie A2,Italy,Juvi Cremona,New Basket Brindisi,59,66,2.65,Kaybetti,250.0,-250.0,-352242.5
+2026-09-27,Japonya B.League One,Japan,Gifu Swoops,Fukui Blowinds,82,80,2.65,Kazandi,250.0,412.5,-351830.0
+2026-09-27,Fransa Pro A,France,Nancy,Paris,73,78,3.05,Kaybetti,250.0,-250.0,-352080.0
+2026-09-27,Türkiye Kadın Süper Ligi,Turkey,Botas Spor Women,CBK Mersin Women,83,74,2.5,Kazandi,250.0,375.0,-351705.0
+2026-09-27,Japonya B.League One,Japan,Bambitious Nara,Fukushima Firebonds,99,88,2.25,Kazandi,250.0,312.5,-351392.5
+2026-09-27,Almanya BBL,Germany,Basketball Braunschweig,Rostock Seawolves,83,82,2.82,Kazandi,250.0,455.0,-350937.5
+2026-09-27,Meksika LNBP,Mexico,Dorados de Chihuahua,Soles de Mexicali,64,97,2.55,Kaybetti,250.0,-250.0,-351187.5
+2026-09-27,İtalya Serie A2,Italy,Herons Basket Montecatini,Edilizia Moderna Rimini,59,84,3.05,Kaybetti,250.0,-250.0,-351437.5
+2026-09-28,Türkiye Süper Ligi (BSL),Turkey,Glint Korfez Basket,Esenler Erokspor,88,79,2.3,Kazandi,250.0,325.0,-351112.5
+2026-09-29,EuroCup,Europe,Le Mans,Aris Thessaloniki B.C.,74,87,2.35,Kaybetti,250.0,-250.0,-351362.5
+2026-09-29,İsveç Basketligan,Sweden,Umea BSKT,Sodertalje BBK,64,78,3.25,Kaybetti,250.0,-250.0,-351612.5
+2026-09-29,Arjantin Liga Nacional,Argentina,Atletico Lanus,Gimnasia Comodoro,74,92,2.5,Kaybetti,250.0,-250.0,-351862.5
+2026-09-30,WNBA,USA,New York Liberty,Minnesota Lynx,87,71,2.25,Kazandi,250.0,312.5,-351550.0
+2026-09-30,Çekya NBL,Czech,Srsni Pisek,BK Pardubice,82,92,2.7,Kaybetti,250.0,-250.0,-351800.0
+2026-09-30,EuroCup,Europe,Siauliai,London Lions,74,71,2.35,Kazandi,250.0,337.5,-351462.5
+2026-09-30,EuroCup,Europe,Rigas Zelli,Derthona Basket,86,84,2.6,Kazandi,250.0,400.0,-351062.5
+2026-09-30,EuroLeague Kadın,Europe,Diósgyőri VTK Women,Crvena Zvezda Red Star Women,66,71,2.65,Kaybetti,250.0,-250.0,-351312.5
+2026-09-30,EuroCup,Europe,Slask Wroclaw,KK Buducnost,75,99,3.1,Kaybetti,250.0,-250.0,-351562.5
+2026-09-30,Polonya 1. Lig,Poland,Polpharma Starogard Gdanski,LKS Lodz,83,101,3.5,Kaybetti,250.0,-250.0,-351812.5
+2026-10-01,Ukrayna Süper Lig,Ukraine,BC Rivne,Kharkivski Sokoly,93,81,2.5,Kazandi,250.0,375.0,-351437.5
+2026-10-01,WNBA,USA,Washington Mystics,Atlanta Dream,75,93,2.3,Kaybetti,250.0,-250.0,-351687.5
+2026-10-01,Arjantin Liga Nacional,Argentina,Atletico Argentino Junin,Ferro Carril Oeste,79,68,3.7,Kazandi,250.0,675.0,-351012.5
+2026-10-01,WNBA,USA,Dallas Wings,Golden State Valkyries,108,100,2.5,Kazandi,250.0,375.0,-350637.5
+2026-10-01,Litvanya NKL,Lithuania,Plunges Olimpas,Silute,85,92,2.25,Kaybetti,250.0,-250.0,-350887.5
+2026-10-01,EuroLeague,Europe,Virtus Bologna,Olympiacos Piraeus B.C.,96,94,4.0,Kazandi,250.0,750.0,-350137.5
+2026-10-01,Avustralya NBL,Australia,Tasmania JackJumpers,Melbourne United,84,82,2.55,Kazandi,250.0,387.5,-349750.0
+2026-10-01,Litvanya NKL,Lithuania,Rytas B,Telsiai,77,91,2.5,Kaybetti,250.0,-250.0,-350000.0
+2026-10-01,EuroCup Kadın,Europe,Chomutov (W),Chartell Women,46,87,3.2,Kaybetti,250.0,-250.0,-350250.0
+2026-10-01,Almanya BBL,Germany,Jena,RASTA Vechta,79,71,2.6,Kazandi,250.0,400.0,-349850.0
+2026-10-01,Estonya/Letonya Ligi,Estonia,Rbs Rigas Juniori,Latvijas Universitate,94,87,2.9,Kazandi,250.0,475.0,-349375.0
+2026-10-02,BNXT League,Europe,Feyenoord Basketbal Rotterdam,Leeuwarden,71,76,2.25,Kaybetti,250.0,-250.0,-349625.0
+2026-10-02,Meksika LNBP,Mexico,Correcaminos UAT Victoria,Lobos de Puebla,75,97,2.7,Kaybetti,250.0,-250.0,-349875.0
+2026-10-02,Polonya PLK,Poland,Energa Czarni Slupsk,SK Legia Warszawa,76,79,2.9,Kaybetti,250.0,-250.0,-350125.0
+2026-10-02,Ukrayna Süper Lig,Ukraine,BC Rivne,BC Kyiv-Basket,70,79,2.25,Kaybetti,250.0,-250.0,-350375.0
+2026-10-02,Almanya Pro A,Germany,Weissenhorn Youngstars,Kirchheim,85,94,2.25,Kaybetti,250.0,-250.0,-350625.0
+2026-10-02,Fransa Pro B,France,Levallois,J.A. Vichy‑Clermont,87,86,2.55,Kazandi,250.0,387.5,-350237.5
+2026-10-02,İsveç Basketligan,Sweden,Koping Stars,Boras Basket,80,89,3.2,Kaybetti,250.0,-250.0,-350487.5
+2026-10-02,Almanya Pro A,Germany,Paderborn Baskets,RheinStars Köln,90,73,2.25,Kazandi,250.0,312.5,-350175.0
+2026-10-02,Türkiye Süper Ligi (BSL),Turkey,Pinar Karsiyaka,Galatasaray MCT Technic,78,71,2.72,Kazandi,250.0,430.0,-349745.0
+2026-10-02,EuroLeague,Europe,Lyon-Villeurbanne,Valencia,92,105,2.4,Kaybetti,250.0,-250.0,-349995.0
+2026-10-02,Macaristan NB I/A,Hungary,KTE-Duna Aszfalt,Kaposvari KK,75,97,2.65,Kaybetti,250.0,-250.0,-350245.0
+2026-10-02,Avustralya NBL,Australia,lllawarra Hawks,Adelaide 36ers,114,92,2.8,Kazandi,250.0,450.0,-349795.0
+2026-10-02,Almanya Pro A,Germany,Wolmirstedt,LTi Giessen 46ers,73,61,2.65,Kazandi,250.0,412.5,-349382.5
+2026-10-02,Estonya/Letonya Ligi,Estonia,BK Ventspils,Tartu Ulikool,92,85,2.3,Kazandi,250.0,325.0,-349057.5
+2026-10-02,Almanya Pro A,Germany,Medi Bayreuth,PS Karlsruhe,79,89,2.25,Kaybetti,250.0,-250.0,-349307.5
+2026-10-03,ABA League,Europe,Basket Club Vienna,U-Mobitelco BT Cluj Napoca,84,95,2.7,Kaybetti,250.0,-250.0,-349557.5
+2026-10-03,Japonya B.League Premier,Japan,Saga Ballooners,San-en NeoPhoenix,61,97,2.72,Kaybetti,250.0,-250.0,-349807.5
+2026-10-03,Japonya B.League Premier,Japan,Shiga Lakes,Ryukyu Golden Kings,87,94,3.35,Kaybetti,250.0,-250.0,-350057.5
+2026-10-03,Japonya B.League One,Japan,Tachikawa Dice,Kumamoto Volters,86,109,2.7,Kaybetti,250.0,-250.0,-350307.5
+2026-10-03,Polonya PLK,Poland,Artego Bydgoszcz,Stelmet Enea Bc Zielona Góra,105,95,2.55,Kazandi,250.0,387.5,-349920.0
+2026-10-03,Türkiye TBL,Turkey,Ankaragucu Mamak,Ormanspor Genc Ankara,91,84,3.2,Kazandi,250.0,550.0,-349370.0
+2026-10-03,Meksika LNBP,Mexico,Correcaminos UAT Victoria,Lobos de Puebla,85,90,3.65,Kaybetti,250.0,-250.0,-349620.0
+2026-10-03,Macaristan NB I/A,Hungary,NKA Pecs,Szolnoki Olajbanyasz,70,74,3.3,Kaybetti,250.0,-250.0,-349870.0
+2026-10-03,Finlandiya Korisliiga,Finland,Pyrinto Tampere,Salon Vilpas,79,97,3.65,Kaybetti,250.0,-250.0,-350120.0
+2026-10-03,Litvanya NKL,Lithuania,Kedainiu SC,Palangakursie,75,94,2.85,Kaybetti,250.0,-250.0,-350370.0
+2026-10-03,İspanya Liga Femenina,Spain,Independiente de Salta Women,Gernika Bizkaia Women,80,84,2.35,Kaybetti,250.0,-250.0,-350620.0
+2026-10-03,Finlandiya Korisliiga,Finland,Kipina Basket,UU-Korihait,109,85,2.7,Kazandi,250.0,425.0,-350195.0
+2026-10-03,Japonya B.League Premier,Japan,Toyama Grouses,Utsunomiya Brex,77,67,2.3,Kazandi,250.0,325.0,-349870.0
+2026-10-03,Polonya 1. Lig,Poland,Gimbasket Wroclaw,Decka Pelplin Basketball,97,83,2.5,Kazandi,250.0,375.0,-349495.0
+2026-10-03,Slovenya Liga Nova KBM,Slovenia,Nova Gorica Mladi,Helios Domzale,88,69,2.55,Kazandi,250.0,387.5,-349107.5
+2026-10-03,Finlandiya Korisliiga,Finland,Kauhajoen Karhu,KTP Basket,78,84,2.3,Kaybetti,250.0,-250.0,-349357.5
+2026-10-03,İspanya Primera FEB,Spain,Baloncesto Fuenlabrada,Dreamland Gran Canaria,68,79,2.3,Kaybetti,250.0,-250.0,-349607.5
+2026-10-03,Japonya B.League One,Japan,Yamagata Wyverns,Fighting Eagles Nagoya,72,118,3.9,Kaybetti,250.0,-250.0,-349857.5
+2026-10-03,Türkiye Süper Ligi (BSL),Turkey,Bursaspor,Turk Telekom,69,78,2.7,Kaybetti,250.0,-250.0,-350107.5
+2026-10-03,Litvanya LKL,Lithuania,Jonava,Siauliai,63,79,2.55,Kaybetti,250.0,-250.0,-350357.5
+2026-10-03,Finlandiya Korisliiga,Finland,Bisons Loimaa,Joensuun Kataja,71,86,2.55,Kaybetti,250.0,-250.0,-350607.5
+2026-10-03,Yunanistan A2,Greece,Papagou,Panerythraikos,92,111,2.25,Kaybetti,250.0,-250.0,-350857.5
+2026-10-03,Romanya Liga Națională,Romania,Corona Brasov,SCM Craiova,98,113,2.55,Kaybetti,250.0,-250.0,-351107.5
+2026-10-03,Slovenya Liga Nova KBM,Slovenia,Tajfun,Sencur KK,74,99,3.0,Kaybetti,250.0,-250.0,-351357.5
+2026-10-03,Fransa Pro A,France,ÉB Pau-Orthez,Dijon,61,89,2.72,Kaybetti,250.0,-250.0,-351607.5
+2026-10-03,İspanya Primera FEB,Spain,Zamora,Movistar Estudiantes,73,80,3.25,Kaybetti,250.0,-250.0,-351857.5
+2026-10-03,Polonya 1. Lig,Poland,AZS Rzeszow,Leszno,72,98,2.55,Kaybetti,250.0,-250.0,-352107.5
+2026-10-03,Japonya B.League One,Japan,Takamatsu Five Arrows,Rizing Zephyr Fukuoka,82,105,3.65,Kaybetti,250.0,-250.0,-352357.5
+2026-10-03,Litvanya NKL,Lithuania,KK Baltai Kaunas,Jurbarko Jurbarkas-Karys,78,102,3.9,Kaybetti,250.0,-250.0,-352607.5
+2026-10-03,Fransa LFB Kadın,France,Basket Lattes Montpellier Women,Bourges Basket Women,90,83,2.3,Kazandi,250.0,325.0,-352282.5
+2026-10-03,İsveç Basketligan,Sweden,Sodertalje BBK,Jamtland Basket,91,76,2.7,Kazandi,250.0,425.0,-351857.5
+2026-10-03,Japonya B.League Premier,Japan,Shimane Susanoo Magic,Nagoya Diamond Dolphins,73,85,2.55,Kaybetti,250.0,-250.0,-352107.5
+2026-10-04,Estonya/Letonya Ligi,Estonia,Keila KK,Latvijas Universitate,77,85,2.55,Kaybetti,250.0,-250.0,-352357.5
+2026-10-04,Almanya BBL,Germany,Jena,Chemcats Chemnitz,82,76,2.4,Kazandi,250.0,350.0,-352007.5
+2026-10-04,Fransa Pro A,France,Gravelines-Dunkerque,Lyon-Villeurbanne,65,70,2.72,Kaybetti,250.0,-250.0,-352257.5
+2026-10-04,Türkiye Süper Ligi (BSL),Turkey,Bordo BK,Anadolu Efes Istanbul,79,85,3.75,Kaybetti,250.0,-250.0,-352507.5
+2026-10-04,İtalya Serie A2,Italy,Pepsi Caserta,Fortitudo Bologna,81,83,3.25,Kaybetti,250.0,-250.0,-352757.5
+2026-10-04,Japonya B.League Premier,Japan,Osaka Evessa,SeaHorses Mikawa,57,101,3.75,Kaybetti,250.0,-250.0,-353007.5
+2026-10-04,Japonya B.League Premier,Japan,Toyama Grouses,Utsunomiya Brex,77,99,2.72,Kaybetti,250.0,-250.0,-353257.5
+2026-10-04,Japonya B.League One,Japan,Aomori Wat's,Iwate Big Bulls,61,86,2.65,Kaybetti,250.0,-250.0,-353507.5
+2026-10-04,Japonya B.League Premier,Japan,Saga Ballooners,San-en NeoPhoenix,89,93,3.3,Kaybetti,250.0,-250.0,-353757.5
+2026-10-04,Almanya Pro A,Germany,PS Karlsruhe,HAKRO Merlins Crailsheim,47,91,3.6,Kaybetti,250.0,-250.0,-354007.5
+2026-10-04,İsviçre SBL,Switzerland,Lugano Tigers,BBC Nyon,70,77,2.9,Kaybetti,250.0,-250.0,-354257.5
+2026-10-04,Japonya B.League One,Japan,Tachikawa Dice,Kumamoto Volters,86,94,3.2,Kaybetti,250.0,-250.0,-354507.5
+2026-10-04,İtalya Serie A2,Italy,Ruvo Di Puglia,UEB Gesteco Cividale,83,86,2.7,Kaybetti,250.0,-250.0,-354757.5
+2026-10-04,Japonya B.League Premier,Japan,Shimane Susanoo Magic,Nagoya Diamond Dolphins,80,90,3.35,Kaybetti,250.0,-250.0,-355007.5
+2026-10-04,Almanya Pro A,Germany,ETB Miners,RheinStars Köln,85,91,2.85,Kaybetti,250.0,-250.0,-355257.5
+2026-10-04,Almanya Pro A,Germany,Weissenhorn Youngstars,Heidelberg,68,84,3.6,Kaybetti,250.0,-250.0,-355507.5
+2026-10-04,Sırbistan KLS,Serbia,Radnicki Kragujevac,Zlatibor,93,88,2.6,Kazandi,250.0,400.0,-355107.5
+2026-10-04,Türkiye Kadın Süper Ligi,Turkey,Istanbul GSK Women,Galatasaray Women,83,84,3.2,Kaybetti,250.0,-250.0,-355357.5
+2026-10-04,Polonya PLK,Poland,Gtk Gliwice,Dabrowa Gornicza,78,89,2.6,Kaybetti,250.0,-250.0,-355607.5
+2026-10-04,İspanya Liga ACB,Spain,Casademont Zaragoza,Valencia,82,97,2.55,Kaybetti,250.0,-250.0,-355857.5
+2026-10-04,İtalya Serie A2,Italy,MiroRadici Finance Vigevano,Real Sebastiani Rieti,64,79,2.3,Kaybetti,250.0,-250.0,-356107.5
+2026-10-04,Polonya 1. Lig,Poland,AZS Politechnika Opolska,Miasto Szkla Krosno,89,97,2.65,Kaybetti,250.0,-250.0,-356357.5
+2026-10-04,Japonya B.League Premier,Japan,Shiga Lakes,Ryukyu Golden Kings,98,72,3.05,Kazandi,250.0,512.5,-355845.0
+2026-10-04,Polonya Kadın Ligi,Poland,Pruszkow (W),Jelenia Gora Women,86,72,2.25,Kazandi,250.0,312.5,-355532.5
+2026-10-05,Yunanistan A2,Greece,Kronos Agiou Dimitriou,Panionios B.C.,51,70,3.45,Kaybetti,250.0,-250.0,-355782.5
+2026-10-05,KBL,South Korea,Daegu KOGAS Pegasus,Anyang JungKwanJang Red Boosters,80,86,2.6,Kaybetti,250.0,-250.0,-356032.5
+2026-10-05,İtalya Serie A (LBA),Italy,Tezenis Verona,Olimpia Milano,75,72,4.0,Kazandi,250.0,750.0,-355282.5
+2026-10-06,Basketball Champions League,Europe,Hapoel Holon,Cholet,79,99,2.6,Kaybetti,250.0,-250.0,-355532.5
+2026-10-06,KBL,South Korea,Suwon KT Sonicboom,Changwon LG Sakers,97,72,3.1,Kazandi,250.0,525.0,-355007.5
+2026-10-06,FIBA Europe Cup,Europe,Tartu Ulikool,Dziki Warszawa,76,103,3.3,Kaybetti,250.0,-250.0,-355257.5
+2026-10-06,Basketball Champions League,Europe,Cibona Zagreb,Galatasaray MCT Technic,96,76,3.45,Kazandi,250.0,612.5,-354645.0
+2026-10-06,NBA,USA,Sacramento Kings,Los Angeles Lakers,103,127,2.55,Kaybetti,250.0,-250.0,-354895.0
+2026-10-06,EuroCup,Europe,KK Cedevita Olimpija,Hapoel Jerusalem,64,75,2.75,Kaybetti,250.0,-250.0,-355145.0
+2026-10-06,NBA,USA,Philadelphia 76ers,New York Knicks,120,97,2.4,Kazandi,250.0,350.0,-354795.0
+2026-10-06,NBA,USA,Milwaukee Bucks,Minnesota Timberwolves,97,116,2.6,Kaybetti,250.0,-250.0,-355045.0
+2026-10-06,EuroCup,Europe,London Lions,Isla De Tenerife Canarias,89,77,2.35,Kazandi,250.0,337.5,-354707.5
+2026-10-07,EuroCup,Europe,U-Mobitelco BT Cluj Napoca,Reyer Venezia,98,92,2.6,Kazandi,250.0,400.0,-354307.5
+2026-10-07,Meksika LNBP,Mexico,Correcaminos UAT Victoria,Abejas de León,76,98,2.5,Kaybetti,250.0,-250.0,-354557.5
+2026-10-07,Meksika LNBP,Mexico,El Calor de Cancún,Lobos de Puebla,77,68,2.5,Kazandi,250.0,375.0,-354182.5
+2026-10-07,Estonya/Letonya Ligi,Estonia,Rbs Rigas Juniori,KK Wimmis,82,81,2.3,Kazandi,250.0,325.0,-353857.5
+2026-10-07,FIBA Europe Cup,Europe,BK Opava,KK Split,68,74,2.55,Kaybetti,250.0,-250.0,-354107.5
+2026-10-07,Basketball Champions League,Europe,U.Juventus,Unicaja Malaga,69,105,3.9,Kaybetti,250.0,-250.0,-354357.5
+2026-10-07,Fransa LFB Kadın,France,Angers Women,Basket Lattes Montpellier Women,68,79,2.55,Kaybetti,250.0,-250.0,-354607.5
+2026-10-07,Basketball Champions League,Europe,Slavia Prague ERA NBK,Alba Berlin,86,110,2.35,Kaybetti,250.0,-250.0,-354857.5
+2026-10-07,Japonya B.League Premier,Japan,Ibaraki Robots,Hiroshima Dragonflies,86,90,3.35,Kaybetti,250.0,-250.0,-355107.5
+2026-10-08,İzlanda Premier Lig,Iceland,Valur Reykjavik,Stjarnan,90,77,2.3,Kazandi,250.0,325.0,-354782.5
+2026-10-08,Litvanya NKL,Lithuania,Vilniaus Stekas,BC Zalgiris II,108,87,2.85,Kazandi,250.0,462.5,-354320.0
+2026-10-08,Meksika LNBP,Mexico,Correcaminos UAT Victoria,Abejas de León,89,95,3.25,Kaybetti,250.0,-250.0,-354570.0
+2026-10-08,Japonya B.League Premier,Japan,Akita Northern Happinets,Kawasaki Brave Thunders,81,87,2.35,Kaybetti,250.0,-250.0,-354820.0
+2026-10-08,Meksika LNBP,Mexico,El Calor de Cancún,Lobos de Puebla,77,90,2.55,Kaybetti,250.0,-250.0,-355070.0
+2026-10-08,İzlanda Premier Lig,Iceland,Armann,Keflavik,90,108,3.9,Kaybetti,250.0,-250.0,-355320.0
+2026-10-08,İspanya Liga Femenina,Spain,Cadi La Seu Women,Leganes Women,70,60,2.55,Kazandi,250.0,387.5,-354932.5
+2026-10-08,Japonya B.League Premier,Japan,Kobe Storks,Chiba Jets,94,86,2.55,Kazandi,250.0,387.5,-354545.0
+2026-10-09,Fransa Pro B,France,Antibes,Loyola-New Orleans,89,85,2.55,Kazandi,250.0,387.5,-354157.5
+2026-10-09,NBA,USA,Brooklyn Nets,Philadelphia 76ers,114,108,2.9,Kazandi,250.0,475.0,-353682.5
+2026-10-09,Arjantin Liga Nacional,Argentina,San Lorenzo Casla,Gimnasia Comodoro,89,73,2.3,Kazandi,250.0,325.0,-353357.5
+2026-10-09,Hırvatistan Premijer Liga,Croatia,Samobor,Cibona Zagreb,64,73,2.9,Kaybetti,250.0,-250.0,-353607.5
+2026-10-09,Estonya/Letonya Ligi,Estonia,Tartu Ulikool,Rigas Zelli,74,94,3.0,Kaybetti,250.0,-250.0,-353857.5
+2026-10-09,CBA,China,Jilin Northeast Tigers,Xinjiang Flying Tigers,93,101,2.25,Kaybetti,250.0,-250.0,-354107.5
+2026-10-09,Japonya B.League Premier,Japan,Ibaraki Robots,Utsunomiya Brex,79,90,2.72,Kaybetti,250.0,-250.0,-354357.5
+2026-10-09,Japonya B.League One,Japan,Earth Friends Tokyo Z,Tokyo Hachioji Trains,84,80,2.5,Kazandi,250.0,375.0,-353982.5
+2026-10-09,Japonya B.League One,Japan,Bambitious Nara,Tokyo United Basketball Club,59,90,2.5,Kaybetti,250.0,-250.0,-354232.5
+2026-10-09,İzlanda Premier Lig,Iceland,U.M.F. Grindavik,KR Reykjavik,80,91,2.4,Kaybetti,250.0,-250.0,-354482.5
+2026-10-10,Türkiye Süper Ligi (BSL),Turkey,Cayirova Belediyesi,Fenerbahçe Tarfin,85,100,3.75,Kaybetti,250.0,-250.0,-354732.5
+2026-10-10,Romanya Liga Națională,Romania,Petrolul Ploiesti,Valcea,67,93,3.4,Kaybetti,250.0,-250.0,-354982.5
+2026-10-10,CBA,China,Shenzhen Leopards,Beijing Royal Fighters,77,92,2.65,Kaybetti,250.0,-250.0,-355232.5
+2026-10-10,Türkiye TBL,Turkey,Ankaragucu Mamak,Goztepe,88,86,3.2,Kazandi,250.0,550.0,-354682.5
+2026-10-10,Romanya Liga Națională,Romania,CSU Atlassib Sibiu,Dinamo Bucuresti,100,92,2.55,Kazandi,250.0,387.5,-354295.0
+2026-10-10,Fransa Pro A,France,Boulazac,JL Bourg-en-Bresse,84,73,2.72,Kazandi,250.0,430.0,-353865.0
+2026-10-10,ABA League,Europe,Siroki Prima Pivo,KK Cedevita Olimpija,70,69,2.72,Kazandi,250.0,430.0,-353435.0
+2026-10-10,Japonya B.League Premier,Japan,Shinshu Brave Warriors,San-en NeoPhoenix,81,83,3.3,Kaybetti,250.0,-250.0,-353685.0
+2026-10-10,ABA League,Europe,Ilirija,Subotica Spartak,76,82,2.3,Kaybetti,250.0,-250.0,-353935.0
+2026-10-10,İtalya Serie A2,Italy,Gemini Mestre,Dinamo Sassari,74,87,2.7,Kaybetti,250.0,-250.0,-354185.0
+2026-10-10,Arjantin Liga Nacional,Argentina,Argentino Junin LDD,San Martin LDD,76,68,2.9,Kazandi,250.0,475.0,-353710.0
+2026-10-10,Japonya B.League One,Japan,Iwate Big Bulls,Koshigaya Alphas,77,90,2.85,Kaybetti,250.0,-250.0,-353960.0
+2026-10-10,Japonya B.League One,Japan,Takamatsu Five Arrows,Kagoshima Rebnise,88,66,2.65,Kazandi,250.0,412.5,-353547.5
+2026-10-10,Litvanya NKL,Lithuania,Kedainiu SC,Telsiai,61,73,2.85,Kaybetti,250.0,-250.0,-353797.5
+2026-10-10,Litvanya NKL,Lithuania,Rytas B,Palangakursie,81,103,2.5,Kaybetti,250.0,-250.0,-354047.5
+2026-10-10,Yunanistan A2,Greece,Amyntas,NE Megaridas,65,62,3.25,Kazandi,250.0,562.5,-353485.0
+2026-10-10,Fransa LFB Kadın,France,Landerneau Bretagne Women,Flammes Carolo Basket Women,61,83,2.7,Kaybetti,250.0,-250.0,-353735.0
+2026-10-10,Yunanistan A2,Greece,Esperos,Papagou,74,71,2.3,Kazandi,250.0,325.0,-353410.0
+2026-10-10,İsviçre SBL,Switzerland,Lausanne Basket,Les Lions de Geneve,65,94,2.9,Kaybetti,250.0,-250.0,-353660.0
+2026-10-10,Japonya B.League Premier,Japan,Kawasaki Brave Thunders,Alvark Tokyo,82,94,3.3,Kaybetti,250.0,-250.0,-353910.0
+2026-10-10,Litvanya NKL,Lithuania,Mazeikiai,Jurbarko Jurbarkas-Karys,62,91,2.65,Kaybetti,250.0,-250.0,-354160.0
+2026-10-10,CBA,China,Guangzhou Loong Lions,Guangdong Southern Tigers,86,82,2.65,Kazandi,250.0,412.5,-353747.5
+2026-10-10,Japonya B.League Premier,Japan,Nagasaki Velca,Gunma Crane Thunders,70,59,2.35,Kazandi,250.0,337.5,-353410.0
+2026-10-10,İspanya Primera FEB,Spain,Lucentum Alicante,Dreamland Gran Canaria,84,74,2.75,Kazandi,250.0,437.5,-352972.5
+2026-10-10,Avustralya NBL,Australia,South East Melbourne Phoenix,Melbourne United,99,104,2.4,Kaybetti,250.0,-250.0,-353222.5
+2026-10-10,Litvanya NKL,Lithuania,BC Zalgiris II,Suduva Mantinga,94,106,2.5,Kaybetti,250.0,-250.0,-353472.5
+2026-10-10,Çekya NBL,Czech,GAPA Hradec Kralove,BK Decin,99,93,2.3,Kazandi,250.0,325.0,-353147.5
+2026-10-10,Almanya Pro A,Germany,Nurnberger,Kirchheim,65,92,2.65,Kaybetti,250.0,-250.0,-353397.5
+2026-10-11,Fransa Pro A,France,Saint Quentin,Le Mans,87,98,3.75,Kaybetti,250.0,-250.0,-353647.5
+2026-10-11,Polonya Kadın Ligi,Poland,Polonia Warszawa Women,Wisla Can-Pack Women,77,73,3.9,Kazandi,250.0,725.0,-352922.5
+2026-10-11,Japonya B.League One,Japan,Iwate Big Bulls,Koshigaya Alphas,80,75,3.2,Kazandi,250.0,550.0,-352372.5
+2026-10-11,İtalya Serie A2,Italy,Juvi Cremona,Libertas Livorno,73,75,2.7,Kaybetti,250.0,-250.0,-352622.5
+2026-10-11,İtalya Serie A2,Italy,Montecatiniterme Basketball,New Basket Brindisi,78,96,2.7,Kaybetti,250.0,-250.0,-352872.5
+2026-10-11,CBA,China,Nanjing Monkey Kings,Shenzhen Leopards,101,99,2.25,Kazandi,250.0,312.5,-352560.0
+2026-10-11,CBA,China,Jiangsu Dragons Kentier,Beijing Shougang Ducks,83,86,3.6,Kaybetti,250.0,-250.0,-352810.0
+2026-10-11,İtalya Serie A (LBA),Italy,Pallacanestro Cantù,Napoli Basket,80,99,2.5,Kaybetti,250.0,-250.0,-353060.0
+2026-10-11,Japonya B.League One,Japan,Rizing Zephyr Fukuoka,Ehime Orange Vikings,90,70,2.5,Kazandi,250.0,375.0,-352685.0
+2026-10-11,ABA League,Europe,U-Mobitelco BT Cluj Napoca,Dubai,85,92,3.9,Kaybetti,250.0,-250.0,-352935.0
+2026-10-11,Japonya B.League Premier,Japan,Ibaraki Robots,Nagoya Diamond Dolphins,78,90,3.3,Kaybetti,250.0,-250.0,-353185.0
+2026-10-11,NBA,USA,Phoenix Suns,San Antonio Spurs,102,98,2.6,Kazandi,250.0,400.0,-352785.0
+2026-10-11,KBL,South Korea,Seoul Samsung Thunders,Goyang Sono Skygunners,82,81,2.6,Kazandi,250.0,400.0,-352385.0
+2026-10-11,Fransa LFB Kadın,France,Union Lyon Women,Bourges Basket Women,59,72,2.3,Kaybetti,250.0,-250.0,-352635.0
+2026-10-11,NBA,USA,Washington Wizards,Detroit Pistons,114,108,2.25,Kazandi,250.0,312.5,-352322.5
+2026-10-12,Romanya Liga Națională,Romania,BC Steaua Bucuresti,Rapid Bucuresti,98,88,3.7,Kazandi,250.0,675.0,-351647.5
+2026-10-12,Japonya B.League Premier,Japan,Yokohama B-Corsairs,Chiba Jets,108,106,2.72,Kazandi,250.0,430.0,-351217.5
+2026-10-12,Arjantin Liga Nacional,Argentina,Atenas LDD,Ferro LDD,77,84,2.5,Kaybetti,250.0,-250.0,-351467.5
+2026-10-12,Japonya B.League Premier,Japan,Saga Ballooners,Gunma Crane Thunders,61,72,3.75,Kaybetti,250.0,-250.0,-351717.5
+2026-10-12,İsrail Süper Ligi,Israel,Maccabi Ashdod,Ironi Nes Ziona,76,62,2.72,Kazandi,250.0,430.0,-351287.5
+2026-10-13,FIBA Europe Cup,Europe,Benetton Fribourg Olympic,Mykonos Betsson B.C.,65,80,3.6,Kaybetti,250.0,-250.0,-351537.5
+2026-10-13,Arjantin Liga Nacional,Argentina,Ciclista Olimpico,Boca Juniors,93,80,3.25,Kazandi,250.0,562.5,-350975.0
+2026-10-13,EuroCup Kadın,Europe,Benfica Women,Royals TV Saarlouis Women,69,65,2.3,Kazandi,250.0,325.0,-350650.0
+2026-10-13,NBA,USA,Utah Jazz,San Antonio Spurs,119,109,2.25,Kazandi,250.0,312.5,-350337.5
+2026-10-13,EuroLeague,Europe,Olimpia Milano,Real Madrid,89,98,2.55,Kaybetti,250.0,-250.0,-350587.5
+2026-10-13,FIBA Europe Cup,Europe,Telindus Oostende,Basquet Girona,76,91,2.55,Kaybetti,250.0,-250.0,-350837.5
+2026-10-13,EuroLeague,Europe,Baskonia Vitoria,Dubai,79,93,2.82,Kaybetti,250.0,-250.0,-351087.5
+2026-10-13,EuroCup,Europe,Neptunas Klaipeda,JL Bourg-en-Bresse,93,89,2.6,Kazandi,250.0,400.0,-350687.5
+2026-10-13,Arjantin Liga Nacional,Argentina,Atletico Argentino Junin,Gimnasia Comodoro,82,87,3.25,Kaybetti,250.0,-250.0,-350937.5
+2026-10-13,İsrail Süper Ligi,Israel,Elitzur Shomron,Elizzur Maccabi Netanya,57,76,2.25,Kaybetti,250.0,-250.0,-351187.5
+2026-10-13,EuroLeague,Europe,Partizan Mozzart Bet Beograd,Panathinaikos AKTOR B.C.,55,72,2.3,Kaybetti,250.0,-250.0,-351437.5
+2026-10-14,FIBA Europe Cup,Europe,Lokomotiv Plovdiv,CSM Oradea,79,69,3.7,Kazandi,250.0,675.0,-350762.5
+2026-10-14,Japonya B.League One,Japan,Veltex Shizuoka,Tokushima Gambarous,92,97,2.65,Kaybetti,250.0,-250.0,-351012.5
+2026-10-14,EuroCup,Europe,Siauliai,U-Mobitelco BT Cluj Napoca,75,94,2.6,Kaybetti,250.0,-250.0,-351262.5
+2026-10-14,EuroCup,Europe,San Pablo Burgos,Hapoel Jerusalem,84,85,2.75,Kaybetti,250.0,-250.0,-351512.5
+2026-10-14,Japonya B.League One,Japan,Bambitious Nara,Niigata Albirex BB,83,87,2.25,Kaybetti,250.0,-250.0,-351762.5
+2026-10-14,FIBA Europe Cup,Europe,Promitheas Patras Vikos Cola B.C.,Gladiators Trier,83,87,2.3,Kaybetti,250.0,-250.0,-352012.5
+2026-10-14,EuroCup,Europe,Rigas Zelli,KK Cedevita Olimpija,89,79,2.35,Kazandi,250.0,337.5,-351675.0
+2026-10-14,EuroLeague Kadın,Europe,Kibirkstis Women,Sony Athinaikos Women,103,65,3.35,Kazandi,250.0,587.5,-351087.5
+2026-10-14,Basketball Champions League,Europe,Brose Bamberg,UCAM Murcia CB,67,86,2.6,Kaybetti,250.0,-250.0,-351337.5
+2026-10-14,EuroCup Kadın,Europe,Castors Braine (w),San Giovanni Women,78,75,2.5,Kazandi,250.0,375.0,-350962.5
+2026-10-14,EuroCup,Europe,Slask Wroclaw,Napoli Basket,82,86,3.9,Kaybetti,250.0,-250.0,-351212.5
+2026-10-14,KBL,South Korea,Daegu KOGAS Pegasus,Suwon KT Sonicboom,82,69,2.75,Kazandi,250.0,437.5,-350775.0
+2026-10-14,EuroLeague Kadın,Europe,Valencia Women,Fenerbahce Women,69,88,3.35,Kaybetti,250.0,-250.0,-351025.0
+2026-10-14,Japonya B.League One,Japan,Rizing Zephyr Fukuoka,Yokohama Excellence,67,89,3.6,Kaybetti,250.0,-250.0,-351275.0
+2026-10-14,Japonya B.League One,Japan,Gifu Swoops,Saitama Broncos,74,101,2.5,Kaybetti,250.0,-250.0,-351525.0
+2026-10-14,NBA,USA,Sacramento Kings,Portland Trail Blazers,98,110,2.25,Kaybetti,250.0,-250.0,-351775.0
+2026-10-14,FIBA Europe Cup,Europe,Lisboa e Benfica,Denizli Basket,96,91,2.72,Kazandi,250.0,430.0,-351345.0
+2026-10-14,Hırvatistan Premijer Liga,Croatia,Skrljevo,Cibona Zagreb,89,96,3.1,Kaybetti,250.0,-250.0,-351595.0
+2026-10-15,Litvanya NKL,Lithuania,Alytaus Patriotai,Vytis,110,105,2.65,Kazandi,250.0,412.5,-351182.5
+2026-10-15,Arjantin Liga Nacional,Argentina,La Union Formosa U23,Racing Chivilcoy LDD,83,63,2.85,Kazandi,250.0,462.5,-350720.0
+2026-10-15,EuroCup Kadın,Europe,Dexia W Namur (W),Chartell Women,60,70,2.65,Kaybetti,250.0,-250.0,-350970.0
+2026-10-15,Avustralya NBL,Australia,Brisbane Bullets,South East Melbourne Phoenix,115,105,3.5,Kazandi,250.0,625.0,-350345.0
+2026-10-15,Avustralya WNBL,Australia,Tasmania Jewels W,Geelong Venom Basketball Women,103,90,2.8,Kazandi,250.0,450.0,-349895.0
+2026-10-16,Fransa Pro B,France,Fos Ouest,Antibes,78,76,3.25,Kazandi,250.0,562.5,-349332.5
+2026-10-16,İsveç Basketligan,Sweden,Hogsbo Basket,Jamtland Basket,75,89,3.1,Kaybetti,250.0,-250.0,-349582.5
+2026-10-16,Finlandiya Korisliiga,Finland,Kouvot,Joensuun Kataja,95,76,2.9,Kazandi,250.0,475.0,-349107.5
+2026-10-16,Avusturya Süper Lig,Austria,St.Polten,Allianz Swans Gmunden,76,77,3.7,Kaybetti,250.0,-250.0,-349357.5
+2026-10-16,Estonya/Letonya Ligi,Estonia,KK Wimmis,BK Ogre,66,76,3.65,Kaybetti,250.0,-250.0,-349607.5
+2026-10-16,Japonya B.League Premier,Japan,Yokohama B-Corsairs,Ryukyu Golden Kings,87,85,2.55,Kazandi,250.0,387.5,-349220.0
+2026-10-16,Avustralya WNBL,Australia,Southside Women,Sydney Flames Women,73,77,2.25,Kaybetti,250.0,-250.0,-349470.0
+2026-10-16,İsrail Süper Ligi,Israel,Hapoel Migdal Haemek,Ironi Nahariya,69,89,2.65,Kaybetti,250.0,-250.0,-349720.0
+2026-10-16,İsrail Süper Ligi,Israel,Elitzur Yavne,Hapoel Haifa,63,94,2.25,Kaybetti,250.0,-250.0,-349970.0
+2026-10-16,İngiltere Süper Lig,England,Caledonia Gladiators,Sheffield Sharks,87,79,2.7,Kazandi,250.0,425.0,-349545.0
+2026-10-16,NBA,USA,Houston Rockets,Oklahoma City Thunder,116,89,2.45,Kazandi,250.0,362.5,-349182.5
+2026-10-16,Japonya B.League Premier,Japan,Saga Ballooners,Levanga Hokkaido,90,109,3.3,Kaybetti,250.0,-250.0,-349432.5
+2026-10-16,EuroLeague,Europe,Barcelona,Olympiacos Piraeus B.C.,100,105,2.4,Kaybetti,250.0,-250.0,-349682.5
+2026-10-16,BNXT League,Europe,Royal Atomia Brussels,Telindus Oostende,81,64,2.25,Kazandi,250.0,312.5,-349370.0
+2026-10-17,Türkiye Süper Ligi (BSL),Turkey,Bursaspor,Bahcesehir Koleji,80,90,3.3,Kaybetti,250.0,-250.0,-349620.0
+2026-10-17,Çekya NBL,Czech,GAPA Hradec Kralove,Sluneta Usti nad Labem,95,111,2.7,Kaybetti,250.0,-250.0,-349870.0
+2026-10-17,İspanya Liga ACB,Spain,La Bruixa d'Or Manresa,Unicaja Malaga,72,84,2.4,Kaybetti,250.0,-250.0,-350120.0
+2026-10-17,İspanya Liga Femenina,Spain,Cadi La Seu Women,Estudiantes Women,64,53,2.3,Kazandi,250.0,325.0,-349795.0
+2026-10-17,Slovenya Liga Nova KBM,Slovenia,Tajfun,Hopsi Polzela,67,84,2.7,Kaybetti,250.0,-250.0,-350045.0
+2026-10-17,İspanya Liga Femenina,Spain,Lacturale Araski Women,Spar Girona Women,57,67,2.55,Kaybetti,250.0,-250.0,-350295.0
+2026-10-17,Almanya Pro A,Germany,Medi Bayreuth,Artland Dragons,86,97,2.65,Kaybetti,250.0,-250.0,-350545.0
+2026-10-17,İspanya Liga Femenina,Spain,IDK Gipuzkoa W,Mallorca W,59,71,2.3,Kaybetti,250.0,-250.0,-350795.0
+2026-10-17,Litvanya NKL,Lithuania,KK Baltai Kaunas,Kretinga,72,84,2.65,Kaybetti,250.0,-250.0,-351045.0
+2026-10-17,Litvanya LKL,Lithuania,Nevezis Kedainiai,Lietkabelis,72,73,2.9,Kaybetti,250.0,-250.0,-351295.0
+2026-10-17,CBA,China,Ningbo Rockets,Beijing Royal Fighters,71,95,2.35,Kaybetti,250.0,-250.0,-351545.0
+2026-10-17,Japonya B.League One,Japan,Tachikawa Dice,Tokyo Hachioji Trains,71,64,2.5,Kazandi,250.0,375.0,-351170.0
+2026-10-17,İsviçre SBL,Switzerland,Lugano Tigers,SAM Basket Massagno,72,102,2.9,Kaybetti,250.0,-250.0,-351420.0
+2026-10-17,Litvanya LKL,Lithuania,Siauliai,Rytas Vilnius,88,95,2.7,Kaybetti,250.0,-250.0,-351670.0
+2026-10-17,Fransa Pro A,France,Limoges,Lyon-Villeurbanne,94,97,2.55,Kaybetti,250.0,-250.0,-351920.0
+2026-10-17,Litvanya LKL,Lithuania,Jonava,Neptunas Klaipeda,83,84,2.8,Kaybetti,250.0,-250.0,-352170.0
+2026-10-17,Polonya 1. Lig,Poland,Polpharma Starogard Gdanski,Leszno,85,94,2.85,Kaybetti,250.0,-250.0,-352420.0
+2026-10-17,CBA,China,Jiangsu Dragons Kentier,Fujian Xunxing Sturgeons,85,89,2.6,Kaybetti,250.0,-250.0,-352670.0
+2026-10-17,Finlandiya Korisliiga,Finland,Bisons Loimaa,Salon Vilpas,70,81,3.7,Kaybetti,250.0,-250.0,-352920.0
+2026-10-17,Japonya B.League One,Japan,Niigata Albirex BB,Fukui Blowinds,89,60,2.65,Kazandi,250.0,412.5,-352507.5
+2026-10-17,BNXT League,Europe,Leiden,Generali Okapi Aalstar,92,77,2.85,Kazandi,250.0,462.5,-352045.0
+2026-10-17,CBA,China,Sichuan Jinqiang Blue Whales,Tianjin Pioneers,97,85,3.1,Kazandi,250.0,525.0,-351520.0
+2026-10-17,Bulgaristan NBL,Bulgaria,Akademik Plovdiv,Minyor 2015,93,96,2.25,Kaybetti,250.0,-250.0,-351770.0
+2026-10-17,Fransa LFB Kadın,France,Charnay Bourgogne Sud Women,Basket Landes,50,54,2.55,Kaybetti,250.0,-250.0,-352020.0
+2026-10-17,Bulgaristan NBL,Bulgaria,Beroe,Lokomotiv Plovdiv,95,98,3.2,Kaybetti,250.0,-250.0,-352270.0
+2026-10-17,Bulgaristan NBL,Bulgaria,BC Polytechnica,Spartak Pleven,71,102,2.9,Kaybetti,250.0,-250.0,-352520.0
+2026-10-17,Japonya B.League Premier,Japan,Altiri Chiba,Hiroshima Dragonflies,71,89,3.3,Kaybetti,250.0,-250.0,-352770.0
+2026-10-17,Japonya B.League One,Japan,Bambitious Nara,Veltex Shizuoka,85,109,2.85,Kaybetti,250.0,-250.0,-353020.0
+2026-10-17,Avustralya WNBL,Australia,Perth Lynx Women,Townsville Fire Women,86,83,3.35,Kazandi,250.0,587.5,-352432.5
+2026-10-17,Polonya PLK,Poland,Wikana Start SA Lublin,Asseco Arka Gdynia,76,73,2.7,Kazandi,250.0,425.0,-352007.5
+2026-10-17,Fransa Pro A,France,Nancy,Nanterre,80,65,2.55,Kazandi,250.0,387.5,-351620.0
+2026-10-17,Slovenya Liga Nova KBM,Slovenia,Nova Gorica Mladi,Sencur KK,70,76,3.25,Kaybetti,250.0,-250.0,-351870.0
+2026-10-17,CBA,China,Xinjiang Flying Tigers,Qingdao Eagles,82,80,2.35,Kazandi,250.0,337.5,-351532.5
+2026-10-17,Litvanya NKL,Lithuania,Vilniaus Stekas,Palangakursie,76,107,3.05,Kaybetti,250.0,-250.0,-351782.5
+2026-10-17,NBA,USA,Golden State Warriors,Portland Trail Blazers,128,118,2.7,Kazandi,250.0,425.0,-351357.5
+2026-10-17,Türkiye Süper Ligi (BSL),Turkey,Bordo BK,Turk Telekom,79,66,2.65,Kazandi,250.0,412.5,-350945.0
+2026-10-17,Portekiz LPB,Portugal,CAB Madeira,Sporting CP,93,84,2.7,Kazandi,250.0,425.0,-350520.0
+2026-10-17,Polonya PLK,Poland,Gtk Gliwice,Stelmet Enea Bc Zielona Góra,76,84,2.9,Kaybetti,250.0,-250.0,-350770.0
+2026-10-17,Avustralya WNBL,Australia,UC Capitals Women,Bendigo Spirit Women,94,92,2.3,Kazandi,250.0,325.0,-350445.0
+2026-10-17,Yunanistan Basket League,Greece,Doxa Lefkadas B.C.,Promitheas Patras Vikos Cola B.C.,79,80,2.4,Kaybetti,250.0,-250.0,-350695.0
+2026-10-17,İspanya Primera FEB,Spain,Zamora,Granada,89,81,3.0,Kazandi,250.0,500.0,-350195.0
+2026-10-17,Almanya Pro A,Germany,PS Karlsruhe,Heidelberg,51,74,2.85,Kaybetti,250.0,-250.0,-350445.0
+2026-10-18,CBA,China,Guangzhou Loong Lions,Zhejiang Golden Bulls,90,79,3.1,Kazandi,250.0,525.0,-349920.0
+2026-10-18,Arjantin Liga Nacional,Argentina,San Lorenzo LDD,Obera LDD,68,62,2.65,Kazandi,250.0,412.5,-349507.5
+2026-10-18,İtalya Serie A (LBA),Italy,Napoli Basket,Olimpia Milano,82,98,2.3,Kaybetti,250.0,-250.0,-349757.5
+2026-10-18,CBA,China,Nanjing Monkey Kings,Guangdong Southern Tigers,96,95,3.4,Kazandi,250.0,600.0,-349157.5
+2026-10-18,Almanya Pro A,Germany,Weissenhorn Youngstars,HAKRO Merlins Crailsheim,84,78,3.9,Kazandi,250.0,725.0,-348432.5
+2026-10-18,Polonya PLK,Poland,Dabrowa Gornicza,Slask Wroclaw,97,80,2.5,Kazandi,250.0,375.0,-348057.5
+2026-10-18,Fransa Pro A,France,Gravelines-Dunkerque,Dijon,83,92,3.1,Kaybetti,250.0,-250.0,-348307.5
+2026-10-18,Sırbistan KLS,Serbia,Tamis Petrohemija,Hercegovac,92,91,2.3,Kazandi,250.0,325.0,-347982.5
+2026-10-18,İtalya Serie A Kadın,Italy,Costa Masnaga Women,Roseto women,64,83,2.5,Kaybetti,250.0,-250.0,-348232.5
+2026-10-18,Polonya PLK,Poland,Victoria Górnik Walbrzych,Dziki Warszawa,74,71,2.3,Kazandi,250.0,325.0,-347907.5
+2026-10-18,Türkiye Kadın Süper Ligi,Turkey,Kayseri Bellona Women,Botas Spor Women,61,70,3.2,Kaybetti,250.0,-250.0,-348157.5
+2026-10-18,Japonya B.League One,Japan,Bambitious Nara,Veltex Shizuoka,81,85,3.6,Kaybetti,250.0,-250.0,-348407.5
+2026-10-18,İsviçre SBL,Switzerland,Starwings Basket Regio Basel,Lausanne Basket,69,85,2.55,Kaybetti,250.0,-250.0,-348657.5
+2026-10-18,İngiltere Süper Lig,England,Cheshire Phoenix,London Lions,83,87,2.3,Kaybetti,250.0,-250.0,-348907.5
+2026-10-18,ABA League,Europe,KK Bosna ASA BH TELECOM,Partizan Mozzart Bet Beograd,84,89,3.25,Kaybetti,250.0,-250.0,-349157.5
+2026-10-18,Ukrayna Süper Lig,Ukraine,BC Rivne,BC Dnipro,86,69,3.2,Kazandi,250.0,550.0,-348607.5
+2026-10-18,Japonya B.League Premier,Japan,Toyama Grouses,SeaHorses Mikawa,56,99,2.55,Kaybetti,250.0,-250.0,-348857.5
+2026-10-18,Polonya 1. Lig,Poland,Miasto Szkla Krosno,Spojnia,72,77,2.65,Kaybetti,250.0,-250.0,-349107.5
+2026-10-18,Ukrayna Süper Lig,Ukraine,Stariy Lutsk,BK Zaporozhye,57,76,3.2,Kaybetti,250.0,-250.0,-349357.5
+2026-10-19,CBA,China,Beijing Royal Fighters,Shanghai Jiushi Sharks,92,105,3.9,Kaybetti,250.0,-250.0,-349607.5
+2026-10-19,Arjantin Liga Nacional,Argentina,Independiente de Oliva LDD,Lanus LDD,72,81,2.25,Kaybetti,250.0,-250.0,-349857.5
+2026-10-19,Türkiye Süper Ligi (BSL),Turkey,Esenler Erokspor,Anadolu Efes Istanbul,73,70,2.3,Kazandi,250.0,325.0,-349532.5
+2026-10-19,CBA,China,Jiangsu Dragons Kentier,Shenzhen Leopards,81,89,3.4,Kaybetti,250.0,-250.0,-349782.5
+2026-10-19,Japonya B.League Premier,Japan,Shinshu Brave Warriors,Nagoya Diamond Dolphins,77,92,3.75,Kaybetti,250.0,-250.0,-350032.5
+2026-10-20,Fransa Pro B,France,Antibes,Denain Voltaire,91,82,2.3,Kazandi,250.0,325.0,-349707.5
+2026-10-20,Macaristan NB I/A,Hungary,KTE-Duna Aszfalt,Szedeak,63,86,2.25,Kaybetti,250.0,-250.0,-349957.5
+2026-10-20,EuroCup,Europe,Balkan Botevgrad,Lietkabelis,57,64,2.6,Kaybetti,250.0,-250.0,-350207.5
+2026-10-21,FIBA Europe Cup,Europe,Les Lions de Geneve,Denizli Basket,76,80,3.05,Kaybetti,250.0,-250.0,-350457.5
+2026-10-21,Arjantin Liga Nacional,Argentina,Argentino Junin LDD,Boca Juniors LDD,53,95,2.3,Kaybetti,250.0,-250.0,-350707.5
+2026-10-21,İtalya Serie A2,Italy,MiroRadici Finance Vigevano,Fulgor Libertas Forli,79,74,2.7,Kazandi,250.0,425.0,-350282.5
+2026-10-21,Finlandiya Korisliiga,Finland,Kouvot,KTP Basket,89,95,2.9,Kaybetti,250.0,-250.0,-350532.5
+2026-10-21,Japonya B.League Premier,Japan,Saga Ballooners,Nagasaki Velca,66,84,3.05,Kaybetti,250.0,-250.0,-350782.5
+2026-10-21,Japonya B.League Premier,Japan,Utsunomiya Brex,Nagoya Diamond Dolphins,69,98,2.72,Kaybetti,250.0,-250.0,-351032.5
+2026-10-21,EuroCup,Europe,Skyliners Frankfurt,Isla De Tenerife Canarias,94,104,3.9,Kaybetti,250.0,-250.0,-351282.5
+2026-10-21,EuroCup Kadın,Europe,Chartell Women,Perfumerias Avenida Women,102,101,2.3,Kazandi,250.0,325.0,-350957.5
+2026-10-21,EuroCup Kadın,Europe,San Giovanni Women,Panathinaikos Women,65,75,2.5,Kaybetti,250.0,-250.0,-351207.5
+2026-10-21,EuroCup Kadın,Europe,Wroclaw Women's,Olympiakos Women,68,78,3.2,Kaybetti,250.0,-250.0,-351457.5
+2026-10-21,Arjantin Liga Nacional,Argentina,Union de Mar del Plata,Central Entrerriano,71,53,2.5,Kazandi,250.0,375.0,-351082.5
+2026-10-21,Fransa Pro B,France,Fos Ouest,Poitiers,67,80,3.7,Kaybetti,250.0,-250.0,-351332.5
+2026-10-22,NBA,USA,Memphis Grizzlies,Utah Jazz,123,103,2.25,Kazandi,250.0,312.5,-351020.0
+2026-10-22,Yunanistan A2,Greece,Esperos,Ermis Agias,76,87,2.7,Kaybetti,250.0,-250.0,-351270.0
+2026-10-22,NBA,USA,New Orleans Pelicans,Indiana Pacers,120,123,2.45,Kaybetti,250.0,-250.0,-351520.0
+2026-10-22,Brezilya NBB,Brazil,Pato,Paulistano Amil,74,80,3.7,Kaybetti,250.0,-250.0,-351770.0
+2026-10-22,EuroLeague,Europe,Bayern Munchen,Dubai,91,107,2.5,Kaybetti,250.0,-250.0,-352020.0
+2026-10-22,Avustralya NBL,Australia,lllawarra Hawks,Sydney Kings,82,108,3.2,Kaybetti,250.0,-250.0,-352270.0
+2026-10-22,Litvanya NKL,Lithuania,Neptunas-Akvaservis Klaipeda,Palangakursie,78,77,2.25,Kazandi,250.0,312.5,-351957.5
+2026-10-22,NCAA,USA,Louisville,Kansas Jayhawks,89,83,2.8,Kazandi,250.0,450.0,-351507.5
+2026-10-22,Avustralya WNBL,Australia,Southside Women,Tasmania Jewels W,91,77,2.75,Kazandi,250.0,437.5,-351070.0
+2026-10-22,İzlanda Premier Lig,Iceland,Hottur,IR Reykjavik,108,96,2.65,Kazandi,250.0,412.5,-350657.5
+2026-10-22,Litvanya NKL,Lithuania,BC Zalgiris II,Jurbarko Jurbarkas-Karys,79,93,3.2,Kaybetti,250.0,-250.0,-350907.5
+2026-10-22,EuroLeague,Europe,Maccabi Tel Aviv,Real Madrid,99,113,2.8,Kaybetti,250.0,-250.0,-351157.5
+2026-10-22,Arjantin Liga Nacional,Argentina,Atletico Argentino Junin,Boca Juniors,84,82,3.25,Kazandi,250.0,562.5,-350595.0
+2026-10-22,CBA,China,Jilin Northeast Tigers,Xinjiang Flying Tigers,89,83,3.4,Kazandi,250.0,600.0,-349995.0
+2026-10-22,CBA,China,Shanxi Loongs Fenjiu,Shanghai Jiushi Sharks,103,92,3.9,Kazandi,250.0,725.0,-349270.0
+2026-10-22,NBA,USA,Brooklyn Nets,Charlotte Hornets,103,110,2.6,Kaybetti,250.0,-250.0,-349520.0
+2026-10-22,CBA,China,Guangdong Southern Tigers,Zhejiang Guangsha Lions,96,78,2.6,Kazandi,250.0,400.0,-349120.0
+2026-10-23,Arjantin Liga Nacional,Argentina,Argentino Junin LDD,Quimsa LDD,61,85,2.65,Kaybetti,250.0,-250.0,-349370.0
+2026-10-23,Meksika LNBP,Mexico,Mineros de Zacatecas,Astros de Jalisco,72,81,2.3,Kaybetti,250.0,-250.0,-349620.0
+2026-10-23,CBA,China,Tianjin Pioneers,Guangzhou Loong Lions,102,86,3.4,Kazandi,250.0,600.0,-349020.0
+2026-10-23,Brezilya NBB,Brazil,Uniao Corinthians,Pitagoras Minas,71,88,2.7,Kaybetti,250.0,-250.0,-349270.0
+2026-10-23,Japonya B.League Premier,Japan,Ryukyu Golden Kings,Gunma Crane Thunders,93,85,2.3,Kazandi,250.0,325.0,-348945.0
+2026-10-23,Ukrayna Süper Lig,Ukraine,Khmelnitsky,BC Kyiv-Basket,51,72,2.5,Kaybetti,250.0,-250.0,-349195.0
+2026-10-23,İsrail Süper Ligi,Israel,Maccabi Kiryat Gat,Maccabi Raanana,84,96,2.5,Kaybetti,250.0,-250.0,-349445.0
+2026-10-23,Arjantin Liga Nacional,Argentina,Atenas LDD,Lanus LDD,80,63,2.85,Kazandi,250.0,462.5,-348982.5
+2026-10-23,Meksika LNBP,Mexico,Dorados de Chihuahua,Fuerza Regia de Monterrey,120,116,2.3,Kazandi,250.0,325.0,-348657.5
+2026-10-23,BNXT League,Europe,Belgacom Liege Basket,Eiffeltowers Den Bosch,71,80,2.5,Kaybetti,250.0,-250.0,-348907.5
+2026-10-23,Fransa Pro A,France,Saint Quentin,Dijon,81,91,3.75,Kaybetti,250.0,-250.0,-349157.5
+2026-10-23,Ukrayna Süper Lig,Ukraine,Hoverla,Kharkivski Sokoly,69,73,3.6,Kaybetti,250.0,-250.0,-349407.5
+2026-10-23,Japonya B.League One,Japan,Tokyo Hachioji Trains,Tokyo United Basketball Club,73,70,2.25,Kazandi,250.0,312.5,-349095.0
+2026-10-23,EuroLeague,Europe,Paris,Valencia,93,104,2.55,Kaybetti,250.0,-250.0,-349345.0
+2026-10-23,Ukrayna Süper Lig,Ukraine,Niko-Basket Mykolaiv,Stariy Lutsk,92,81,2.25,Kazandi,250.0,312.5,-349032.5
+2026-10-23,Fransa Pro B,France,Metropolitans 92,Entente Orleanaise,82,93,2.55,Kaybetti,250.0,-250.0,-349282.5
+2026-10-24,Japonya B.League One,Japan,Fukui Blowinds,Saitama Broncos,65,78,2.5,Kaybetti,250.0,-250.0,-349532.5
+2026-10-24,Avustralya WNBL,Australia,Adelaide Link Lightning Women,Perth Lynx Women,82,90,3.0,Kaybetti,250.0,-250.0,-349782.5
+2026-10-24,Macaristan NB I/A,Hungary,Kaposvari KK,Atomeromu SE PAKS,76,95,2.65,Kaybetti,250.0,-250.0,-350032.5
+2026-10-24,Litvanya NKL,Lithuania,Vilniaus Stekas,Mazeikiai,74,70,2.25,Kazandi,250.0,312.5,-349720.0
+2026-10-24,Japonya B.League Premier,Japan,Kawasaki Brave Thunders,Sendai 89ers,82,93,2.72,Kaybetti,250.0,-250.0,-349970.0
+2026-10-24,Almanya Pro A,Germany,PS Karlsruhe,Tigers Tübingen  ,87,83,2.65,Kazandi,250.0,412.5,-349557.5
+2026-10-24,Hırvatistan Premijer Liga,Croatia,KK Dubrava Zagreb,Dubrovnik,80,84,2.55,Kaybetti,250.0,-250.0,-349807.5
+2026-10-24,KBL,South Korea,Ulsan Mobis Phoebus,Seoul Samsung Thunders,71,91,2.35,Kaybetti,250.0,-250.0,-350057.5
+2026-10-24,Yunanistan Basket League,Greece,Doxa Lefkadas B.C.,Iraklis B.C.,94,86,2.82,Kazandi,250.0,455.0,-349602.5
+2026-10-24,Arjantin Liga Nacional,Argentina,Atletico Argentino Junin,Quimsa,76,78,3.25,Kaybetti,250.0,-250.0,-349852.5
+2026-10-24,Avusturya Süper Lig,Austria,Allianz Swans Gmunden,Kapfenberg Bulls,86,72,2.55,Kazandi,250.0,387.5,-349465.0
+2026-10-24,NBA,USA,Washington Wizards,Toronto Raptors,102,112,2.47,Kaybetti,250.0,-250.0,-349715.0
+2026-10-24,Yunanistan Basket League,Greece,Mykonos Betsson B.C.,Aris Thessaloniki B.C.,72,88,4.0,Kaybetti,250.0,-250.0,-349965.0
+2026-10-24,Almanya BBL,Germany,EnBW Ludwigsburg,Telekom Baskets Bonn,84,68,2.4,Kazandi,250.0,350.0,-349615.0
+2026-10-24,Polonya 1. Lig,Poland,Decka Pelplin Basketball,Spojnia,99,92,2.65,Kazandi,250.0,412.5,-349202.5
+2026-10-24,Bulgaristan NBL,Bulgaria,BOTEV 2012,Akademik Plovdiv,73,85,2.25,Kaybetti,250.0,-250.0,-349452.5
+2026-10-24,Japonya B.League One,Japan,Aomori Wat's,Fukushima Firebonds,81,86,3.9,Kaybetti,250.0,-250.0,-349702.5
+2026-10-24,Japonya B.League One,Japan,TryHoop Okayama,Tokushima Gambarous,86,80,2.6,Kazandi,250.0,400.0,-349302.5
+2026-10-24,Japonya B.League One,Japan,Veltex Shizuoka,Ehime Orange Vikings,88,78,2.5,Kazandi,250.0,375.0,-348927.5
+2026-10-24,Fransa Pro B,France,Le Havre,Denain Voltaire,95,103,2.9,Kaybetti,250.0,-250.0,-349177.5
+2026-10-24,Almanya BBL,Germany,RASTA Vechta,Gladiators Trier,88,97,2.7,Kaybetti,250.0,-250.0,-349427.5
+2026-10-24,Fransa LFB Kadın,France,Toulouse Women,Angers Women,70,75,2.7,Kaybetti,250.0,-250.0,-349677.5
+2026-10-24,Japonya B.League One,Japan,Niigata Albirex BB,Iwate Big Bulls,73,80,2.25,Kaybetti,250.0,-250.0,-349927.5
+2026-10-24,İtalya Serie A (LBA),Italy,Givova Scafati,Aquila Basket Trento,87,81,2.6,Kazandi,250.0,400.0,-349527.5
+2026-10-24,Türkiye Kadın Süper Ligi,Turkey,Istanbul GSK Women,Emlak Konut Women,61,71,3.9,Kaybetti,250.0,-250.0,-349777.5
+2026-10-24,Japonya B.League Premier,Japan,Kobe Storks,San-en NeoPhoenix,89,91,3.35,Kaybetti,250.0,-250.0,-350027.5
+2026-10-24,ABA League,Europe,Subotica Spartak,Partizan Mozzart Bet Beograd,80,82,3.9,Kaybetti,250.0,-250.0,-350277.5
+2026-10-24,Estonya/Letonya Ligi,Estonia,Valmiera,VEF Riga Juniors,89,97,2.7,Kaybetti,250.0,-250.0,-350527.5
+2026-10-24,Fransa Pro A,France,Boulazac,Le Mans,72,97,3.05,Kaybetti,250.0,-250.0,-350777.5
+2026-10-24,NBA,USA,Sacramento Kings,Portland Trail Blazers,120,128,3.25,Kaybetti,250.0,-250.0,-351027.5
+2026-10-25,İtalya Serie A2,Italy,Fulgor Libertas Forli,Libertas Livorno,87,92,2.3,Kaybetti,250.0,-250.0,-351277.5
+2026-10-25,Japonya B.League One,Japan,Niigata Albirex BB,Iwate Big Bulls,75,51,2.55,Kazandi,250.0,387.5,-350890.0
+2026-10-25,İtalya Serie A2,Italy,Ruvo Di Puglia,Dinamo Sassari,79,63,2.7,Kazandi,250.0,425.0,-350465.0
+2026-10-25,İngiltere Süper Lig,England,Liverpool,Newcastle Eagles,77,74,2.55,Kazandi,250.0,387.5,-350077.5
+2026-10-25,Çekya NBL,Czech,Lokomotiva Plzen,GAPA Hradec Kralove,77,84,2.9,Kaybetti,250.0,-250.0,-350327.5
+2026-10-25,Litvanya LKL,Lithuania,U.Juventus,Rytas Vilnius,76,94,2.7,Kaybetti,250.0,-250.0,-350577.5
+2026-10-25,Türkiye TBL,Turkey,Konya Buyuksehir,Goztepe,88,90,2.65,Kaybetti,250.0,-250.0,-350827.5
+2026-10-25,Japonya B.League Premier,Japan,Tokyo Sunrockers,Nagoya Diamond Dolphins,85,96,2.6,Kaybetti,250.0,-250.0,-351077.5
+2026-10-25,CBA,China,Sichuan Jinqiang Blue Whales,Zhejiang Golden Bulls,49,91,3.1,Kaybetti,250.0,-250.0,-351327.5
+2026-10-25,İtalya Serie A Kadın,Italy,Brixia Women,Fila San Martino Di Lupari Women,71,83,3.65,Kaybetti,250.0,-250.0,-351577.5
+2026-10-25,Fransa Pro A,France,Chorale Roanne,Paris,75,96,3.3,Kaybetti,250.0,-250.0,-351827.5
+2026-10-25,Ukrayna Süper Lig,Ukraine,Hoverla,BC Kyiv-Basket,75,70,3.2,Kazandi,250.0,550.0,-351277.5
+2026-10-25,Japonya B.League One,Japan,Fukui Blowinds,Saitama Broncos,64,89,2.85,Kaybetti,250.0,-250.0,-351527.5
+2026-10-25,Japonya B.League One,Japan,TryHoop Okayama,Tokushima Gambarous,83,59,2.25,Kazandi,250.0,312.5,-351215.0
+2026-10-25,Ukrayna Süper Lig,Ukraine,Niko-Basket Mykolaiv,BC Rivne,84,93,2.85,Kaybetti,250.0,-250.0,-351465.0
+2026-10-25,İspanya Liga ACB,Spain,Basquet Girona,DKV Joventut,101,87,2.4,Kazandi,250.0,350.0,-351115.0
+2026-10-25,Türkiye TBL,Turkey,Darussafaka Basketball,Buyukcekmece,90,85,2.25,Kazandi,250.0,312.5,-350802.5
+2026-10-25,Polonya 1. Lig,Poland,AZS Politechnika Opolska,Sokol Lancut,84,104,2.5,Kaybetti,250.0,-250.0,-351052.5
+2026-10-25,KBL,South Korea,Daegu KOGAS Pegasus,Seoul Samsung Thunders,68,76,2.75,Kaybetti,250.0,-250.0,-351302.5
+2026-10-25,NBA,USA,Charlotte Hornets,Miami Heat,115,110,2.35,Kazandi,250.0,337.5,-350965.0
+2026-10-25,Fransa LFB Kadın,France,Chartell Women,Flammes Carolo Basket Women,63,72,3.7,Kaybetti,250.0,-250.0,-351215.0
+2026-10-25,Japonya B.League One,Japan,Aomori Wat's,Fukushima Firebonds,91,110,3.2,Kaybetti,250.0,-250.0,-351465.0
+2026-10-25,CBA,China,Shenzhen Leopards,Beijing Royal Fighters,70,103,3.4,Kaybetti,250.0,-250.0,-351715.0
+2026-10-25,Ukrayna Süper Lig,Ukraine,Khmelnitsky,Kharkivski Sokoly,64,75,2.5,Kaybetti,250.0,-250.0,-351965.0
+2026-10-26,NBA,USA,Brooklyn Nets,Indiana Pacers,109,136,3.25,Kaybetti,250.0,-250.0,-352215.0
+2026-10-26,NBA,USA,Utah Jazz,Los Angeles Lakers,123,132,3.05,Kaybetti,250.0,-250.0,-352465.0
+2026-10-26,Sırbistan KLS,Serbia,OKK Beograd,Sloboda,75,95,2.9,Kaybetti,250.0,-250.0,-352715.0
+2026-10-26,Almanya Pro A,Germany,Baskets Koblenz,LTi Giessen 46ers,68,83,2.5,Kaybetti,250.0,-250.0,-352965.0
+2026-10-26,Japonya B.League Premier,Japan,Nagasaki Velca,Ryukyu Golden Kings,101,84,3.3,Kazandi,250.0,575.0,-352390.0
+2026-10-26,Avusturya Süper Lig,Austria,Xion Dukes Klosterneuburg,Arkadia Traiskirchen Lions,63,91,2.75,Kaybetti,250.0,-250.0,-352640.0
+2026-10-26,Arjantin Liga Nacional,Argentina,Racing de Chivilcoy,Quimsa,54,68,2.55,Kaybetti,250.0,-250.0,-352890.0
+2026-10-26,Avusturya Süper Lig,Austria,BBC Nord,Allianz Swans Gmunden,79,86,2.55,Kaybetti,250.0,-250.0,-353140.0
+2026-10-26,NBA,USA,Sacramento Kings,Memphis Grizzlies,112,123,2.5,Kaybetti,250.0,-250.0,-353390.0
+2026-10-26,Avusturya Süper Lig,Austria,St.Polten,Oberwart Gunners,54,79,3.7,Kaybetti,250.0,-250.0,-353640.0
+2026-10-26,Japonya B.League Premier,Japan,Shimane Susanoo Magic,Sendai 89ers,85,86,3.05,Kaybetti,250.0,-250.0,-353890.0
+2026-10-26,Avusturya Süper Lig,Austria,Kufstein,Raiffeisen Flyers Wels,83,97,2.9,Kaybetti,250.0,-250.0,-354140.0
+2026-10-27,EuroLeague,Europe,Baskonia Vitoria,Real Madrid,86,104,4.0,Kaybetti,250.0,-250.0,-354390.0
+2026-10-27,Basketball Champions League,Europe,Sabah Baku,Nanterre,87,80,2.75,Kazandi,250.0,437.5,-353952.5
+2026-10-27,Avustralya WNBL,Australia,Bendigo Spirit Women,Townsville Fire Women,68,91,2.35,Kaybetti,250.0,-250.0,-354202.5
+2026-10-27,Brezilya NBB,Brazil,Corinthians,Vivo Franca,78,48,2.9,Kazandi,250.0,475.0,-353727.5
+2026-10-27,NBA,USA,Milwaukee Bucks,Indiana Pacers,110,102,2.4,Kazandi,250.0,350.0,-353377.5
+2026-10-27,Finlandiya Korisliiga,Finland,Helsinky Seagulls,Salon Vilpas,86,79,2.3,Kazandi,250.0,325.0,-353052.5
+2026-10-27,CBA,China,Xinjiang Flying Tigers,Zhejiang Golden Bulls,75,81,2.5,Kaybetti,250.0,-250.0,-353302.5
+2026-10-27,CBA,China,Jiangsu Dragons Kentier,Fujian Xunxing Sturgeons,88,78,2.9,Kazandi,250.0,475.0,-352827.5
+2026-10-27,Arjantin Liga Nacional,Argentina,Rocamora,Club Atletico River Plate,81,75,2.5,Kazandi,250.0,375.0,-352452.5
+2026-10-28,Brezilya NBB,Brazil,Cruzeiro,CAIXA Brasília Basquete,80,89,2.7,Kaybetti,250.0,-250.0,-352702.5
+2026-10-28,FIBA Europe Cup,Europe,Tartu Ulikool,Iraklis B.C.,101,100,3.75,Kazandi,250.0,687.5,-352015.0
+2026-10-28,FIBA Europe Cup,Europe,Kolossos H Hotels Collection B.C.,Esenler Erokspor,69,71,2.3,Kaybetti,250.0,-250.0,-352265.0
+2026-10-28,EuroCup Kadın,Europe,Castors Braine (w),Panathinaikos Women,66,84,3.05,Kaybetti,250.0,-250.0,-352515.0
+2026-10-28,EuroCup,Europe,Le Mans,Hapoel Jerusalem,83,90,3.1,Kaybetti,250.0,-250.0,-352765.0
+2026-10-28,EuroLeague,Europe,Besiktas,Olympiacos Piraeus B.C.,73,81,2.7,Kaybetti,250.0,-250.0,-353015.0
+2026-10-28,EuroCup,Europe,Neptunas Klaipeda,Napoli Basket,85,94,2.35,Kaybetti,250.0,-250.0,-353265.0
+2026-10-28,FIBA Europe Cup,Europe,Batumi-RSU,Trepca,70,91,3.75,Kaybetti,250.0,-250.0,-353515.0
+2026-10-28,İsrail Süper Ligi,Israel,Hapoel Migdal Haemek,Maccabi Rehovot,71,88,2.85,Kaybetti,250.0,-250.0,-353765.0
+2026-10-28,FIBA Europe Cup,Europe,Les Lions de Geneve,Lisboa e Benfica,93,90,2.3,Kazandi,250.0,325.0,-353440.0
+2026-10-28,FIBA Europe Cup,Europe,KK Split,Promitheas Patras Vikos Cola B.C.,88,82,2.72,Kazandi,250.0,430.0,-353010.0
+2026-10-28,EuroLeague,Europe,Virtus Bologna,Zalgiris Kaunas,74,91,2.4,Kaybetti,250.0,-250.0,-353260.0
+2026-10-28,EuroLeague Kadın,Europe,AZS UMCS Lublin Women,Bourges Basket Women,69,88,3.75,Kaybetti,250.0,-250.0,-353510.0
+2026-10-28,EuroCup Kadın,Europe,Nyon Basket Women,Athlete Celje Women's,63,57,3.65,Kazandi,250.0,662.5,-352847.5
+2026-10-28,EuroCup Kadın,Europe,Olympiakos Women,CBK Mersin Women,62,89,3.2,Kaybetti,250.0,-250.0,-353097.5
+2026-10-28,EuroCup,Europe,Siauliai,Maxima Roma,98,93,3.45,Kazandi,250.0,612.5,-352485.0
+2026-10-29,NBA,USA,Chicago Bulls,New York Knicks,127,133,3.1,Kaybetti,250.0,-250.0,-352735.0
+2026-10-29,Meksika LNBP,Mexico,Diablos Rojos del México,Astros de Jalisco,67,86,2.3,Kaybetti,250.0,-250.0,-352985.0
+2026-10-29,Brezilya NBB,Brazil,Sao Jose,Unifacisa,83,97,2.7,Kaybetti,250.0,-250.0,-353235.0
+2026-10-29,NBA,USA,New Orleans Pelicans,Denver Nuggets,91,104,2.64,Kaybetti,250.0,-250.0,-353485.0
+2026-10-29,Litvanya NKL,Lithuania,Alytaus Patriotai,Palangakursie,81,84,2.25,Kaybetti,250.0,-250.0,-353735.0
+2026-10-29,NBA,USA,Milwaukee Bucks,Houston Rockets,100,132,3.4,Kaybetti,250.0,-250.0,-353985.0
+2026-10-29,EuroCup Kadın,Europe,Keltern Women,Spar Girona Women,55,70,2.9,Kaybetti,250.0,-250.0,-354235.0
+2026-10-29,Brezilya NBB,Brazil,Paulistano Amil,Vivo Franca,65,62,2.7,Kazandi,250.0,425.0,-353810.0
+2026-10-29,NBA,USA,Dallas Mavericks,Oklahoma City Thunder,120,96,2.85,Kazandi,250.0,462.5,-353347.5
+2026-10-29,NBA,USA,Los Angeles Clippers,Los Angeles Lakers,87,103,2.65,Kaybetti,250.0,-250.0,-353597.5
+2026-10-29,Litvanya NKL,Lithuania,Kretinga,Jurbarko Jurbarkas-Karys,79,86,3.9,Kaybetti,250.0,-250.0,-353847.5
+2026-10-30,İspanya Primera FEB,Spain,CB Tizona,Lucentum Alicante,79,89,2.55,Kaybetti,250.0,-250.0,-354097.5
+2026-10-30,Almanya BBL,Germany,Jena,Skyliners Frankfurt,82,93,4.0,Kaybetti,250.0,-250.0,-354347.5
+2026-10-30,EuroLeague,Europe,Anadolu Efes Istanbul,Panathinaikos AKTOR B.C.,83,68,2.72,Kazandi,250.0,430.0,-353917.5
+2026-10-30,Finlandiya Korisliiga,Finland,Namika Lahti,Salon Vilpas,52,80,2.9,Kaybetti,250.0,-250.0,-354167.5
+2026-10-30,CBA,China,Guangzhou Loong Lions,Shanxi Loongs Fenjiu,93,113,3.4,Kaybetti,250.0,-250.0,-354417.5
+2026-10-30,CBA,China,Zhejiang Golden Bulls,Shanghai Jiushi Sharks,81,88,2.6,Kaybetti,250.0,-250.0,-354667.5
+2026-10-30,İtalya Serie A2,Italy,Urania Milano,Edilizia Moderna Rimini,71,85,3.0,Kaybetti,250.0,-250.0,-354917.5
+2026-10-30,Fransa Pro B,France,Fos Ouest,Saint-Chamond,74,63,3.25,Kazandi,250.0,562.5,-354355.0
+2026-10-30,İsrail Süper Ligi,Israel,Elitzur Ashkelon,Ironi Nahariya,109,104,2.85,Kazandi,250.0,462.5,-353892.5
+2026-10-30,Japonya B.League Premier,Japan,Shinshu Brave Warriors,Kyoto Hannaryz,80,72,2.72,Kazandi,250.0,430.0,-353462.5
+2026-10-30,İsrail Süper Ligi,Israel,Maccabi Raanana,Hapoel Haifa,82,75,2.25,Kazandi,250.0,312.5,-353150.0
+2026-10-30,ABA League,Europe,Basket Club Vienna,KK Bosna ASA BH TELECOM,81,88,2.55,Kaybetti,250.0,-250.0,-353400.0
+2026-10-30,CBA,China,Tianjin Pioneers,Zhejiang Guangsha Lions,92,95,3.1,Kaybetti,250.0,-250.0,-353650.0
+2026-10-31,Yunanistan Basket League,Greece,Iraklis B.C.,PAOK B.C.,53,63,3.3,Kaybetti,250.0,-250.0,-353900.0
+2026-10-31,Türkiye Süper Ligi (BSL),Turkey,Bordo BK,Bahcesehir Koleji,103,88,3.75,Kazandi,250.0,687.5,-353212.5
+2026-10-31,İsviçre SBL,Switzerland,Lugano Tigers,Lausanne Basket,73,91,3.7,Kaybetti,250.0,-250.0,-353462.5
+2026-10-31,Türkiye Süper Ligi (BSL),Turkey,Denizli Basket,Galatasaray MCT Technic,74,87,2.72,Kaybetti,250.0,-250.0,-353712.5
+2026-10-31,Yunanistan A2,Greece,Esperos,NE Megaridas,75,82,3.0,Kaybetti,250.0,-250.0,-353962.5
+2026-10-31,Estonya/Letonya Ligi,Estonia,BC Kalev Cramo,Rigas Zelli,87,93,3.4,Kaybetti,250.0,-250.0,-354212.5
+2026-10-31,Avustralya NBL,Australia,Cairns Taipans,Melbourne United,97,113,2.7,Kaybetti,250.0,-250.0,-354462.5
+2026-10-31,Litvanya NKL,Lithuania,Vytis,Telsiai,88,91,2.85,Kaybetti,250.0,-250.0,-354712.5
+2026-10-31,Danimarka Basketligaen,Denmark,Copenhagen,Svendborg Rabbits,98,103,2.55,Kaybetti,250.0,-250.0,-354962.5
+2026-10-31,İspanya Liga ACB,Spain,Basquet Coruna,Isla De Tenerife Canarias,93,89,2.55,Kazandi,250.0,387.5,-354575.0
+2026-10-31,Avustralya WNBL,Australia,Tasmania Jewels W,Sydney Flames Women,93,85,2.65,Kazandi,250.0,412.5,-354162.5
+2026-10-31,İtalya Serie A2,Italy,Gemini Mestre,New Basket Brindisi,70,63,2.7,Kazandi,250.0,425.0,-353737.5
+2026-10-31,Macaristan NB I/A,Hungary,PHOENIX-MT Fot,Szolnoki Olajbanyasz,63,68,2.65,Kaybetti,250.0,-250.0,-353987.5
+2026-10-31,NBA,USA,Utah Jazz,Portland Trail Blazers,90,112,2.95,Kaybetti,250.0,-250.0,-354237.5
+2026-10-31,Japonya B.League One,Japan,Aomori Wat's,Tachikawa Dice,84,100,2.25,Kaybetti,250.0,-250.0,-354487.5
+2026-10-31,Fransa LFB Kadın,France,Tronche Meylan Women,Charnay Bourgogne Sud Women,84,87,3.0,Kaybetti,250.0,-250.0,-354737.5
+2026-10-31,NBA,USA,Dallas Mavericks,Houston Rockets,116,111,2.45,Kazandi,250.0,362.5,-354375.0
+2026-10-31,Portekiz LPB,Portugal,Ovarense Aerosoles,Porto,78,76,2.7,Kazandi,250.0,425.0,-353950.0
+2026-10-31,Polonya 1. Lig,Poland,AZS Politechnika Opolska,Kotwica Kolobrzeg,84,90,3.2,Kaybetti,250.0,-250.0,-354200.0
+2026-10-31,Litvanya NKL,Lithuania,Rytas B,Alytaus Patriotai,91,101,2.65,Kaybetti,250.0,-250.0,-354450.0
+2026-10-31,Almanya BBL,Germany,Basketball Braunschweig,Würzburg,72,96,2.82,Kaybetti,250.0,-250.0,-354700.0
+2026-10-31,Macaristan NB I/A,Hungary,OSE Lions,Kaposvari KK,91,96,2.25,Kaybetti,250.0,-250.0,-354950.0
+2026-10-31,Türkiye TBL,Turkey,Ankaragucu Mamak,Royal Hali Gaziantep,62,71,2.5,Kaybetti,250.0,-250.0,-355200.0
+2026-10-31,Yunanistan Basket League,Greece,Vikos Falcons B.C.,AEK B.C.,95,84,3.1,Kazandi,250.0,525.0,-354675.0
+2026-10-31,NBA,USA,Brooklyn Nets,Detroit Pistons,94,110,3.55,Kaybetti,250.0,-250.0,-354925.0
+2026-10-31,Litvanya LKL,Lithuania,Jonava,U.Juventus,94,82,2.4,Kazandi,250.0,350.0,-354575.0
+2026-10-31,Romanya Liga Națională,Romania,Rapid Bucuresti,CSM Oradea,96,79,2.3,Kazandi,250.0,325.0,-354250.0
+2026-10-31,İspanya Primera FEB,Spain,Grupo Alega Cantabria,Palencia Baloncesto,73,85,2.3,Kaybetti,250.0,-250.0,-354500.0
+2026-10-31,Polonya Kadın Ligi,Poland,Energa Torun Women,Wroclaw Women's,62,67,2.3,Kaybetti,250.0,-250.0,-354750.0
+2026-10-31,Polonya PLK,Poland,Siden Torun,Stelmet Enea Bc Zielona Góra,87,71,2.6,Kazandi,250.0,400.0,-354350.0
+2026-10-31,Litvanya NKL,Lithuania,KK Baltai Kaunas,Mazeikiai,88,97,2.65,Kaybetti,250.0,-250.0,-354600.0
+2026-10-31,Slovenya Liga Nova KBM,Slovenia,Triglav Kranj,Hopsi Polzela,82,98,3.25,Kaybetti,250.0,-250.0,-354850.0
+2026-11-01,Japonya B.League One,Japan,Aomori Wat's,Tachikawa Dice,68,97,2.9,Kaybetti,250.0,-250.0,-355100.0
+2026-11-01,Almanya BBL,Germany,Rostock Seawolves,Bayern Munchen,69,67,4.0,Kazandi,250.0,750.0,-354350.0
+2026-11-01,Japonya B.League Premier,Japan,Shimane Susanoo Magic,Hiroshima Dragonflies,73,74,3.75,Kaybetti,250.0,-250.0,-354600.0
+2026-11-01,Estonya/Letonya Ligi,Estonia,KK Parnu,Valmiera,76,74,3.1,Kazandi,250.0,525.0,-354075.0
+2026-11-01,Japonya B.League Premier,Japan,Shinshu Brave Warriors,Kyoto Hannaryz,67,65,2.3,Kazandi,250.0,325.0,-353750.0
+2026-11-01,Portekiz LPB,Portugal,Esgueira,NB Queluz,93,104,2.3,Kaybetti,250.0,-250.0,-354000.0
+2026-11-01,Japonya B.League One,Japan,Gifu Swoops,Fukui Blowinds,78,80,2.5,Kaybetti,250.0,-250.0,-354250.0
+2026-11-01,Fransa LFB Kadın,France,Chartell Women,Basket Lattes Montpellier Women,58,70,2.7,Kaybetti,250.0,-250.0,-354500.0
+2026-11-01,Japonya B.League Premier,Japan,Kobe Storks,Nagasaki Velca,90,87,2.55,Kazandi,250.0,387.5,-354112.5
+2026-11-01,Japonya B.League Premier,Japan,Sendai 89ers,Tokyo Sunrockers,87,79,2.3,Kazandi,250.0,325.0,-353787.5
+2026-11-01,NBA,USA,New Orleans Pelicans,Atlanta Hawks,121,99,2.45,Kazandi,250.0,362.5,-353425.0
+2026-11-01,NBA,USA,Milwaukee Bucks,Cleveland Cavaliers,111,136,3.8,Kaybetti,250.0,-250.0,-353675.0
