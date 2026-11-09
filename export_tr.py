@@ -1,4 +1,4 @@
-﻿import sqlite3, pandas as pd, numpy as np
+import sqlite3, pandas as pd, numpy as np
 c = sqlite3.connect(r"D:\basketball_odds\data.sqlite3")
 df = pd.read_sql_query("""SELECT league, season, date, home, away, home_score, away_score,
                                  reg_home, reg_away, went_ot, o1, ox, o2, ml1, ml2, n_books
@@ -18,11 +18,11 @@ print("return", q.geri_donus.sum())
 out = pd.DataFrame({
     "Tarih": q.date, "Lig": q.league, "Sezon": q.season,
     "Ev Sahibi": q.home, "Deplasman": q.away,
-    "Normal SÃ¼re": q.reg_home.astype(int).astype(str) + "-" + q.reg_away.astype(int).astype(str),
-    "Uzatma": np.where(q.went_ot == 1, "Evet", "HayÄ±r"),
-    "1X2 SonuÃ§": q.sonuc, "MS SonuÃ§": q.ms,
+    "Normal Süre": q.reg_home.astype(int).astype(str) + "-" + q.reg_away.astype(int).astype(str),
+    "Uzatma": np.where(q.went_ot == 1, "Evet", "Hayır"),
+    "1X2 Sonuç": q.sonuc, "MS Sonuç": q.ms,
     "Oran 1": q.o1, "Oran X": q.ox, "Oran 2": q.o2,
-    "Bahis (TL)": q.bahis, "Geri DÃ¶nÃ¼ÅŸ (TL)": q.geri_donus.round(0), "KÃ¢r (TL)": q.kar.round(0),
+    "Bahis (TL)": q.bahis, "Geri Dönüş (TL)": q.geri_donus.round(0), "Kâr (TL)": q.kar.round(0),
     "Bookmaker": q.n_books,
 })
 out.to_csv(r"D:\basketball_odds\tum_filtreli_maclar_TL.csv", index=False, encoding="utf-8-sig")

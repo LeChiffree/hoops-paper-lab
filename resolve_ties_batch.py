@@ -1,4 +1,4 @@
-﻿"""334 unresolved_ot maÃ§Ä±nÄ± Flashscore takÄ±m arÅŸivinden toplu Ã§Ã¶z."""
+"""334 unresolved_ot maçını Flashscore takım arşivinden toplu çöz."""
 import os
 import re
 import sys

@@ -1,4 +1,4 @@
-﻿"""Dashboard veri seti: eski veri + 26/27 sezonu bayraÄŸÄ±, lig metrikleri."""
+"""Dashboard veri seti: eski veri + 26/27 sezonu bayrağı, lig metrikleri."""
 import json
 import os
 import numpy as np
@@ -68,8 +68,8 @@ for r in d.itertuples(index=False):
 
 reco = {
     "core": ["CBA"],
-    "support": ["Macaristan NB I/A", "Ä°zlanda Premier Lig"],
-    "watch": ["Estonya/Letonya Ligi", "Polonya 1. Lig", "Ä°talya Serie A (LBA)", "Arjantin Liga Nacional"],
+    "support": ["Macaristan NB I/A", "İzlanda Premier Lig"],
+    "watch": ["Estonya/Letonya Ligi", "Polonya 1. Lig", "İtalya Serie A (LBA)", "Arjantin Liga Nacional"],
 }
 
 payload = {"stake": STAKE, "cut": CUT, "leagues": meta, "matches": matches, "reco": reco}

@@ -1,4 +1,4 @@
-﻿"""AiScore vs Flashscore â€” aynÄ± 7 gÃ¼nÃ¼ eÅŸleÅŸtirip skor/orta hakem karÅŸÄ±laÅŸtÄ±rmasÄ±."""
+"""AiScore vs Flashscore — aynı 7 günü eşleştirip skor/orta hakem karşılaştırması."""
 import re
 import unicodedata
 from difflib import SequenceMatcher

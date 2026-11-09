@@ -1,4 +1,4 @@
-﻿"""Filtreli maÃ§ CSV'leri (eski veri + 26/27) ve lig Ã¶zeti."""
+"""Filtreli maç CSV'leri (eski veri + 26/27) ve lig özeti."""
 import os
 import pandas as pd
 from canonical import MAP
@@ -21,7 +21,7 @@ d["Tarih"] = pd.to_datetime(d.date.astype(str), format="%Y%m%d", errors="coerce"
 d = d.dropna(subset=["Tarih"]).sort_values(["Tarih", "match_id"]).reset_index(drop=True)
 d["s27"] = d.Tarih >= CUT
 
-# eÅŸik eski veriye gÃ¶re
+# eşik eski veriye göre
 old_counts = d[~d.s27].Lig.value_counts()
 keep = old_counts[old_counts >= 100].index
 d = d[d.Lig.isin(keep)].copy()

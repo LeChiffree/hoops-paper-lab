@@ -1,4 +1,4 @@
-﻿"""2 aylÄ±k periyotlardan 2'ÅŸer maÃ§lÄ±k yÃ¶n doÄŸrulama Ã¶rneklemi."""
+"""2 aylık periyotlardan 2'şer maçlık yön doğrulama örneklemi."""
 import pandas as pd
 import numpy as np
 
@@ -14,7 +14,7 @@ d["year"] = d.date.str[:4].astype(int)
 d["month"] = d.date.str[4:6].astype(int)
 d["period"] = d.year.astype(str) + "-" + (((d.month - 1) // 2) + 1).astype(str).str.zfill(2)
 
-# lig bÃ¼yÃ¼klÃ¼ÄŸÃ¼ (FS kapsamÄ± iÃ§in)
+# lig büyüklüğü (FS kapsamı için)
 lg_n = d.groupby("league").size()
 d["lg_n"] = d.league.map(lg_n)
 d = d[d.lg_n >= 100]
@@ -22,7 +22,7 @@ d = d[d.lg_n >= 100]
 rng = np.random.default_rng(42)
 rows = []
 for period, g in d.groupby("period"):
-    # Ã¼lke Ã§eÅŸitliliÄŸi: her Ã¼lkeden en fazla 1
+    # ülke çeşitliliği: her ülkeden en fazla 1
     picked = []
     countries = g.country.dropna().unique().tolist()
     rng.shuffle(countries)

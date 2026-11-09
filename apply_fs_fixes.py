@@ -1,4 +1,4 @@
-﻿"""Flashscore'dan bulunan uzatma skorlarÄ±nÄ± ana CSV'ye uygula."""
+"""Flashscore'dan bulunan uzatma skorlarını ana CSV'ye uygula."""
 import csv
 import os
 from difflib import SequenceMatcher
@@ -34,7 +34,7 @@ def main():
                 continue
             if h == a:
                 continue
-            # yÃ¶n kontrolÃ¼
+            # yön kontrolü
             if sim(r.fs_home, r.home) >= sim(r.fs_home, r.away):
                 pass
             else:

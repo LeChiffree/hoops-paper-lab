@@ -1,4 +1,4 @@
-﻿"""BÃ¼yÃ¼k CSV Ã¶zeti: yÄ±l, lig, kapsam."""
+"""Büyük CSV özeti: yıl, lig, kapsam."""
 import os
 import pandas as pd
 from collections import Counter

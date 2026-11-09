@@ -1,16 +1,16 @@
-# 2018â€“2026 YÄ±llÄ±k En Ä°yi 10 ROI Lig
+# 2018–2026 Yıllık En İyi 10 ROI Lig
 
-> **YÃ¶ntem:** Her takvim yÄ±lÄ± ayrÄ± deÄŸerlendirildi. Ev sahibi 1-2 kapanÄ±ÅŸ oranÄ± 2.25â€“4.00, bahis 250 TL sabit.
-> Lig sÄ±ralamasÄ±na yalnÄ±zca o yÄ±l **en az 30 bahis** almÄ±ÅŸ ligler girdi. 2026 verisi Ocakâ€“Temmuz aralÄ±ÄŸÄ±nÄ± kapsar (25/26 sezon sonu); 26/27 sezonu dahil deÄŸildir.
-> `t` = ROI / standart hata; 2+ gÃ¼Ã§lÃ¼, 1â€“2 destek, <1 zayÄ±f kanÄ±t.
+> **Yöntem:** Her takvim yılı ayrı değerlendirildi. Ev sahibi 1-2 kapanış oranı 2.25–4.00, bahis 250 TL sabit.
+> Lig sıralamasına yalnızca o yıl **en az 30 bahis** almış ligler girdi. 2026 verisi Ocak–Temmuz aralığını kapsar (25/26 sezon sonu); 26/27 sezonu dahil değildir.
+> `t` = ROI / standart hata; 2+ güçlü, 1–2 destek, <1 zayıf kanıt.
 
 ---
 
 ## 2018
 
-### 2018 â€” En Ä°yi 10 Lig
+### 2018 — En İyi 10 Lig
 
-| # | Lig | MaÃ§ | Kazanan | Kazanma | Ort. Oran | KÃ¢r | ROI | t |
+| # | Lig | Maç | Kazanan | Kazanma | Ort. Oran | Kâr | ROI | t |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Macaristan NB I/A | 35 | 17 | %48.6 | 2.85 | +3.525 TL | **%+40.29** | 1.60 |
 | 2 | İspanya Primera FEB | 39 | 18 | %46.2 | 2.82 | +2.812 TL | **%+28.85** | 1.25 |
@@ -23,25 +23,25 @@
 | 9 | Arjantin Liga Nacional | 35 | 14 | %40.0 | 2.81 | +650 TL | **%+7.43** | 0.32 |
 | 10 | Türkiye TBL | 42 | 16 | %38.1 | 2.91 | +612 TL | **%+5.83** | 0.27 |
 
-### 2018 â€” YÄ±llÄ±k Ã–zet
+### 2018 — Yıllık Özet
 
 | Metrik | DeÄŸer |
 |---|---:|
 | Toplam bahis | 3.125 |
-| Toplam kÃ¢r / zarar | -53.988 TL |
-| YÄ±l geneli ROI | **%-6.91** |
-| Kazanma oranÄ± / baÅŸabaÅŸ | %33.4 / %35.6 |
-| Pozitif / negatif lig (nâ‰¥30) | 14 / 25 |
-| En iyi lig | Macaristan NB I/A (%+40.3, 35 maÃ§) |
-| Top 10 toplam kÃ¢rÄ± | +18.702 TL |
+| Toplam kâr / zarar | -53.988 TL |
+| Yıl geneli ROI | **%-6.91** |
+| Kazanma oranı / başabaş | %33.4 / %35.6 |
+| Pozitif / negatif lig (n≥30) | 14 / 25 |
+| En iyi lig | Macaristan NB I/A (%+40.3, 35 maç) |
+| Top 10 toplam kârı | +18.702 TL |
 
 ---
 
 ## 2019
 
-### 2019 â€” En Ä°yi 10 Lig
+### 2019 — En İyi 10 Lig
 
-| # | Lig | MaÃ§ | Kazanan | Kazanma | Ort. Oran | KÃ¢r | ROI | t |
+| # | Lig | Maç | Kazanan | Kazanma | Ort. Oran | Kâr | ROI | t |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Çekya NBL | 39 | 20 | %51.3 | 2.87 | +4.788 TL | **%+49.10** | 2.02 |
 | 2 | Estonya/Letonya Ligi | 33 | 17 | %51.5 | 2.92 | +3.638 TL | **%+44.09** | 1.73 |
@@ -54,25 +54,25 @@
 | 9 | EuroLeague | 52 | 21 | %40.4 | 2.90 | +1.875 TL | **%+14.42** | 0.73 |
 | 10 | İtalya Serie A Kadın | 31 | 11 | %35.5 | 3.13 | +912 TL | **%+11.77** | 0.42 |
 
-### 2019 â€” YÄ±llÄ±k Ã–zet
+### 2019 — Yıllık Özet
 
 | Metrik | DeÄŸer |
 |---|---:|
 | Toplam bahis | 3.494 |
-| Toplam kÃ¢r / zarar | +6.425 TL |
-| YÄ±l geneli ROI | **%+0.74** |
-| Kazanma oranÄ± / baÅŸabaÅŸ | %35.9 / %35.8 |
-| Pozitif / negatif lig (nâ‰¥30) | 22 / 19 |
-| En iyi lig | Çekya NBL (%+49.1, 39 maÃ§) |
-| Top 10 toplam kÃ¢rÄ± | +33.138 TL |
+| Toplam kâr / zarar | +6.425 TL |
+| Yıl geneli ROI | **%+0.74** |
+| Kazanma oranı / başabaş | %35.9 / %35.8 |
+| Pozitif / negatif lig (n≥30) | 22 / 19 |
+| En iyi lig | Çekya NBL (%+49.1, 39 maç) |
+| Top 10 toplam kârı | +33.138 TL |
 
 ---
 
 ## 2020
 
-### 2020 â€” En Ä°yi 10 Lig
+### 2020 — En İyi 10 Lig
 
-| # | Lig | MaÃ§ | Kazanan | Kazanma | Ort. Oran | KÃ¢r | ROI | t |
+| # | Lig | Maç | Kazanan | Kazanma | Ort. Oran | Kâr | ROI | t |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Polonya 1. Lig | 38 | 18 | %47.4 | 2.88 | +3.500 TL | **%+36.84** | 1.52 |
 | 2 | CBA | 92 | 43 | %46.7 | 2.99 | +8.212 TL | **%+35.71** | 2.29 |
@@ -85,25 +85,25 @@
 | 9 | İtalya Serie A2 | 35 | 14 | %40.0 | 2.85 | +1.088 TL | **%+12.43** | 0.52 |
 | 10 | NCAA Kadın | 262 | 98 | %37.4 | 2.97 | +6.400 TL | **%+9.77** | 1.08 |
 
-### 2020 â€” YÄ±llÄ±k Ã–zet
+### 2020 — Yıllık Özet
 
 | Metrik | DeÄŸer |
 |---|---:|
 | Toplam bahis | 2.748 |
-| Toplam kÃ¢r / zarar | -1.852 TL |
-| YÄ±l geneli ROI | **%-0.27** |
-| Kazanma oranÄ± / baÅŸabaÅŸ | %35.4 / %35.6 |
-| Pozitif / negatif lig (nâ‰¥30) | 15 / 10 |
-| En iyi lig | Polonya 1. Lig (%+36.8, 38 maÃ§) |
-| Top 10 toplam kÃ¢rÄ± | +31.338 TL |
+| Toplam kâr / zarar | -1.852 TL |
+| Yıl geneli ROI | **%-0.27** |
+| Kazanma oranı / başabaş | %35.4 / %35.6 |
+| Pozitif / negatif lig (n≥30) | 15 / 10 |
+| En iyi lig | Polonya 1. Lig (%+36.8, 38 maç) |
+| Top 10 toplam kârı | +31.338 TL |
 
 ---
 
 ## 2021
 
-### 2021 â€” En Ä°yi 10 Lig
+### 2021 — En İyi 10 Lig
 
-| # | Lig | MaÃ§ | Kazanan | Kazanma | Ort. Oran | KÃ¢r | ROI | t |
+| # | Lig | Maç | Kazanan | Kazanma | Ort. Oran | Kâr | ROI | t |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | Fransa LFB Kadın | 36 | 16 | %44.4 | 3.01 | +3.162 TL | **%+35.14** | 1.33 |
 | 2 | CBA | 98 | 47 | %48.0 | 2.83 | +8.550 TL | **%+34.90** | 2.39 |
@@ -116,25 +116,25 @@
 | 9 | Fransa Pro A | 84 | 36 | %42.9 | 2.87 | +4.688 TL | **%+22.32** | 1.42 |
 | 10 | Macaristan NB I/A | 43 | 19 | %44.2 | 2.71 | +2.312 TL | **%+21.51** | 0.99 |
 
-### 2021 â€” YÄ±llÄ±k Ã–zet
+### 2021 — Yıllık Özet
 
 | Metrik | DeÄŸer |
 |---|---:|
 | Toplam bahis | 4.432 |
-| Toplam kÃ¢r / zarar | +57.372 TL |
-| YÄ±l geneli ROI | **%+5.18** |
-| Kazanma oranÄ± / baÅŸabaÅŸ | %37.4 / %35.6 |
-| Pozitif / negatif lig (nâ‰¥30) | 28 / 15 |
-| En iyi lig | Fransa LFB Kadın (%+35.1, 36 maÃ§) |
-| Top 10 toplam kÃ¢rÄ± | +37.505 TL |
+| Toplam kâr / zarar | +57.372 TL |
+| Yıl geneli ROI | **%+5.18** |
+| Kazanma oranı / başabaş | %37.4 / %35.6 |
+| Pozitif / negatif lig (n≥30) | 28 / 15 |
+| En iyi lig | Fransa LFB Kadın (%+35.1, 36 maç) |
+| Top 10 toplam kârı | +37.505 TL |
 
 ---
 
 ## 2022
 
-### 2022 â€” En Ä°yi 10 Lig
+### 2022 — En İyi 10 Lig
 
-| # | Lig | MaÃ§ | Kazanan | Kazanma | Ort. Oran | KÃ¢r | ROI | t |
+| # | Lig | Maç | Kazanan | Kazanma | Ort. Oran | Kâr | ROI | t |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | CBA | 85 | 40 | %47.1 | 2.95 | +8.575 TL | **%+40.35** | 2.43 |
 | 2 | İspanya Liga Femenina | 44 | 20 | %45.5 | 2.90 | +3.338 TL | **%+30.34** | 1.35 |
@@ -147,25 +147,25 @@
 | 9 | İspanya Primera FEB | 58 | 22 | %37.9 | 2.90 | +1.900 TL | **%+13.10** | 0.67 |
 | 10 | Polonya 1. Lig | 35 | 15 | %42.9 | 2.71 | +912 TL | **%+10.43** | 0.47 |
 
-### 2022 â€” YÄ±llÄ±k Ã–zet
+### 2022 — Yıllık Özet
 
 | Metrik | DeÄŸer |
 |---|---:|
 | Toplam bahis | 4.982 |
-| Toplam kÃ¢r / zarar | -29.658 TL |
-| YÄ±l geneli ROI | **%-2.38** |
-| Kazanma oranÄ± / baÅŸabaÅŸ | %35.0 / %35.8 |
-| Pozitif / negatif lig (nâ‰¥30) | 20 / 25 |
-| En iyi lig | CBA (%+40.4, 85 maÃ§) |
-| Top 10 toplam kÃ¢rÄ± | +28.918 TL |
+| Toplam kâr / zarar | -29.658 TL |
+| Yıl geneli ROI | **%-2.38** |
+| Kazanma oranı / başabaş | %35.0 / %35.8 |
+| Pozitif / negatif lig (n≥30) | 20 / 25 |
+| En iyi lig | CBA (%+40.4, 85 maç) |
+| Top 10 toplam kârı | +28.918 TL |
 
 ---
 
 ## 2023
 
-### 2023 â€” En Ä°yi 10 Lig
+### 2023 — En İyi 10 Lig
 
-| # | Lig | MaÃ§ | Kazanan | Kazanma | Ort. Oran | KÃ¢r | ROI | t |
+| # | Lig | Maç | Kazanan | Kazanma | Ort. Oran | Kâr | ROI | t |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | CBA | 98 | 48 | %49.0 | 2.95 | +9.825 TL | **%+40.10** | 2.71 |
 | 2 | Fransa Pro A | 65 | 31 | %47.7 | 2.90 | +5.892 TL | **%+36.26** | 1.97 |
@@ -178,25 +178,25 @@
 | 9 | İtalya Serie A (LBA) | 42 | 17 | %40.5 | 2.77 | +1.362 TL | **%+12.98** | 0.60 |
 | 10 | Türkiye Süper Ligi (BSL) | 61 | 24 | %39.3 | 2.98 | +1.825 TL | **%+11.97** | 0.65 |
 
-### 2023 â€” YÄ±llÄ±k Ã–zet
+### 2023 — Yıllık Özet
 
 | Metrik | DeÄŸer |
 |---|---:|
 | Toplam bahis | 4.864 |
-| Toplam kÃ¢r / zarar | -68.292 TL |
-| YÄ±l geneli ROI | **%-5.62** |
-| Kazanma oranÄ± / baÅŸabaÅŸ | %33.8 / %35.9 |
-| Pozitif / negatif lig (nâ‰¥30) | 17 / 29 |
-| En iyi lig | CBA (%+40.1, 98 maÃ§) |
-| Top 10 toplam kÃ¢rÄ± | +29.630 TL |
+| Toplam kâr / zarar | -68.292 TL |
+| Yıl geneli ROI | **%-5.62** |
+| Kazanma oranı / başabaş | %33.8 / %35.9 |
+| Pozitif / negatif lig (n≥30) | 17 / 29 |
+| En iyi lig | CBA (%+40.1, 98 maç) |
+| Top 10 toplam kârı | +29.630 TL |
 
 ---
 
 ## 2024
 
-### 2024 â€” En Ä°yi 10 Lig
+### 2024 — En İyi 10 Lig
 
-| # | Lig | MaÃ§ | Kazanan | Kazanma | Ort. Oran | KÃ¢r | ROI | t |
+| # | Lig | Maç | Kazanan | Kazanma | Ort. Oran | Kâr | ROI | t |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | İtalya Serie A2 | 74 | 37 | %50.0 | 2.87 | +7.388 TL | **%+39.93** | 2.39 |
 | 2 | EuroLeague | 51 | 26 | %51.0 | 2.79 | +4.862 TL | **%+38.14** | 1.96 |
@@ -209,25 +209,25 @@
 | 9 | İspanya Liga Femenina | 47 | 20 | %42.6 | 2.93 | +2.512 TL | **%+21.38** | 1.01 |
 | 10 | Almanya BBL | 50 | 20 | %40.0 | 2.85 | +2.475 TL | **%+19.80** | 0.92 |
 
-### 2024 â€” YÄ±llÄ±k Ã–zet
+### 2024 — Yıllık Özet
 
 | Metrik | DeÄŸer |
 |---|---:|
 | Toplam bahis | 3.747 |
-| Toplam kÃ¢r / zarar | -23.325 TL |
-| YÄ±l geneli ROI | **%-2.49** |
-| Kazanma oranÄ± / baÅŸabaÅŸ | %34.9 / %35.8 |
-| Pozitif / negatif lig (nâ‰¥30) | 20 / 26 |
-| En iyi lig | İtalya Serie A2 (%+39.9, 74 maÃ§) |
-| Top 10 toplam kÃ¢rÄ± | +36.975 TL |
+| Toplam kâr / zarar | -23.325 TL |
+| Yıl geneli ROI | **%-2.49** |
+| Kazanma oranı / başabaş | %34.9 / %35.8 |
+| Pozitif / negatif lig (n≥30) | 20 / 26 |
+| En iyi lig | İtalya Serie A2 (%+39.9, 74 maç) |
+| Top 10 toplam kârı | +36.975 TL |
 
 ---
 
 ## 2025
 
-### 2025 â€” En Ä°yi 10 Lig
+### 2025 — En İyi 10 Lig
 
-| # | Lig | MaÃ§ | Kazanan | Kazanma | Ort. Oran | KÃ¢r | ROI | t |
+| # | Lig | Maç | Kazanan | Kazanma | Ort. Oran | Kâr | ROI | t |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | CBA | 52 | 24 | %46.2 | 2.91 | +3.700 TL | **%+28.46** | 1.43 |
 | 2 | Macaristan NB I/A | 45 | 20 | %44.4 | 2.83 | +3.200 TL | **%+28.44** | 1.28 |
@@ -240,25 +240,25 @@
 | 9 | NCAA Kadın | 142 | 52 | %36.6 | 2.87 | +2.225 TL | **%+6.27** | 0.52 |
 | 10 | Yunanistan A2 | 102 | 39 | %38.2 | 2.89 | +1.538 TL | **%+6.03** | 0.44 |
 
-### 2025 â€” YÄ±llÄ±k Ã–zet
+### 2025 — Yıllık Özet
 
 | Metrik | DeÄŸer |
 |---|---:|
 | Toplam bahis | 4.045 |
-| Toplam kÃ¢r / zarar | -97.775 TL |
-| YÄ±l geneli ROI | **%-9.67** |
-| Kazanma oranÄ± / baÅŸabaÅŸ | %32.5 / %35.9 |
-| Pozitif / negatif lig (nâ‰¥30) | 17 / 28 |
-| En iyi lig | CBA (%+28.5, 52 maÃ§) |
-| Top 10 toplam kÃ¢rÄ± | +20.275 TL |
+| Toplam kâr / zarar | -97.775 TL |
+| Yıl geneli ROI | **%-9.67** |
+| Kazanma oranı / başabaş | %32.5 / %35.9 |
+| Pozitif / negatif lig (n≥30) | 17 / 28 |
+| En iyi lig | CBA (%+28.5, 52 maç) |
+| Top 10 toplam kârı | +20.275 TL |
 
 ---
 
-## 2026 *(kÄ±smi yÄ±l: Ocaâ€“Tem)*
+## 2026 *(kısmi yıl: Oca–Tem)*
 
-### 2026 â€” En Ä°yi 10 Lig
+### 2026 — En İyi 10 Lig
 
-| # | Lig | MaÃ§ | Kazanan | Kazanma | Ort. Oran | KÃ¢r | ROI | t |
+| # | Lig | Maç | Kazanan | Kazanma | Ort. Oran | Kâr | ROI | t |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | CBA | 73 | 33 | %45.2 | 2.95 | +6.662 TL | **%+36.51** | 2.02 |
 | 2 | Yunanistan A2 | 55 | 22 | %40.0 | 3.02 | +3.125 TL | **%+22.73** | 1.08 |
@@ -271,25 +271,25 @@
 | 9 | NCAA Kadın | 105 | 38 | %36.2 | 2.97 | +1.615 TL | **%+6.15** | 0.44 |
 | 10 | Arjantin Liga Nacional | 77 | 31 | %40.3 | 2.74 | +1.138 TL | **%+5.91** | 0.40 |
 
-### 2026 â€” YÄ±llÄ±k Ã–zet
+### 2026 — Yıllık Özet
 
 | Metrik | DeÄŸer |
 |---|---:|
 | Toplam bahis | 2.350 |
-| Toplam kÃ¢r / zarar | -8.110 TL |
-| YÄ±l geneli ROI | **%-1.38** |
-| Kazanma oranÄ± / baÅŸabaÅŸ | %35.1 / %35.7 |
-| Pozitif / negatif lig (nâ‰¥30) | 11 / 10 |
-| En iyi lig | CBA (%+36.5, 73 maÃ§) |
-| Top 10 toplam kÃ¢rÄ± | +20.272 TL |
+| Toplam kâr / zarar | -8.110 TL |
+| Yıl geneli ROI | **%-1.38** |
+| Kazanma oranı / başabaş | %35.1 / %35.7 |
+| Pozitif / negatif lig (n≥30) | 11 / 10 |
+| En iyi lig | CBA (%+36.5, 73 maç) |
+| Top 10 toplam kârı | +20.272 TL |
 
 ---
 
-## YÄ±llar ArasÄ± Tekrar
+## Yıllar Arası Tekrar
 
-En iyi 10'a en Ã§ok giren ligler (2018â€“2026):
+En iyi 10'a en çok giren ligler (2018–2026):
 
-| Lig | KaÃ§ yÄ±l top 10 |
+| Lig | Kaç yıl top 10 |
 |---|---:|
 | CBA | 8 |
 | EuroLeague | 4 |
@@ -306,4 +306,4 @@ En iyi 10'a en Ã§ok giren ligler (2018â€“2026):
 
 ---
 
-*Not: YÄ±llÄ±k sÄ±ralamalar geriye dÃ¶nÃ¼k seÃ§imdir; yÃ¼ksek ROI'li kÃ¼Ã§Ã¼k Ã¶rneklemler (30â€“100 bahis) yanÄ±ltÄ±cÄ± olabilir. SÃ¼rdÃ¼rÃ¼lebilirlik iÃ§in t-deÄŸeri ve sezon tekrarÄ±na bakÄ±lmalÄ±dÄ±r.*
+*Not: Yıllık sıralamalar geriye dönük seçimdir; yüksek ROI'li küçük örneklemler (30–100 bahis) yanıltıcı olabilir. Sürdürülebilirlik için t-değeri ve sezon tekrarına bakılmalıdır.*

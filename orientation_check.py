@@ -1,4 +1,4 @@
-﻿"""Ã–rneklemde ev/deplasman yÃ¶nÃ¼ + skor + oran doÄŸrulamasÄ± (Flashscore)."""
+"""Örneklemde ev/deplasman yönü + skor + oran doğrulaması (Flashscore)."""
 import os
 import re
 import statistics

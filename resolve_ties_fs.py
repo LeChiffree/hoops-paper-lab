@@ -1,4 +1,4 @@
-﻿"""AiScore unresolved_ot maÃ§larÄ±nÄ± Flashscore takÄ±m arÅŸivinden Ã§Ã¶z."""
+"""AiScore unresolved_ot maçlarını Flashscore takım arşivinden çöz."""
 import sys, re, unicodedata, time
 import pandas as pd
 from difflib import SequenceMatcher
@@ -55,7 +55,7 @@ def resolve(row, cache, max_pages=8):
                     an = (m.get("away") or {}).get("name")
                     if (sim(hn, home) + sim(an, away)) / 2 >= 0.55:
                         return m.get("home_score"), m.get("away_score"), hn, an, tid
-                # sayfa tarih aralÄ±ÄŸÄ±nÄ± geÃ§tiyse dur
+                # sayfa tarih aralığını geçtiyse dur
                 if dates and min(dates) < date and max(dates) < date:
                     break
         except Exception:

@@ -1,4 +1,4 @@
-﻿"""AiScore berabere gÃ¶rÃ¼nen maÃ§larÄ± /match/data ile dÃ¼zelt."""
+"""AiScore berabere görünen maçları /match/data ile düzelt."""
 import glob
 import os
 import re
@@ -67,7 +67,7 @@ still_tie = merged[(merged.fix_home == merged.fix_away) | merged.fix_home.isna()
 print("still tie / no detail:", len(still_tie))
 print("OT periods found (5+):", int((merged.periods_home >= 5).sum()))
 
-# tÃ¼m maÃ§ tablosuna uygula
+# tüm maç tablosuna uygula
 ai2 = ai.merge(fix, on="match_id", how="left")
 mask = ai2.fix_home.notna()
 ai2.loc[mask, "home_score"] = ai2.loc[mask, "fix_home"]
@@ -82,12 +82,12 @@ for r in merged.head(12).itertuples(index=False):
     print(f"  {r.date} {r.home[:24]:24s} vs {r.away[:24]:24s} | list {int(r.home_score)}-{int(r.away_score)} "
           f"-> detail {r.fix_home}-{r.fix_away} | periods {r.periods_home}")
 
-# Flashscore karÅŸÄ±laÅŸtÄ±rmasÄ±
+# Flashscore karşılaştırması
 cc = pd.read_csv(os.path.join(BASE, "crosscheck_matches.csv"))
 cc = cc[cc.issue == "ot_missing"] if "issue" in cc.columns else cc
 m = merged.merge(cc[["ai_id", "score_fs"]], left_on="match_id", right_on="ai_id", how="inner")
 m["fixed_score"] = m.fix_home.astype("Int64").astype(str) + "-" + m.fix_away.astype("Int64").astype(str)
-print("\nFlashscore ile karÅŸÄ±laÅŸtÄ±rma (OT vakalarÄ±):", len(m))
+print("\nFlashscore ile karşılaştırma (OT vakaları):", len(m))
 print("birebir tutan:", int((m.fixed_score == m.score_fs).sum()), "/", len(m))
 for r in m[m.fixed_score != m.score_fs].itertuples(index=False):
     print("  fark:", r.home, r.away, "fixed", r.fixed_score, "FS", r.score_fs)

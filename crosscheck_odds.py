@@ -1,4 +1,4 @@
-﻿"""Matched Ã§iftler iÃ§in Flashscore moneyline oranÄ±nÄ± Ã§ek, AiScore ile karÅŸÄ±laÅŸtÄ±r."""
+"""Matched çiftler için Flashscore moneyline oranını çek, AiScore ile karşılaştır."""
 import sys, statistics
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
